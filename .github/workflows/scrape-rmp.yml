@@ -1,0 +1,85 @@
+name: Update Professor Ratings
+
+on:
+  schedule:
+    # First of every month at 8am UTC
+    - cron: '0 8 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  scrape-rmp:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: scraper/requirements.txt
+
+      - name: Install scraper dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Run RMP scraper
+        run: |
+          cd scraper
+          python run_rmp_only.py 2>&1 | tee /tmp/rmp_output.txt
+
+      - name: Commit updated professors.json
+        id: commit
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/professors.json
+          if git diff --cached --quiet; then
+            echo "No changes to professor data."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "chore: update professor ratings $(date -u +'%Y-%m-%d')"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Trigger site redeploy
+        if: steps.commit.outputs.changed == 'true'
+        run: gh workflow run deploy.yml --ref main
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Open failure issue
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            let logs = '';
+            try {
+              logs = fs.readFileSync('/tmp/rmp_output.txt', 'utf8').slice(-8000);
+            } catch (e) {
+              logs = 'Log file not available.';
+            }
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: 'RMP scraper failed — manual review needed',
+              body: [
+                `**Workflow run:** [${context.runId}](https://github.com/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId})`,
+                `**Triggered by:** ${context.eventName}`,
+                '',
+                '## Error logs (last 8k chars)',
+                '```',
+                logs,
+                '```',
+              ].join('\n'),
+              labels: ['bug', 'automated'],
+            });

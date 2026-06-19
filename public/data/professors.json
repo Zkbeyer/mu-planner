@@ -1,3 +1,4096 @@
-[
-  
-]
+{
+  "Abdelnasser Ouda": {
+    "name": "Abdelnasser Ouda",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "2951621",
+    "avgRating": 2.5,
+    "avgDifficulty": 3.8,
+    "wouldTakeAgainPct": 37,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2951621",
+    "comments": [
+      {
+        "date": "Apr 28, 2026",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Amazing professor!!",
+        "courseName": "CMPSC3330"
+      },
+      {
+        "date": "Mar 10, 2026",
+        "rating": 2.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Dr. Ouda is good for CS 3330 and 4050, but I recommend taking 4320 with JimR (fall semesters). His teaching style is pretty good and the assignments are reasonable in theory, but the TAs are incredibly nit-picky on the grading of assignments. The exams test memorization of the slides, so literally memorize everything he says is important.",
+        "courseName": "CMPSC4320"
+      },
+      {
+        "date": "Jan 22, 2026",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Ouda is one of the most overhated profs in the CS department. He is very well organized, with lots of detailed slides that lay out the content very well. He gets excited any time someone has a question in class. He's a tough grader for attention to detail on homework. Tests follow examples from the slides and require that you write code by hand.",
+        "courseName": "CMPSC3330"
+      },
+      {
+        "date": "Dec 09, 2025",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Good Luck. You can't understand what he is saying half the time, he covers hundreds of slides and then doesn't post the examples that are test relevant. Does not test over understanding of a topic, but your ability to copy and paste code from his slides. Then gets mad at the class for performing poorly instead of taking any of the fault.",
+        "courseName": "CMPSC4050"
+      },
+      {
+        "date": "Dec 02, 2025",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Dr. Ouda is a pretty good teacher for OOP. This is the first CS class where I've been able to understand all the content really easily and score high scores on all the quizzes and exams. My only complaint is his TAs grade pretty harshly for things that are not significant such as messing up a print statement. Other than that this was a good class.",
+        "courseName": "CMPSC3330"
+      },
+      {
+        "date": "Nov 18, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "The group assignments were graded harshly, made worse by the fact that no one ever explained how we were supposed to complete them. He insists the class &#8220;isn't based on memorization,&#8221; yet every exam demands exactly that. Honestly, there are far too many issues to list here. I do NOT have a grasp on software development practices after attending.",
+        "courseName": "CMPSC4320"
+      },
+      {
+        "date": "Nov 14, 2025",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Dd not grade based on any rubric for a single assignment, and scoring was never transparent. In fact, ta made several mistakes on different assignments and exams/quizzes.",
+        "courseName": "CMPSC8050"
+      },
+      {
+        "date": "Jul 11, 2025",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "The class, being a 3-credit course, should be a crime itself with the amount of workload in his SWE class.",
+        "courseName": "CMPSC4320"
+      }
+    ]
+  },
+  "Andrea Christine Pawliczek": {
+    "name": "Andrea Christine Pawliczek",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Andrew Robert Buck": {
+    "name": "Andrew Robert Buck",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Anjaneyaprasad Calyam": {
+    "name": "Anjaneyaprasad Calyam",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Anna Magdalena Rose": {
+    "name": "Anna Magdalena Rose",
+    "rmpSearched": true,
+    "department": "Journalism",
+    "rmpId": "1056282",
+    "avgRating": 3.2,
+    "avgDifficulty": 4.3,
+    "wouldTakeAgainPct": 50,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1056282",
+    "comments": [
+      {
+        "date": "May 24, 2019",
+        "rating": 4.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "J2100 is a lot of work, and Prof. Romero is a very strict grader. AP Style understanding is a must PRIOR to taking the course - they don't teach it before you are graded on it. Instructions were clear, but grading criteria is unnecessarily harsh.",
+        "courseName": "J2100H"
+      },
+      {
+        "date": "Aug 19, 2018",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "I loved Romero. Yes, her grading was hard but she mirrors the real journalism world. I got 100% on 2 major projects. You just have to work your @$$ off and you'll be fine. She taught me so much and her grading helped me be way better prepared for other classes.",
+        "courseName": "J2100LAB"
+      },
+      {
+        "date": "Sep 25, 2017",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Romero was okay. She had fair grading, but it was pretty harsh. You can easily lose up to half your points off an assignment due to AP style errors or deadlines. Even though AP style errors are not tolerated in the journalism field, I did think it the grading criteria was a bit exaggerated in the beginning of the course.",
+        "courseName": "J2100LAB"
+      },
+      {
+        "date": "Dec 08, 2016",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "She definitely is a tough grader in the beginning of the semester. But once you get to know her she gives good feedback and wants you to better your writing style. Cannot miss lab at all. Most writing is done outside of class. She is a big fan of peer editing papers and will sometimes give out 2 bonus points for doing so.",
+        "courseName": "J2100LAB"
+      },
+      {
+        "date": "Mar 15, 2016",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "She is a very tough grader, be prepared to think you are not a good writer. She will tell you how she feels, too. DO NOT take her unless you are thick-skinned. Be prepared to read all of the materials. She has a bad side, don't get on it because you will not pass.  Make sure you know AP style because she makes it to where it is make or break you.",
+        "courseName": "J2100LAB"
+      },
+      {
+        "date": "Dec 13, 2015",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "She is one of the toughest graders I have ever had. She is nit picky about every little detail. She is available for her office hours, but if you can't make them, don't expect to get much help outside of class. If you have never taken a real journalism class like me, I would try to avoid her.",
+        "courseName": "JOURN2100"
+      },
+      {
+        "date": "May 01, 2015",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "If you take J2100 Lab with Anna, you need to realize from the very beginning that the class won't be about whether or not you're a good writer, all she cares about is AP Style errors.  You're better off writing moderately well with basic facts and minor details but perfect styling than writing a nobel prize winning story with a few AP errors. Ehhhh",
+        "courseName": "J2100"
+      },
+      {
+        "date": "Dec 08, 2014",
+        "rating": 2.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Talented woman, but condescending and not that helpful. If you do well on AP style, odds are you'll get a good grade.",
+        "courseName": "J2100LAB"
+      }
+    ]
+  },
+  "Balal Hossain": {
+    "name": "Balal Hossain",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "3148187",
+    "avgRating": 5,
+    "avgDifficulty": 2.5,
+    "wouldTakeAgainPct": 100,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/3148187",
+    "comments": [
+      {
+        "date": "Dec 09, 2025",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "This class is tough. The homework takes forever and the exams are difficult, but the prof gives us lots of tools to prepare us. He asks for feedback all the time and obviously wants us to do well. He's a good guy",
+        "courseName": "ACCTCY2010"
+      },
+      {
+        "date": "Dec 09, 2025",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Balal is an awesome professor and so clearly cares about his students! He's very understanding and willing to meet students where they're at. As a non-major, accounting is not my thing, but I would highly recommend taking his class. He's happy to set up one on ones to help you understand better and gives opportunities for extra credit too!",
+        "courseName": "ACCTCY2010"
+      }
+    ]
+  },
+  "Bethany Courson": {
+    "name": "Bethany Courson",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "3033174",
+    "avgRating": 3,
+    "avgDifficulty": 2,
+    "wouldTakeAgainPct": 100,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/3033174",
+    "comments": [
+      {
+        "date": "Dec 29, 2024",
+        "rating": 3.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Very personable and approachable. Mandatory class, consists of slides and a group activity. Tedious/annoying to do activities when we go over everything together at the end. Comp check every two weeks which is the most annoying part of this course. &#8220;Open note&#8221; but uses lockdown browser and answers aren't in the textbook or hardly ever the notes.",
+        "courseName": "ACCTCY4384"
+      }
+    ]
+  },
+  "Billie M Cunningham": {
+    "name": "Billie M Cunningham",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "158368",
+    "avgRating": 4,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPct": 50,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/158368",
+    "comments": [
+      {
+        "date": "May 13, 2017",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "One of the best professors I have ever had.  Lectures are very thorough and highly interactive. Expectations are clear, and will never throw a curve ball. As long as you attend lecture and lab, you will do just fine.",
+        "courseName": "ACCT2036"
+      },
+      {
+        "date": "Apr 20, 2017",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "She is so nice, she makes lecture super interactive which is great, prepare to show up because there are opportunities for points randomly throughout lecture. Such a sweet woman, wish I had her next semester.",
+        "courseName": "ACC2036"
+      },
+      {
+        "date": "Jan 19, 2017",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Going to labs and lectures is the only way you will pass!",
+        "courseName": "ACTCY2036"
+      },
+      {
+        "date": "Jan 03, 2017",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "You really don't learn much from the lectures so once you get your clicker points you don't have to go. Just make sure you know how to do the homework and look at the sample exams and you'll be fine for the exams.",
+        "courseName": "ACC2036"
+      },
+      {
+        "date": "May 05, 2016",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Lectures are awful but lab is actually useful. I learned everything in lab and basically taught myself the rest. Easy to learn though.  She tries to teach during lecture but I did not learn a single thing in it.",
+        "courseName": "ACC2036"
+      },
+      {
+        "date": "Apr 22, 2016",
+        "rating": 3.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "Billie's class was great. Her exams are almost directly from the material learned in class. Go to lecture, go to lab and you'll be fine. Mostly just basic math. She does take attendance so go to lecture to get easy points.",
+        "courseName": "ACCTCY2036"
+      },
+      {
+        "date": "Jan 13, 2016",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": false,
+        "text": "Pretty easy just go to lab and lecture and you will do fine",
+        "courseName": "ACC2036"
+      },
+      {
+        "date": "Dec 16, 2015",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Billie loves her class and her topic, but the class itself sucks.  The TA's save your grade during lab as that's where I learned most of the content.  Tests are 90% of your grade and there are only three so they are not exceptionally hard, but screw up once and there goes your A.",
+        "courseName": "ACC2036"
+      }
+    ]
+  },
+  "Bruce Wayne Runyan": {
+    "name": "Bruce Wayne Runyan",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "2712280",
+    "avgRating": 2.5,
+    "avgDifficulty": 4,
+    "wouldTakeAgainPct": 35,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2712280",
+    "comments": [
+      {
+        "date": "May 03, 2026",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "I have never disliked a teacher more than this man in my life. You will spend every week doing the longest most meaningless assignments and painfully sitting through mindless lectures. He runs a backwards classroom & never says that, so be prepared to teach yourself all of the material. Do yourself a favor and NEVER take a class with Bruce Runyan.",
+        "courseName": "ACCTCY3347"
+      },
+      {
+        "date": "May 01, 2026",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Genuinely one of the worst professors I've had at Mizzou. iClicker is worth a huge chunk of your final grade but half the class gets every question wrong. Lectures are all over the place and he never teaches material, just does problems in excel with little no explanation. Lot's of homework and McGraw Hill questions that are never on the exams.",
+        "courseName": "ACCT2010"
+      },
+      {
+        "date": "Mar 03, 2026",
+        "rating": 2.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Great guy, tries to make the lecture enjoyable. However, he is all over the place. Excel, note-taking, Icilcker (that he gives you 15 seconds to answer), and just him talking about 8 different things, the lecture isn't beneficial. I had to teach myself everything using the practice exam. Study halls with the TA are more beneficial than he is",
+        "courseName": "ACCTCY2010"
+      },
+      {
+        "date": "Feb 07, 2026",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Entire class is McGraw Hill, and he doesn't actually teach anything, just does excel problems on the board. Expects you to learn everything from the ebook. Homework is ridiculously long and tedious, hours a week. Tracks iClicker in class, grades iClicker on correctness, and routinely at least half the class gets it wrong.",
+        "courseName": "ACCTCY2010"
+      },
+      {
+        "date": "Dec 18, 2025",
+        "rating": 2.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Nice guy but bad class structure. 3 exams in this class worth most of your grade. He doesn't teach any content, just uses excel to go through problems which does not teach you anything. Homework can be long and tedious. Need a restructure to this class ASAP",
+        "courseName": "ACCT2010"
+      },
+      {
+        "date": "Dec 15, 2025",
+        "rating": 3.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "You will end up teaching yourself all the material because he doesn't lecture on the material, just does examples on excel and jokes around. We learn all problems on excel and then cant use it to take any exams. You have chat the homework or it takes 5 hours. \n\nHe's a great guy who cares about his students future, and he's actually pretty funny",
+        "courseName": "ACCTCY3347"
+      },
+      {
+        "date": "Dec 12, 2025",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "He is a nice and enthusiastic dude, but his teaching style can be very unorganized. Do all of the homework and get an 100% on them (it is impossible not to unless you don't finish), go to class, and average a 57% on the exams, and you will get a C-. If you just want to pass classes and don't particularly care about your GPA, you can pass easily.",
+        "courseName": "ACCT2010"
+      },
+      {
+        "date": "Dec 10, 2025",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Hear me out, he is a very interesting dude but he actually truly cares about every student. He is such a good dude and he wants the best for every student. He is always offering help for students. While his class is difficult, he really wants the best for everyone. Just show up to class and you'll be chillin!",
+        "courseName": "ACCT2010"
+      }
+    ]
+  },
+  "Bryant William Demere": {
+    "name": "Bryant William Demere",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Byongwook Yun": {
+    "name": "Byongwook Yun",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Carl Christopher Prestigiacomo": {
+    "name": "Carl Christopher Prestigiacomo",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "2295428",
+    "avgRating": 3.8,
+    "avgDifficulty": 3.1,
+    "wouldTakeAgainPct": 62,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2295428",
+    "comments": [
+      {
+        "date": "May 25, 2026",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Quizzes matter so much!! Please lock in on those early because I didn't. Focus on quizzes and short answer possibilities on the tests and you'll do pretty good on finals! Just TAKE NOTES every week for sure.",
+        "courseName": "ACCTCY2036"
+      },
+      {
+        "date": "May 16, 2025",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "He's pretty good -- just make sure to go to lecture or at least go over the slides that are in lecture, because those are important for exams. If you fumble an exam it's fairly difficult to get your grade back up due to the class having no weights based on assignment type. Not a very hard class tho & you get a double sided cht-sheet for each exam.",
+        "courseName": "ACCTCY2036"
+      },
+      {
+        "date": "May 09, 2025",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "I loved this course. Dr. P was very passionate about what he was teaching and the lecture notes were easy to follow. You will have around 6 hours of coursework to do outside of class (homework, concepts for the chapter, etc). Make sure to keep up with it and go to lecture (though its not mandatory) as stuff said in lecture may show up on the test!",
+        "courseName": "ACCTCY2036"
+      },
+      {
+        "date": "May 07, 2025",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Professor P is by far my favorite professor I have ever had. He makes his lectures engaging despite the dry subject material. If you are paying attention in lectures and labs there is no reason you should not get an A. That being said, although attendance is not required for lecture, DO NOT SKIP as you will be far better off in this class.",
+        "courseName": "ACCT2036"
+      },
+      {
+        "date": "Apr 09, 2025",
+        "rating": 3.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": true,
+        "text": "Don't get me wrong, he's a great genuine professor who actually does a good job helping us learn accounting. My problem is his 200 point exams are super hard with open ended problems being completely different from what he mentions in class. Also quizzes are more trivial based than what is actually covered on the test. Journal entries are so rough.",
+        "courseName": "ACCT2036"
+      },
+      {
+        "date": "Sep 25, 2024",
+        "rating": 4.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Dr. P was such a good professor. You actually learn and understand the content during lecture. Lecture attendance isn't required, but he gives really good examples of exam problems you could possibly see, so I definitely recommend going. Utilize cheat sheets and lab time!",
+        "courseName": "ACCTCY2036"
+      },
+      {
+        "date": "Jul 27, 2024",
+        "rating": 2.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "Missed exam due to illness, awaiting response from professor as to whether or not I may retake the exam. If able to retake the exam I will end the course with a B+\\A-, is the professor does not allow me to take the exam I will end with a D. This should not be legal.",
+        "courseName": "ACCT2036"
+      },
+      {
+        "date": "May 07, 2024",
+        "rating": 3.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Most important thing is to know how to do the lab problems, as they are most of the exams. The multiple choice questions are from the textbook so you actually have to read the book. Quizzes in lab also come from the textbook and are multiple choice.\n\nKnow how to do the lab problems and you will be fine.",
+        "courseName": "ACCT2036"
+      }
+    ]
+  },
+  "Cerry M Klein": {
+    "name": "Cerry M Klein",
+    "rmpSearched": true,
+    "department": "Engineering",
+    "rmpId": "746105",
+    "avgRating": 4.8,
+    "avgDifficulty": 3.5,
+    "wouldTakeAgainPct": 100,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/746105",
+    "comments": [
+      {
+        "date": "Dec 16, 2019",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Dr. Klein is not a fan of teaching this course so he is kind of nonchalant about it. The content was very easy to follow and the exams were not bad at all. Pretty easy class.",
+        "courseName": "IMSE4230"
+      },
+      {
+        "date": "Dec 16, 2019",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Linear Op is rough in the beginning but gets better. Klein made the class interesting and fun. Homeworks were never returned so not sure if they were graded or not. Klein is a lot of fun and really understands the content. Good class.",
+        "courseName": "IMSE4210"
+      },
+      {
+        "date": "May 20, 2019",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Klein is the best. He brings treats every Wednesday which rocks. The course content was interesting if you like algebra. The first exam was extremely hard, but they get better if you study hard. No notes posted online, go to every class! Klein grades on your average performance and attendance so show up! Awesome and very smart guy. Do the homework!",
+        "courseName": "IMSE2210"
+      },
+      {
+        "date": "Nov 13, 2006",
+        "rating": 4.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "No Comments",
+        "courseName": "ECON1014"
+      }
+    ]
+  },
+  "Chad Elliott Voss": {
+    "name": "Chad Elliott Voss",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Chad M. Reed": {
+    "name": "Chad M. Reed",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "2618091",
+    "avgRating": 5,
+    "avgDifficulty": 2.5,
+    "wouldTakeAgainPct": 100,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2618091",
+    "comments": [
+      {
+        "date": "May 13, 2022",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Great professor for International Accounting. The course was pretty easy and informative. I would recommend.",
+        "courseName": "ACCTCY8419"
+      },
+      {
+        "date": "Aug 26, 2020",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "It's been one of my favorite online classes. He's pretty cute too.",
+        "courseName": "ACCTCY8419"
+      }
+    ]
+  },
+  "Charles Oberweiser": {
+    "name": "Charles Oberweiser",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Christopher C Gubera": {
+    "name": "Christopher C Gubera",
+    "rmpSearched": true,
+    "department": "Engineering",
+    "rmpId": "2874618",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "wouldTakeAgainPct": -1,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2874618",
+    "comments": []
+  },
+  "Christopher Wertheim": {
+    "name": "Christopher Wertheim",
+    "rmpSearched": true,
+    "department": "Biochemistry",
+    "rmpId": "1882448",
+    "avgRating": 4.2,
+    "avgDifficulty": 3.8,
+    "wouldTakeAgainPct": 100,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1882448",
+    "comments": [
+      {
+        "date": "Dec 12, 2017",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Dr. Lee is a good professor that makes you work for your grade, this class isn't an easy A. I asked a lot of stupid questions but he was very helpful. There is a lot of writing in this class don't' wait to the last minute. The midterm in hard but the final is way easier. I failed midterm but got a 89 on midterm.",
+        "courseName": "BIOCHEM2484"
+      },
+      {
+        "date": "Mar 21, 2016",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Dr. Lee's Biochem Class is tough and requires a ton of work. That being said, if you enjoy science it is a outstanding class to take and you will improve your knowledge a ton. He ended up being one of my favorite professors. Quizzes every week over the past lecture. Exams are easy. Lab reports are long. He offers an abundant amount of extra credit.",
+        "courseName": "BIOCHEM2480"
+      },
+      {
+        "date": "Mar 06, 2015",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Dr. Lee is an intelligent guy, this class and lab was the hardest one I've ever taken.  He makes you work for the grade and doesn't show you any mercy.  If you don't pass, it's not his fault.  Make sure you study hard and go to him for help if needed.  The lab can be fun but the reports are so involved and tedious.",
+        "courseName": "BIOCHEM2484"
+      },
+      {
+        "date": "Feb 02, 2015",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Dr. Lee is one of my favorite professors on campus.  He is awesome, and shares awesome stories & is crystal clear with explanations.    That being said, anyone taking Biochem_2480 should know that the 2 credits require about 12 hours of work outside of the lab.    He gave free points to honors students, which was unfair but manageable.",
+        "courseName": "BIOCHEM2480"
+      },
+      {
+        "date": "Apr 23, 2014",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Dr. Lee is a great instructor. Very helpful when I asked a lot of dumb questions. He really pushes you to understand experiments and to be a better writer. Overall a cool dude.",
+        "courseName": "BIOCHEM4974"
+      }
+    ]
+  },
+  "Dale Musser": {
+    "name": "Dale Musser",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "2217608",
+    "avgRating": 3.9,
+    "avgDifficulty": 2.6,
+    "wouldTakeAgainPct": 73,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2217608",
+    "comments": [
+      {
+        "date": "May 13, 2025",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "Dale is honestly a great professor, the final was due for this class early in the morning and I missed it and he allowed me to retake it later on in the evening get full credit. Honestly, one of the best professors ever.",
+        "courseName": "INFOTC3600"
+      },
+      {
+        "date": "Mar 31, 2025",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "Took this class online and overall a pretty solid class! I like an online class that has clear structure and this class is that! Notes and Quiz boom you're done for the week. There is a midterm and final test AND project but it was nothing crazy at all. A super solid online course if you're someone like me who prefers online!",
+        "courseName": "INFOTC3600"
+      },
+      {
+        "date": "Nov 07, 2024",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Professor does not respond to students, however I hear that he is responsive on LinkedIn so there's that. Easy class overall though just don't expect to get any help from the professor, only the PLA's.",
+        "courseName": "INFOTC2040"
+      },
+      {
+        "date": "Dec 13, 2023",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "The entire course is online with modules coming every week. The grade for coding assignments is for participation and not if you did it correctly. The Quizes and Exams are extremely easy. If you have half a brain and can use chatgpt you will pass this class with an easy A.",
+        "courseName": "INFOTC4405"
+      },
+      {
+        "date": "May 08, 2023",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Really well-formatted courses. He provides a lot of documentation for every module and grades weekly assignments based on effort. Reading the documentation takes a while but makes the quizzes a lot easier. Quizzes and tests are open note, with no time limit. Stay on track with the work and the course will be easy.",
+        "courseName": "INFOTC4405"
+      },
+      {
+        "date": "May 07, 2023",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "Extremely easy course if you already know Python - otherwise, you might have to do a lot of self teaching. Weekly workload was only about 30mins - 1hr for the first half, and then picked up to ~2-6hrs/week for the second half. Only complaint is the lack of consistent communication from Dale himself.",
+        "courseName": "INFOTC4401"
+      },
+      {
+        "date": "Feb 21, 2023",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Dale is the best professor I have ever had hands down. If you have the chance to take a class with him definitely do. He cares about the students and actually wants us to learn. This class was completely self paced, as long as everything is completed by the end of the semester. He grades quickly and fairly and gives great feedback.",
+        "courseName": "INFOTC4405"
+      },
+      {
+        "date": "Feb 16, 2023",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "If you have the opportunity to learn Swift with Dale \"The Alpha Male\" Musser, you've gotta do it. This course, albeit online and asynchronous, is a step up from other CS and IT courses offered at Mizzou. Dale makes it a point to make sure you learn to program well and have fun while doing so, which is something that few professors manage to do.",
+        "courseName": "INFOTC4405"
+      }
+    ]
+  },
+  "Dan Lin": {
+    "name": "Dan Lin",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "2494099",
+    "avgRating": 3.7,
+    "avgDifficulty": 4,
+    "wouldTakeAgainPct": 67,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2494099",
+    "comments": [
+      {
+        "date": "Nov 20, 2020",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "I learned a lot from this course.",
+        "courseName": "CS3380"
+      },
+      {
+        "date": "Nov 20, 2020",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "The professor is very knowledgeable.",
+        "courseName": "CS3380"
+      },
+      {
+        "date": "May 15, 2019",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Unapproachable, basically refused to help me when I tried to get help. Lectures were all the exact same and none of it was actually relevant to homework, projects, or the programming itself. Dan was extremely difficult to understand. All homework is group work, and she refused to acknowledge or help when I told her that I was the only active member",
+        "courseName": "COMPSC3380"
+      }
+    ]
+  },
+  "Deniz Kavzak Ufuktepe": {
+    "name": "Deniz Kavzak Ufuktepe",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "2800786",
+    "avgRating": 4.7,
+    "avgDifficulty": 2.5,
+    "wouldTakeAgainPct": 100,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2800786",
+    "comments": [
+      {
+        "date": "Jun 16, 2026",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Great professor. lectures can be pretty boring, but she gives great resources and helps understand very well.",
+        "courseName": "CMPSC1050"
+      },
+      {
+        "date": "Mar 12, 2026",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Lectures were definitely dry, but the syllabus was more to blame than her teaching. She took feedback and did her best to make sure we were happy with how she ran the course, which is all you can really ask for. Exams were never a surprise or a curveball, last two labs are super time consuming but lab is ran by TAs, not the prof.",
+        "courseName": "ECE3210"
+      },
+      {
+        "date": "Jan 14, 2026",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Deniz is a very kind professor and cares about the success of her students! Make sure to show up for the biweekly quizzes, she'll cover the material on the quiz right before it. The labs are a good portion of your grade, but it's easy to get 100s on if you put in the work. The exams are all multiple choice with 10 built in bonus points.",
+        "courseName": "ECE3210"
+      },
+      {
+        "date": "Dec 12, 2025",
+        "rating": 4.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Fair and kind professor. She genuinely wants you to succeed and is happy to meet with you to help. Lectures are not the best, but you can understand enough to easily do well on exams. She offered extra credit too. The labs are a different story as the manuals were not clear about what needed to be included, and the TAs are on a power trip.",
+        "courseName": "ECE3210"
+      },
+      {
+        "date": "Dec 08, 2025",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Good professor, expectations were clear. Grading system is great. She's not great at lecturing and the lectures are pretty dry, but the class was overall somewhat easy if you have any prior knowledge of programming in any language. Exams have some trick questions, similar to the other professors of this course. But otherwise an overall good prof.",
+        "courseName": "CMPSC1050"
+      },
+      {
+        "date": "Dec 04, 2025",
+        "rating": 4.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "Not bad, I knew exactly what was expected of me. Very poor at lecturing incredibly dry but attendance is not mandatory and the class pace is so brutally slow you can learn it all in a few hours on your own before the exams and do well. Gani, one of the TAs, is on.a SERIOUS power trip, don't let him touch anything you need graded.",
+        "courseName": "ECE3210"
+      },
+      {
+        "date": "Oct 16, 2025",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "This class relies on C, which is not beginner friendly despite this being a 101 class. She writes quickly, which is a double-edged sword. I really like that she drops the lowest 2 labs, and the adjustable grading system. If you are not a CS major, take CS-1700, its the same concepts in a friendly-ier language. I wished the lectures weren't as dry.",
+        "courseName": "CMPSC1050"
+      }
+    ]
+  },
+  "Derek Rose": {
+    "name": "Derek Rose",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Derek T Anderson": {
+    "name": "Derek T Anderson",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Diana Lynn Weng": {
+    "name": "Diana Lynn Weng",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Donald P Danner": {
+    "name": "Donald P Danner",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Dong Xu": {
+    "name": "Dong Xu",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "2482878",
+    "avgRating": 4,
+    "avgDifficulty": 2.6,
+    "wouldTakeAgainPct": 80,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2482878",
+    "comments": [
+      {
+        "date": "Mar 16, 2023",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "The GOAT !!!!!!! Very nice guy and very accomdating",
+        "courseName": "CS3050"
+      },
+      {
+        "date": "Mar 24, 2022",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Outdated teaching style. Lectures were also very difficult to understand and in order to understand I would have to look up a youtube video/websites to understand the topics.",
+        "courseName": "CMPSC3050"
+      },
+      {
+        "date": "Jan 01, 2022",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Lectures were amazing, but not necessary to attend. The textbook also does a great job of explaining the algorithms and data structures in this course. Tests aren't overwhelmingly difficult, but the time limits can be a crunch. Not a lot of homework. Lots of extra credit are provided at &quot;Mock Interviews,&quot; which are just a glorified trivia bowl.",
+        "courseName": "CS3050"
+      },
+      {
+        "date": "Oct 20, 2020",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "This class is breezy compared to 1050 and 2050, because it's barely even about coding, just algorithms. The professor does a great job stepping through every algorithm shown to make sure everyone understands.",
+        "courseName": "CMPSC3050"
+      },
+      {
+        "date": "Mar 10, 2020",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "From what I've heard definitely the better professor to take for this class (3050) but still may be a tough course for some people. Goes more in depth into theoretical concepts than you'll have had in previous classes, but that's part of what CS is. Homework isnt bad if you pay attention, definitely helps to read the textbook in addition to lecture",
+        "courseName": "CS3050"
+      }
+    ]
+  },
+  "Douglas D Moesel": {
+    "name": "Douglas D Moesel",
+    "rmpSearched": true,
+    "department": "Management",
+    "rmpId": "1351930",
+    "avgRating": 1.9,
+    "avgDifficulty": 3.6,
+    "wouldTakeAgainPct": 0,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1351930",
+    "comments": [
+      {
+        "date": "Feb 03, 2026",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Does not know what hes talking about",
+        "courseName": "MGMT4970"
+      },
+      {
+        "date": "Dec 12, 2025",
+        "rating": 3.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Doug isn't the best lecturer.  The exams are really difficult but he does give more than generous curves.  The semester long project is confusing at times but he's more than willing to help along the way.",
+        "courseName": "MGMT3760"
+      },
+      {
+        "date": "Dec 12, 2023",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "one of the worst profs ive ever had, gives wrong advice for the simulation, talks super slow and for entirety of class, confusing/bad explanations, his grading system is slow and confusing, p chill final presentation grade, but FAT final- he recommends you take at least 3 hours (its another simulation). bro also has assigned seats",
+        "courseName": "MGMT4970"
+      },
+      {
+        "date": "Nov 30, 2023",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "It's insane how bad his advice is for the simulation. I was on our finance and listened to him; we underwent an impossible to recover from catastrophe and received a grade so low it hurt my insides. This was all his fault and I felt completely misguided and alone. Thank you professor.",
+        "courseName": "MGMT4970"
+      },
+      {
+        "date": "Sep 21, 2023",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Whole class is based on how well you do the simulation, but his guidance is faulty and you're pretty much thrown into the fire. Feel free to google as much as possible. Lectures are long and he grades stuff as late as possible because he doesn't have a TA. Not his fault + hes nice but this isn't what I thought capstone would be honestly",
+        "courseName": "MGMT4970"
+      },
+      {
+        "date": "May 03, 2023",
+        "rating": 2.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Doug is just not a good professor. He talks for the entire hour 15 and doesn't stop. He will give advice on the capstone simulation and if it doesn't help, he just says whoops. Also the final takes 3-6 hours usually. Nice guy, just really bad class. Take the other professor.",
+        "courseName": "MGMT4970"
+      },
+      {
+        "date": "Mar 12, 2021",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Doesnt communicate well with students. Doesnt understand how to use canvas DO NOT TAKE THIS PROFESSOR",
+        "courseName": "MGMT4970"
+      },
+      {
+        "date": "Jun 10, 2016",
+        "rating": 3.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "Prof. Moesel is very thorough in how he grades assignments. It would be a challenging task given that he grades something like 70 students' assignment s himself without a TA. The class is so so and most students would go through the motion anyway but he showed good work ethics.",
+        "courseName": "MGMT8970"
+      }
+    ]
+  },
+  "Ekincan Ufuktepe": {
+    "name": "Ekincan Ufuktepe",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "2675511",
+    "avgRating": 3.5,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPct": 67,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2675511",
+    "comments": [
+      {
+        "date": "May 07, 2026",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "As a senior undergrad, Dr. Ekin has easily been my favorite professor. He is very knowledgeable, and does an excellent job at sharing said knowledge with his students. The homework assignments can be a bit tough, but Dr. Ekin is always readily available to help you out. He is also a nice and funny guy, which makes lectures enjoyable to attend!",
+        "courseName": "CS2300"
+      },
+      {
+        "date": "Dec 29, 2025",
+        "rating": 3.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Positives:\nLabs are very well set up and explained. I was never confused.\nEngages with students and is good at taking questions.\nTests are intuitive and don't seem unfair.\nNegatives:\nJust reads off slides a bit too much. Need more examples\nWe never get our tests back. Just goes over the whole test.",
+        "courseName": "CS1050"
+      },
+      {
+        "date": "Aug 14, 2025",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Ekin seems like a great guy who is very knowledgeable about the field. If you have any sort of coding experience in any language the class will be cake for you. Attendance isn't \"mandatory\" but are often pop quizzes that are only accessible in the classroom. Grades are largely made up of just a few exams that are all 40 question multiple choice.",
+        "courseName": "CS1050"
+      },
+      {
+        "date": "May 22, 2025",
+        "rating": 3.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "I wish there was more material put out for exam specific review rather than just the lecture slides, I understand that is our job to create guides and such but the slides themselves seemed so hard to pull information off of without the context of the lectures. Great guy and very understanding of uncontrollable circumstances.",
+        "courseName": "CS2050"
+      },
+      {
+        "date": "May 20, 2025",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Ekin knows what he's doing, but it's hard to take notes during lectures because he goes so fast and mainly focuses on coding examples.  If you make an effort to know what you're doing, then you'll be fine.    Attendance is important, so be ready for iClicker quizzes.",
+        "courseName": "CS2050"
+      },
+      {
+        "date": "May 13, 2025",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Labs and tests can be hard sometimes but honestly I think the first exam and some of the earlier labs purely exist to weed people out. Ekin uses JimR's exams so be prepared for some annoying questions. The final was quite a bit easier compared to all the exams so just stick with the class and go to office hours if needed and you'll pass.",
+        "courseName": "CS2050"
+      },
+      {
+        "date": "Mar 14, 2025",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "not a hard class but not an easy class either",
+        "courseName": "ECE3210"
+      },
+      {
+        "date": "Feb 11, 2025",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Overall, I think Dr. Ekin is a good professor. He is very passionate about computer science and you can tell he loves languages like C and C++ and is always willing to answer questions. The labs are pretty fun and engaging. The tests are pretty difficult but not impossible. I prepared for the tests by testing random questions I had about C.",
+        "courseName": "CS1050"
+      }
+    ]
+  },
+  "Elaine G Mauldin": {
+    "name": "Elaine G Mauldin",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "254704",
+    "avgRating": 4.3,
+    "avgDifficulty": 3,
+    "wouldTakeAgainPct": 50,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/254704",
+    "comments": [
+      {
+        "date": "Dec 11, 2018",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Dr. Mauldin's course is challenging but she is very clear about expectations and a fair grader. Attendance is not technically mandatory but if you are on the edge of a grade and you came to class all semester she will boost your grade.",
+        "courseName": "ACCT8414"
+      },
+      {
+        "date": "Dec 11, 2017",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "She is clearly knowledgeable with what she talks about, however it's also clear she worked in the field first as she is not a very good teacher. Most of her class was throwing you head first into things with very little information or tutorial and expecting a high level of competency. Lectures to fast with very little notes you can take.",
+        "courseName": "ACCY3328"
+      },
+      {
+        "date": "Dec 09, 2013",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "She is a good professor and knows what she is talking about, but you will like her or not based on whether you find the course material interesting, which many do not. She works through things really quick so do not fall behind, catching up is not a simple task.",
+        "courseName": "ACCY3328"
+      },
+      {
+        "date": "Oct 14, 2005",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "Elaine seems to be the premier AIS professor at mizzou.  If you want to earn an IS certificate you will undoubtedly find yourself in a few of her courses. Although some of the concepts these courses cover can be a bit difficult, she sets clear, reasonable expectations. And believe it or not, you will use this stuff in the field.",
+        "courseName": "84488414"
+      }
+    ]
+  },
+  "Erin Abbott Anderson": {
+    "name": "Erin Abbott Anderson",
+    "rmpSearched": true,
+    "department": "Business",
+    "rmpId": "2796637",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "wouldTakeAgainPct": -1,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2796637",
+    "comments": []
+  },
+  "Fang Wang": {
+    "name": "Fang Wang",
+    "rmpSearched": true,
+    "department": "Information Technology",
+    "rmpId": "1884157",
+    "avgRating": 2.1,
+    "avgDifficulty": 3.7,
+    "wouldTakeAgainPct": 32,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1884157",
+    "comments": [
+      {
+        "date": "Jan 23, 2025",
+        "rating": 2.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Dr. Wang seems like a nice person, but I find her explanations difficult to understand. I struggle to grasp about 80% of what she's saying in class. As a result, I've had to rely heavily on independent research and online tutorial videos to keep up. It's frustrating because I genuinely want to learn the material, not just pass the class.",
+        "courseName": "IT2810"
+      },
+      {
+        "date": "Nov 19, 2024",
+        "rating": 2.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": false,
+        "text": "Dr. Wang  is a bad lecturer in that she is monotone, very easy to tune out, and not terribly good at explaining what things are or why.  All the assignments: copy from book, then add book's suggested next steps. Midterm and final: copy a weird game she found online. No creativity involved. If you know Unity skip. If you don't, learn online and skip",
+        "courseName": "IT4400"
+      },
+      {
+        "date": "Oct 11, 2024",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "By far the worst professor I have ever had. The class is online, and there is a heavy language barrier, I cannot understand 70% what she is saying through the webcam mic. The material is outdated, and if you have bad PLAs, good luck because you are gonna have to teach yourself everything. If this class wasn't required I would have dropped it.",
+        "courseName": "IT2810"
+      },
+      {
+        "date": "Jul 19, 2024",
+        "rating": 4.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "These ratings seem a bit harsh. I've had Professor Wang for 2810 and 3630, and they both went well. If you're having trouble with anything, she's usually able to accommodate. 3630 projects can get a bit tough, but you'll be fine as long as you put in the work.",
+        "courseName": "INFOTC2810"
+      },
+      {
+        "date": "May 14, 2024",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "VR Development was honestly one of the better classes this department offers, but it is challenging and it is a lot of work for 3 credit hours. There is also a decent language barrier so lectures were hard to follow at times. You do learn a lot about Unity and VR which is cool. In person demos for every assignment were annoying and rarely flexible.",
+        "courseName": "IT3630"
+      },
+      {
+        "date": "May 13, 2024",
+        "rating": 4.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "This class had a lot of lectures and documentation, and was sometimes hard to know what was worth watching or reading and what wasn't. Some assignments are useful, but some aren't. Overall, it's a decent class and she is a good person.",
+        "courseName": "IT4400"
+      },
+      {
+        "date": "May 05, 2024",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "I don't understand how Professor Wang has such a low rating. She is a good professor who is very passionate about the subject and gives a plethora of extra credit opportunities. Sure her exams are tough, but they are not heavily weighted and if you show up to class and pay attention you should do fine throughout. Her labs even have video guides.",
+        "courseName": "INFOTC2810"
+      },
+      {
+        "date": "Sep 19, 2023",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "good and has TA's as well a uses discord for questions",
+        "courseName": "INFOTC2810"
+      }
+    ]
+  },
+  "Felipe Bastos Gurgel Silva": {
+    "name": "Felipe Bastos Gurgel Silva",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "2649667",
+    "avgRating": 2.7,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPct": 42,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2649667",
+    "comments": [
+      {
+        "date": "Jun 08, 2021",
+        "rating": 1.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "What he asks for and what he wants aren't always the same. When asked a question, he rarely answers what was asked. His talks are ridiculous: rambles on about semi-related things, is unclear about important concepts, etc.",
+        "courseName": "ACCTY8450"
+      },
+      {
+        "date": "Jun 08, 2021",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "I did not like his teaching style. He jumps around way too much and is very confusing. He repeats himself a lot saying how he smart and humble he is. These are the only two lines I remember from his class. Did not learn much at all.",
+        "courseName": "ACCTCY8450"
+      },
+      {
+        "date": "Jun 08, 2021",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "he's very nice, smart and humbled. really liked the capstone course. besides, i was considering to apply for mba after a couple of years. i requested a meeting with Dr S and he spent 2 hours helping me with gmat questions. idk any prof other than Dr S who would do that for a student. in short, amazing guy and teacher.",
+        "courseName": "ACCTCY8450"
+      },
+      {
+        "date": "Jun 08, 2021",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "I really loved his course and teaching. I think the person (very clear is the same one from the writing) is talking about someone else. He never talked about him, treats students fairly, cares about students. Exam was hard but his curve was super generous. Nobody I know got below B.",
+        "courseName": "ACCTCY8450"
+      },
+      {
+        "date": "Jun 08, 2021",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Do not take this professor. He is so unorganized and lost and doesn't tell you what he expects from you. He hasn't taught me much other than about himself. I was so willing to learn.",
+        "courseName": "ACCTCY8450"
+      },
+      {
+        "date": "Jun 08, 2021",
+        "rating": 1.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "Too arrogant and isn't very clear or helpful. From his boring lectures, he already expects you to understand all the concepts. Rather than helping, he'll ridicule and chastise you for not knowing. It's hard to tell whether he's using constructive criticism, or just too mean and arrogant.",
+        "courseName": "ACCTCY8450"
+      },
+      {
+        "date": "Jun 07, 2021",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Professor Felipe is a great teacher who really cares about his students and always finds time to talk when requested. Not a fan of the capstone course because it is more like a finance course? but the prof's attitude and passion to teach is remarkable. Plus, he helped me with case questions for my consulting interview.",
+        "courseName": "ACCTCY8450"
+      },
+      {
+        "date": "Jun 07, 2021",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Best professor I had at Mizzou. The complaints below are false. How can a prof treat students badly if the classes were pre-recorded?",
+        "courseName": "ACCTCY8450"
+      }
+    ]
+  },
+  "Filiz Bunyak": {
+    "name": "Filiz Bunyak",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "3076144",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "wouldTakeAgainPct": -1,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/3076144",
+    "comments": []
+  },
+  "Gary Austin McKenzie": {
+    "name": "Gary Austin McKenzie",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "2330076",
+    "avgRating": 5,
+    "avgDifficulty": 3,
+    "wouldTakeAgainPct": 100,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2330076",
+    "comments": [
+      {
+        "date": "Mar 21, 2024",
+        "rating": 5.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": true,
+        "text": "One of the few professors that cares about student success",
+        "courseName": "CS4980"
+      },
+      {
+        "date": "Dec 21, 2022",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "Prof. Gary is pretty nice and flexible with students. I really appreciate how he ran both Capstone classes in that he gave us class time back to us to work on our projects. He was available outside of class time to help my group test our project and was able to answer all of our questions. Couldn't have asked for a better professor for this class.",
+        "courseName": "CS4980"
+      },
+      {
+        "date": "May 19, 2022",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Professor McKenzie is funny and really cares about students. I feel like his feedback and grading is very thorough and always well-thought-out. He is very accessible outside of class and I liked how he adjusted due dates and is in general a flexible person. I always liked how he ended class early and didn't have class when we had group meetings.",
+        "courseName": "CS4970"
+      },
+      {
+        "date": "May 12, 2022",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "The most laid back and real prof in the CS department. Gary's really transparent about what's expected and sets clear deadlines for everything. 10/10 would get a beer with this absolutely beautiful man",
+        "courseName": "CS4980"
+      },
+      {
+        "date": "Aug 24, 2020",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Great teacher, gets concepts across well. Very available outside of class.",
+        "courseName": "CS4970"
+      },
+      {
+        "date": "May 13, 2020",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Gary is an absolute gem of a professor. This man very clearly cares about his students and constantly pushes them towards success. He's very understanding if/when failure rears its ugly head. He is very charismatic and an overall joy to work with for Capstone. I would give him a 6/5 if I could.",
+        "courseName": "CS4980"
+      },
+      {
+        "date": "Dec 27, 2018",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Capstone 2 is more of the same. Easygoing professor, difficult project work outside of class. He really cares about sending off good developers into the world. Don't stress the presentation at the end, just make sure you have the bases covered. If there's a glaring fault, make sure you're ready to handle questions about it. Work hard, this is it!",
+        "courseName": "CS4980"
+      },
+      {
+        "date": "May 17, 2018",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Garys Capstone class feels like a stereotypical college class Easygoing casual in-class conversations sitting on the side of a desk,with large timeconsuming papers and documentation outside of class. Find a good group to tell you when attendance is happening,and this class will reward you if your project is decent. Just say no to Machine Learning!",
+        "courseName": "CS4970"
+      }
+    ]
+  },
+  "Gergely Istvan Bana": {
+    "name": "Gergely Istvan Bana",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "2794666",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "wouldTakeAgainPct": -1,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2794666",
+    "comments": []
+  },
+  "Grant J Scott": {
+    "name": "Grant J Scott",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Guilherme Nelson Fernandes DeSouza": {
+    "name": "Guilherme Nelson Fernandes DeSouza",
+    "rmpSearched": true,
+    "department": "Engineering",
+    "rmpId": "1080555",
+    "avgRating": 1.2,
+    "avgDifficulty": 4.8,
+    "wouldTakeAgainPct": 0,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1080555",
+    "comments": [
+      {
+        "date": "May 19, 2024",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "As it is blatantly obvious by everyone else, this professor is the worst I've had at Mizzou.  I'm sure the topics would actually be interesting and a lot more engaging (which is why I originally was drawn to this course) had it not been for his confusing lectures and terrible grading.  Really wish I would've come here first before making up my mind",
+        "courseName": "CS4720"
+      },
+      {
+        "date": "May 18, 2024",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "I have so many thoughts about DeSouza and this course (all of them negative). In fact, my last review I left for him got deleted because I broke the guidelines. Long story short, don't take this class or any taught by him. He is a horrible professor, and this class really should be 6-8 credit hours. It's just not worth your mental health...",
+        "courseName": "CS4720"
+      },
+      {
+        "date": "May 14, 2024",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "When there was an issue regarding low grades in the class, he once said \"its rather because of the students, the class (material), or the degree program\". Little does he seem to realize, it was because of him.",
+        "courseName": "CS4720"
+      },
+      {
+        "date": "May 14, 2024",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Horrible, and every other synonym you could think of. Gave a final project to potentially replace an exam score, but no grade was ever put in (this is also true for the final exam). Any friendly demeanor you get on first encounter is just a facade. Don't ever take if you can, don't be like most of us early on thinking naively \"its not so bad\".",
+        "courseName": "CS4720"
+      },
+      {
+        "date": "May 10, 2024",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "If you are not perfect (which would include reading his mind) then he will treat you like a child. Beware he blames students for his mistakes and errors, even when there have been repeated instances back to back. He single-handedly caused me to go back into therapy within two assignments, so have extra cash on hand for that",
+        "courseName": "ECE4720"
+      },
+      {
+        "date": "May 10, 2024",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "I don't often write rate my professor scores, let alone negative ones. I do not say it lightly, this is the single worst class and professor ive taken at Mizzou. There are no redeeming qualities about this class. He expects work that would be acceptable for a 6-8 credit hour class. Lectures were chicken scratch and incomprehensible. Avoid all costs",
+        "courseName": "ECE4720"
+      },
+      {
+        "date": "Mar 03, 2024",
+        "rating": 2.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Lectures are somewhat disorganized. Homework is somewhat disorganized. The class is somewhat disorganized. And labs are quite time consuming.",
+        "courseName": "ECE4220"
+      },
+      {
+        "date": "Aug 02, 2023",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Do not take his class, he make it very hard.",
+        "courseName": "ECE8725"
+      }
+    ]
+  },
+  "Hoyoun Kyung": {
+    "name": "Hoyoun Kyung",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "3161235",
+    "avgRating": 3,
+    "avgDifficulty": 4,
+    "wouldTakeAgainPct": 50,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/3161235",
+    "comments": [
+      {
+        "date": "Mar 16, 2026",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "3 Exams and 9 ch quizzes. He is clear on what will be on the exam and provides a sample quiz that's similar to actual quiz. He only pulls in-class examples on the exam, nothing we haven't seen before. He makes himself available so use it! Lectures are bland,I take notes on the lecture slides he gives, will help when you review (so go to class).",
+        "courseName": "4346"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Kyung's lectures were difficult for me to follow because many slides were read directly without much additional explanation. In class, examples were often solved quickly without walking through the reasoning, so I felt I had to teach myself much of the material outside class.",
+        "courseName": "4346"
+      }
+    ]
+  },
+  "Ilene Jeongeun Lee": {
+    "name": "Ilene Jeongeun Lee",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Inder K Khurana": {
+    "name": "Inder K Khurana",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Jacob Mead Rose": {
+    "name": "Jacob Mead Rose",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "James Alexander Hurt": {
+    "name": "James Alexander Hurt",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "James E Ries": {
+    "name": "James E Ries",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "2509712",
+    "avgRating": 3,
+    "avgDifficulty": 3,
+    "wouldTakeAgainPct": 50,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2509712",
+    "comments": [
+      {
+        "date": "Nov 17, 2025",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Amazing professor for Operating Systems. Very engaging lectures and connects class topics to stories from his experience. Assignments can be tough though, but he provides tests that show exactly what your grade would be, so as long as you start early its hard to not get an A.",
+        "courseName": "CMPSC-4520"
+      },
+      {
+        "date": "May 16, 2025",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Awesome as a person but bad professor. Sometimes would not post the prelabs until the day before the lab. When asked about practices exam he would say that he doesn't have any since he hasn't been teaching the class for too long, but he wrote all the exams from scratch. This is not a proper excuse.",
+        "courseName": "CMPSC-1050"
+      },
+      {
+        "date": "Apr 08, 2025",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "He's the reason why I'm changing majors.",
+        "courseName": "CMPSC-1050"
+      },
+      {
+        "date": "Mar 14, 2025",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "Amazing professor",
+        "courseName": "CMPSC-1050"
+      },
+      {
+        "date": "Feb 20, 2025",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "He's one of the funniest and most engaging teachers I've ever had. He knows how to get students engaged and gives a lot of examples to really get you to understand. The labs start getting a bit hard but not really as long as you do pre labs",
+        "courseName": "CMPSC-1050"
+      },
+      {
+        "date": "May 13, 2024",
+        "rating": 2.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "This was my second go around at 1050 and to say the course was WORSE my second time around is an understatement. Ries is an ok professor and the lectures are helpful but the class is very test-heavy. There's 3 tests and 12 labs. Grades really hard on labs and tests make up a majority of your grade. Study the ins and outs of C to pass.",
+        "courseName": "CMPSC-1050"
+      },
+      {
+        "date": "May 09, 2024",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "tests were extremely difficult and was truthfully a luck based game. There was never a clear cut answer and you left the test session not having any idea what you got on the test. You almost have to be an expert at C to get some of his questions correct because some of them entailed 'What error will this show' on a piece of code NO ONE would write.",
+        "courseName": "CMPSC-1050"
+      },
+      {
+        "date": "Apr 29, 2024",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Professor Ries (\"JimR\") is a solid professor for CMP_SC 1050. His lectures are clear and focused making learning much easier. If you like dad jokes or the St. Louis Cardinals, you will like JimR. The course itself on the other hand is a different story. Tests make up the vast majority of your grade, if you do not test well, you will not do well.",
+        "courseName": "CMPSC-1050"
+      }
+    ]
+  },
+  "James Stewart Noble": {
+    "name": "James Stewart Noble",
+    "rmpSearched": true,
+    "department": "Engineering",
+    "rmpId": "746115",
+    "avgRating": 3.3,
+    "avgDifficulty": 3.2,
+    "wouldTakeAgainPct": 57,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/746115",
+    "comments": [
+      {
+        "date": "Mar 03, 2025",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "This class is pretty easy and is supposed to be. You can kind of tell it isn't really his main focus. Class can sometimes be pretty interesting but overall its nothing to write home about. Homework can sometimes be a pain. Start on the final project early and it will be a breeze, not difficult at all, just takes time.",
+        "courseName": "IMSE1000"
+      },
+      {
+        "date": "May 11, 2023",
+        "rating": 2.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "He teaches out of a textbook from the 1990s and the material is extremely outdated. On top of this, his lecture notes are hand written and terribly difficult to follow when studying. He provides little resources for outside class learning and the homework problems are very different from what is learned in class.",
+        "courseName": "IMSE4310"
+      },
+      {
+        "date": "Dec 30, 2022",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Dr. Noble puts a good amount of care into a class that it would be really easy to phone it in for. Term Project can take a long time to do if you put care into it, so start early",
+        "courseName": "IMSE1000"
+      },
+      {
+        "date": "May 21, 2022",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Very difficult to replicate his work. HWs that require the use of a softwares he never walks you thoroughly. Expect hours of study by trying to understand his messy class notes. STUDY HARD and beyond! Tests are tricky and conceptual questions may seem vague sometimes. Honestly, I was expecting more from the chair of the IMSE department.",
+        "courseName": "IMSE4310"
+      },
+      {
+        "date": "Dec 21, 2021",
+        "rating": 3.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": false,
+        "text": "He brought many people to tell their career stories. Some were inpirationals while other not so. Most of the class time was spent with mentors and other TAs, only saw Dr. Noble once per week. He wants people to pass and this class is not strenuos. All the homework was online and the deadlines were good enough to get other homework finished",
+        "courseName": "ENGN1000"
+      },
+      {
+        "date": "Jun 08, 2020",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "This class was fantastic and Dr. Noble taught it very well. You truly learn a lot of good IE material in this class, however, it is a ton of work. Six homework assignments, three midterms, discussion posts every other week, a presentation with a partner, read a novel and write a review, and a final project. Great class taught well.",
+        "courseName": "IMSE4310"
+      },
+      {
+        "date": "Jun 19, 2018",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Dr. Noble was very good in this course. He was a very nice guy with a good sense of humor. He cares about his students and wants them all to succeed. The homework was actually fun at times as he has some great intro to IE topics to explore. There will be 3 group projects, get them done early and work with your group! End of semester project is long",
+        "courseName": "IMSE1000"
+      },
+      {
+        "date": "Oct 10, 2010",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Absolutely brutal class. Extremely boring material and his expectations of the class reading between lines and having random accounting and finance knowledge is ridiculous. The lecture literally puts you to sleep. his quizzes are bogus and good luck arguing a test score. Except the fact that this class is going suck really bad",
+        "courseName": "IMSE2710"
+      }
+    ]
+  },
+  "Jeffrey Uhlmann": {
+    "name": "Jeffrey Uhlmann",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "223371",
+    "avgRating": 2.3,
+    "avgDifficulty": 3.9,
+    "wouldTakeAgainPct": 30,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/223371",
+    "comments": [
+      {
+        "date": "May 07, 2026",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Dr. Uhlmann was an extremely good professor for CS_2010 (int. property). The course was paced very well, allowing for proper retention of the material. Exams are heavily based on lecture notes, so attending class is very important. Also, Dr. Uhlmann has a dry sense of humor/sarcasm, which I came to enjoy a lot!",
+        "courseName": "CS2010"
+      },
+      {
+        "date": "Jul 11, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Don't bother showing your code to him for help, as he will refuse to look at it.",
+        "courseName": "CS2050"
+      },
+      {
+        "date": "May 24, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "NO.........",
+        "courseName": "CS2050"
+      },
+      {
+        "date": "Jan 24, 2025",
+        "rating": 2.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Uhlmann doesn't seem to enjoy helping students and expects a high level of retention from his lectures. He makes the course very easy to succeed in. Low lab scores can be replaced by exam scores and absences from labs can be replaced by the following lab. In short, Uhlmann is a below average professor with an above average class structure.",
+        "courseName": "CS2050"
+      },
+      {
+        "date": "Jan 07, 2025",
+        "rating": 2.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Uhlmann's teaching style can be hit or miss. While the slides are helpful, he's often disconnected from students. unstuck study was a lifesaver for lab prep. Avoiding this class if possible is recommended.",
+        "courseName": "CS2050"
+      },
+      {
+        "date": "Jan 07, 2025",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Easy class if you've taken other programming courses. Extra credit on all of the tests. Majority of grade comes from weekly labs. As long as you do the prelab the lab is easy. Lectures are engaging and funny, makes you want to go to class everyday.",
+        "courseName": "CS2050"
+      },
+      {
+        "date": "Dec 16, 2024",
+        "rating": 2.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "This is the worst professor I've ever had the misfortune of encountering. He will encourage you to drop the course before giving an ounce of help. His presentations are word walls, usually filled with filler phrases and will no significant importance on anything, making exams an utter toss up of what he could ask.",
+        "courseName": "CS2050"
+      },
+      {
+        "date": "Dec 14, 2024",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Not very gracious-thought if you had too many questions you weren't trying hard enough. Labs weren't necessarily like pre-labs and were graded harshly. His slides were all conceptual, he never coded and sometimes didn't even have code on the slides, and then would expect you to turn around and do it on your own. Tests were easy.",
+        "courseName": "CS2050"
+      }
+    ]
+  },
+  "Jianlin Cheng": {
+    "name": "Jianlin Cheng",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "2216042",
+    "avgRating": 4.5,
+    "avgDifficulty": 3,
+    "wouldTakeAgainPct": 100,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2216042",
+    "comments": [
+      {
+        "date": "Apr 24, 2019",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Prof Cheng is a very passionate man and his lectures are super-engaging. This class is mainly comprised of 3 things : Hidden Markov Models, Machine Learning Neural Networks. Grading criteria: 80% project 20% attendance My advice : Attend each lecture ,take notes,plug in the algorithms in Python and learn Tensorflow on the side. Ace it like a gem.",
+        "courseName": "CS8180"
+      },
+      {
+        "date": "Mar 16, 2017",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "He is honest and very knowledgeable.",
+        "courseName": "CMPSC8725"
+      }
+    ]
+  },
+  "Jingya Li": {
+    "name": "Jingya Li",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "John Andrew G Miller": {
+    "name": "John Andrew G Miller",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "John J Stansfield": {
+    "name": "John J Stansfield",
+    "rmpSearched": true,
+    "department": "Business",
+    "rmpId": "116809",
+    "avgRating": 2.2,
+    "avgDifficulty": 3.9,
+    "wouldTakeAgainPct": 29,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/116809",
+    "comments": [
+      {
+        "date": "Jan 23, 2026",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Yes his class is difficult, but it is fair. Lectures are entertaining. Anyone who says he is unfair or is mean is probably soft and can't take criticism. Toughen up and be humble enough to take feedback and learn from it. He literally gives you old exams to study and tells  you exactly what will be on them",
+        "courseName": "FIN4320"
+      },
+      {
+        "date": "Dec 18, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Has a huge ego. He forgot his own syllabus so with 3 weeks left of the semester he assigned us 10 quizzes because he only gave us 1/11 in the first 2 months of class. He posts all of his old tests so you can study them but they all have typos. Then he completely lied about what questions are going to be on the final.",
+        "courseName": "FIN4030"
+      },
+      {
+        "date": "Dec 16, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Overall, he is the worst teacher I've ever been around. He's as arrogant as they come and mocks students when they ask questions. I'm genuinely surprised he is still employed at Mizzou, given that the majority of instructors here make an effort to support their students and want them to succeed. He does not demonstrate that in any way.",
+        "courseName": "FIN3000"
+      },
+      {
+        "date": "Dec 09, 2025",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "He is the worst professor I have ever had. He complains while teaching during lectures and gives you iclicker questions in class that he never taught you over that are a big chunk of your grade. All of his previous exam answer keys that he posts for you to study with have typos and misinformation and he is rude when you ask for help.",
+        "courseName": "FINANCE"
+      },
+      {
+        "date": "Dec 04, 2025",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "He was just so cocky and expected students to know a lot of things going into the semester, even though it was an introductory course. Worst professor I've ever had and very unhelpful. I will not be taking a class with him ever again.",
+        "courseName": "FIN3000"
+      },
+      {
+        "date": "Nov 10, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "John Stansfield takes pride in making students feel small and acts like his class is the center of Mizzou. He refused to excuse a professional networking trip, changes answers to fit his narrative, and leaves students confused and frustrated. A true lesson in patience, not learning.",
+        "courseName": "FINANCE"
+      },
+      {
+        "date": "Oct 20, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "If I have one piece of advice for anyone considering taking this class with John, for your sake DO NOT. His lectures and notes are unhelpful, all homework and quizzes are all proctored online and the average iclicker grade in my class is a 59% right now. He is just overall, awful.",
+        "courseName": "FIN3000"
+      },
+      {
+        "date": "Oct 07, 2025",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Proctored homework and quizzes every week, mandatory class attendance. iClicker questions answered in class heavily effect grade, most students averaged under a 30% for iClicker points. Dont bother emailing him about grades or assignments, will respond with a snarky rude comment about not paying attention in class or \"do better\".",
+        "courseName": "FIN3000"
+      }
+    ]
+  },
+  "Jordan Malof": {
+    "name": "Jordan Malof",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Joshua Benjamin Fraser": {
+    "name": "Joshua Benjamin Fraser",
+    "rmpSearched": true,
+    "department": "Information Technology",
+    "rmpId": "2338976",
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "wouldTakeAgainPct": 100,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2338976",
+    "comments": [
+      {
+        "date": "Dec 27, 2018",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "3620 is a much more laid back than the precursor 2620. This is a much more in-depth, but student driven course. The class decides the direction of the course and each topic covered. The assignments merely require you can demonstrate what has been done in lecture. Fraser is a very skilled and the class is probably unique every semester.",
+        "courseName": "INFOTC3620"
+      },
+      {
+        "date": "Mar 07, 2018",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Fraser is great. Simply great. He is very intelligible on 3D modeling and rendering and is probably one of the most friendly professors I have ever had. He truly engaged students in a fun and interactive way, while also challenging you. He was never condescending and tries to motivate you. Great guy and really fun class. Learned a lot and had fun!!",
+        "courseName": "IT2620"
+      },
+      {
+        "date": "Jan 23, 2018",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Professor Fraser is incredibly skilled with the Maya software used in the class. He clearly wants the students to learn and to succeed. He will go over the entirety of the quizzes and tests right beforehand to ensure everyone understands. He spent hours outside of class time helping with projects. The attempt more than the result is what matters.",
+        "courseName": "INFOTC2620"
+      }
+    ]
+  },
+  "Justin J Legarsky": {
+    "name": "Justin J Legarsky",
+    "rmpSearched": true,
+    "department": "Engineering",
+    "rmpId": "1740465",
+    "avgRating": 2.7,
+    "avgDifficulty": 1.7,
+    "wouldTakeAgainPct": 55,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1740465",
+    "comments": [
+      {
+        "date": "May 18, 2025",
+        "rating": 2.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": false,
+        "text": "Insanely easy class, getting anything below an A is impossible unless you just don't try.\nI didn't really learn anything in the class though, so I can't say the prof is high quality. If you want an easy A, take this. If you want to learn something, maybe take it in person? (Also, don't buy the textbook)",
+        "courseName": "ECE2210"
+      },
+      {
+        "date": "May 13, 2025",
+        "rating": 3.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": false,
+        "text": "A class this fundamental should be taken in person. It's honestly just lazy. I feel like I didn't even learn anything as I couldn't find the textbook anywhere but oh well, I got an A I guess. I could have just learned this on my own time and taken an extra elective and get more out of the class.",
+        "courseName": "ECE2210"
+      },
+      {
+        "date": "May 08, 2025",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "I don't really even know how to rate this. The recurring themes hold up, it's all online, everything available on day 1, unlimited attempts for everything. I learned nothing, and couldn't even find the textbook anywhere. He had videos though in each module though if you really really care about learning the material. Free 100%.",
+        "courseName": "ECE2210"
+      },
+      {
+        "date": "Dec 12, 2024",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "Very easy class. All material is available day 1. Work at your own pace, so long as you complete assignments before the due date. Lectures were recorded.",
+        "courseName": "ECE2210"
+      },
+      {
+        "date": "Jun 21, 2023",
+        "rating": 3.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "The entire class is on canvas. There aren't any lectures and all material is online. The quizes and tests all have unlimited time and retakes. You can literally take the final exam the day you start the class because everything is unlocked the first day. This class is insanely mickey mouse and you will get the easiest A of your entire life.",
+        "courseName": "ECE2210"
+      },
+      {
+        "date": "May 03, 2023",
+        "rating": 3.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "ECE 2210 is insanely easy to get an A in. Unlimited attempts on every single assignment. Hope you still learn something.",
+        "courseName": "ECE2210"
+      },
+      {
+        "date": "Dec 08, 2022",
+        "rating": 3.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "This course was ridiculously easy. It is an entirely online class and every assignment, including the final exam, is multiple-choice with unlimited attempts. Guessing has no penalty and is seemingly encouraged. It was a great boost to my GPA, but overall I didn't actually learn anything. Don't take this course if you want to retain anything.",
+        "courseName": "ECE2210"
+      },
+      {
+        "date": "May 10, 2021",
+        "rating": 3.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "***I took this online during covid*** The class content is extremely interesting, however the professor does not hold you accountable for learning it due to making all graded assignments via canvas with unlimited attempts and time. For engineering majors reading this, I encourage you to still have the integrity to learn the content.",
+        "courseName": "ECE1210"
+      }
+    ]
+  },
+  "Kannappan Palaniappan": {
+    "name": "Kannappan Palaniappan",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "853303",
+    "avgRating": 2.3,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPct": 0,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/853303",
+    "comments": [
+      {
+        "date": "May 17, 2024",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Too much assignments and work. Very fond of himself and toxic.",
+        "courseName": "CS4610"
+      },
+      {
+        "date": "Mar 18, 2024",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "A truly terrible professor. Disorganized. Loves assigning a lot of homework. Never prepared for his lectures. Couldn't care less about the students.",
+        "courseName": "CS4650"
+      },
+      {
+        "date": "Dec 21, 2021",
+        "rating": 1.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "By far the worst prof I've had at Mizzou. Never prepared &amp; only able to get through 1/2 the syllabus bc of it, made up 100% of lectures on the spot (things were often incorrect), assignments never said what to do/what was being graded, pop quizzes every other week over random niche facts, etc. DIP class itself was cool though, this prof just awful",
+        "courseName": "CS4650"
+      },
+      {
+        "date": "Aug 05, 2017",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "I didn't have a great experience. I did not think he was personable and was difficult to receive the help I needed when I needed it.",
+        "courseName": "CS4610"
+      },
+      {
+        "date": "May 22, 2015",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "Computer graphics class projects were really cool.",
+        "courseName": "CS4610"
+      },
+      {
+        "date": "Dec 24, 2008",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "System.out.println(&quot;He is very knowledgeable, but that isn't the problem. The lectures are extraordinarily vague and the labs/tests seem to address topics that are not covered. Overall, I was disappointed, but still managed to teach myself to an A+. Tips: do the prelabs, read the book, practice programming on your own, ALWAYS DO the lab bonus.&quot;);",
+        "courseName": "CS1050"
+      },
+      {
+        "date": "Oct 08, 2008",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Consistently good class presentations.",
+        "courseName": "CS1050"
+      },
+      {
+        "date": "Mar 13, 2008",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "He teaches a great lecture, but expects most people to know multiple languages before entering the class. The labs kill you. You do not see the problem ahead of time and only have 3 hours to make the logic and the code.",
+        "courseName": "CS1050"
+      }
+    ]
+  },
+  "Kari Michelle Gingrich": {
+    "name": "Kari Michelle Gingrich",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "2341570",
+    "avgRating": 3,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPct": 52,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2341570",
+    "comments": [
+      {
+        "date": "Oct 13, 2025",
+        "rating": 4.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": true,
+        "text": "Not 4353 (it's 3326) but great professor. Extremely difficult class with very little room for error. I wish the quizzes could be padded by having other graded assignments. If you bomb one exam or 2 quizzes, your grade is toast.",
+        "courseName": "ACCTCY4353"
+      },
+      {
+        "date": "Jul 30, 2025",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "I have taken multiple classes with KG and she is definitely one of my favorite professors! She is super easy to talk to and extremely helpful. She does a great job explaining the topics and gives out many practice problems with clear explanations. She is the best!",
+        "courseName": "ACCTCY4353"
+      },
+      {
+        "date": "Jul 29, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "This lady is truly evil.",
+        "courseName": "ACCTCY2037"
+      },
+      {
+        "date": "Sep 30, 2024",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Had an A all the way up to the end of my sophomore year last year. I had to go home as my brother was in a terrible accident. I told Kari during office hours and explained the situation, asking if I could take the final exam THREE days later. She said no, accused me of faking it, and showed no sympathy. Was penalized for late exam resulting in a B-",
+        "courseName": "ACC2037"
+      },
+      {
+        "date": "May 11, 2024",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Very helpful to read the textbook and do EVERY practice problem (of which there were many). She is really great at explaining concepts and has clear criteria and focuses on grading things quick and being fair. Tests took a lot of prep, but the material was covered in class well.",
+        "courseName": "ACCTCY4353"
+      },
+      {
+        "date": "Dec 11, 2023",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Prof. Gingrich was one of the best teachers I had at Mizzou. I failed Accounting 1 so I had to take that again and received another poor grade on it. But then Accounting 2 was so easy if you just go to lecture. Trust me, do not miss a lecture.",
+        "courseName": "ACCT2037"
+      },
+      {
+        "date": "Nov 15, 2023",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Decent professor. GO TO LECTURE. Also lab is not mandatory but I suggest you go. She does a pretty good job of getting the content across but the content is boring as all get out and the lectures are a drag.",
+        "courseName": "ACCT2037"
+      },
+      {
+        "date": "Nov 14, 2023",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "Kari is an amazing teacher. The class is set up for your success. She lectures at a good pace and is engaging. Lab is optional (you can either do the assignment with your TA in lab or alone at home) and once an exam she gives extra credit for lab attendance. Kari is by far my favorite prof I have had and her class is well planned and thought out.",
+        "courseName": "ACCT2037"
+      }
+    ]
+  },
+  "Kathryn Elise Bartley": {
+    "name": "Kathryn Elise Bartley",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "3017906",
+    "avgRating": 5,
+    "avgDifficulty": 3,
+    "wouldTakeAgainPct": 100,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/3017906",
+    "comments": [
+      {
+        "date": "May 06, 2025",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "I had Bartley for managerial accounting this semester and she was the best. Her lectures were very in-depth and we did a lot of hands on learning within manufacturing. Tests were challenging, but no surprises. Would highly recommend!",
+        "courseName": "ACCT-2137H"
+      }
+    ]
+  },
+  "Keith Robert Czerney": {
+    "name": "Keith Robert Czerney",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "2946003",
+    "avgRating": 1,
+    "avgDifficulty": 5,
+    "wouldTakeAgainPct": 0,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2946003",
+    "comments": [
+      {
+        "date": "Dec 05, 2024",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "AWFUL. He uses a flipped classroom model so there are a ton of videos to watch outside of class, and the in class activities are an absolute waste of time. So many case studies, they are open ended but you will get a bad grade if the answers aren't EXACTLY as he wants it. I had the other prof, but Keith designed the class and graded some cases.",
+        "courseName": "ACCTCY4384"
+      },
+      {
+        "date": "Nov 07, 2023",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Explains nothing. This entire class is a mystery. Run while you still can.",
+        "courseName": "ACCTCY4384"
+      }
+    ]
+  },
+  "Kenneth William Shaw": {
+    "name": "Kenneth William Shaw",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "820144",
+    "avgRating": 4.3,
+    "avgDifficulty": 2.4,
+    "wouldTakeAgainPct": 100,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/820144",
+    "comments": [
+      {
+        "date": "Feb 29, 2024",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Highly recommend!",
+        "courseName": "ACC3346"
+      },
+      {
+        "date": "Feb 29, 2024",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Great class!",
+        "courseName": "INTERMTEACCY"
+      },
+      {
+        "date": "Feb 29, 2024",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Highly enjoyed his class and learned a lot.",
+        "courseName": "ACCT3346"
+      },
+      {
+        "date": "Nov 05, 2015",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": false,
+        "text": "Dr. Shaw teaches at a steady pace and takes time to explain everything thoroughly. Great instructor, fair tests, amazing voice.",
+        "courseName": "ACCT3346"
+      },
+      {
+        "date": "Nov 21, 2013",
+        "rating": 3.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "He did a good job teaching. The material was boring, but he provided good notes.",
+        "courseName": "ACCT3346"
+      },
+      {
+        "date": "Aug 01, 2006",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": false,
+        "text": "He's good. The book is boring, so you'd better come to lectures and take good notes. Fair test and he curves.",
+        "courseName": "INTERMTEACCY"
+      },
+      {
+        "date": "Mar 14, 2006",
+        "rating": 2.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "No Comments",
+        "courseName": "ACC3346"
+      }
+    ]
+  },
+  "Kristen Michelle Hockman": {
+    "name": "Kristen Michelle Hockman",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "615314",
+    "avgRating": 3,
+    "avgDifficulty": 3.4,
+    "wouldTakeAgainPct": 35,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/615314",
+    "comments": [
+      {
+        "date": "Mar 12, 2026",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "I had to take this class for my major and I would hope a bus would hit me as a crossed the street on the way to her lectures. Her lectures are genuinely so pointless. She just reads off of her slides and then makes you take a mandatory attendance quiz. I know more about her personal life than I do my own best friend. Exams are rough. Good Luck!",
+        "courseName": "ACCT2258"
+      },
+      {
+        "date": "Mar 11, 2026",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Lecture being online was really nice, lab once a week wasn't bad. I was glad to learn excel until we got to the Macro section and then it became pointless. I wanted to learn excel, not learn how to code. Besides that, it was good.",
+        "courseName": "ACCT2258"
+      },
+      {
+        "date": "Nov 25, 2025",
+        "rating": 3.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "You don't actually have a lecture to go to, but the lab is required for attendance. The first two tests are pretty easy, but the last one is hard. It's basically about nothing you've ever learned or will see again. I didn't even watch any of the lecture recording until I needed to prepare for the last exam. Overall, not too bad of a class.",
+        "courseName": "ACCT2258"
+      },
+      {
+        "date": "Nov 06, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Videos for 2018!!!! lmao, she doesn't even teach the class they are just old videos getting re uploaded and her office hours are always changing. I was playing prime fort in 2018 without a care in the world, so much has changed... anyway don't take this professor if you have a choice, chatgpt is 20 a month for premium and is better.",
+        "courseName": "ACCT2258"
+      },
+      {
+        "date": "Nov 06, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "this \"professor\" sucksssssss so bad holy",
+        "courseName": "ACCT2258"
+      },
+      {
+        "date": "Jul 08, 2025",
+        "rating": 2.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "She is nice, but not the best professor. Spends at least 15-30 minutes of each class discussing her personal life, her dojos, etc. Lectures are graded for attendance through iclicker quizzes but I personally went to about 5-6 lectures total (because they are useless) and still did very well in the class. HW is easy, the only hard exam is the last.",
+        "courseName": "ACCTCY2258"
+      },
+      {
+        "date": "May 07, 2025",
+        "rating": 2.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "This class is mostly easy but has flaws. Assignments give full credit but don't prepare you for exams&#8212;they're step-by-step, so you don't learn deeply. Exams are brutal, especially Exam 3 (writing 13+ lines of code by hand). Study hard, don't fall behind, and good luck&#8212;you'll need it!",
+        "courseName": "ACCTCY2258"
+      },
+      {
+        "date": "May 07, 2025",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "This class is mostly easy but has flaws. Assignments give full credit but don't prepare you for exams&#8212;they're step-by-step, so you don't really learn. Exams are brutal, especially Exam 3 (writing 13+ lines of code by hand). Study hard, don't fall behind, and good luck&#8212;you'll need it!",
+        "courseName": "ACCT2258"
+      }
+    ]
+  },
+  "Kristofferson R Culmer": {
+    "name": "Kristofferson R Culmer",
+    "rmpSearched": true,
+    "department": "Information Technology",
+    "rmpId": "2660817",
+    "avgRating": 4,
+    "avgDifficulty": 2.4,
+    "wouldTakeAgainPct": 82,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2660817",
+    "comments": [
+      {
+        "date": "Jan 28, 2026",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "My favorite professor I've had at Mizzou! All of his IT courses are similarly structured homework wise and does a great job teaching the material and provides lots of resources to succeed. Super nice guy in and out of the classroom and really cares about his students.",
+        "courseName": "IT3380"
+      },
+      {
+        "date": "Dec 23, 2025",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Dr. Culmer clearly has put a lot of effort into giving students plenty of resources to learn the material. He uses a flipped classroom setting, so many of the readings are provided on the canvas page and we go through examples in class. I feel like the pacing of the class was good but maybe too slow at times.",
+        "courseName": "IT2040"
+      },
+      {
+        "date": "Jun 25, 2025",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "I think he was a great professor, most people who rated him badly generally were doing bad in his class and didn't listen. He as well as being a teacher told me his story and it was pretty cool to hear. He teaches well and is always ready to answer any questions you may have. Overall in my opinion, he was a good teacher.",
+        "courseName": "INFOTC1040"
+      },
+      {
+        "date": "May 10, 2025",
+        "rating": 4.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "He is a really nice teacher who obviously really cares about his students and helping them understand. Every concept in the assignments had an example in class, so those were pretty easy. He was very accessible through email and discord. \nThe Canvas page was somewhat outdated, which led to a lot of googling, but that was still fine.",
+        "courseName": "IT2040"
+      },
+      {
+        "date": "Nov 07, 2024",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "Kristofferson is super great! I'm taking 2040 online but it's literally been a breeze with his material. He has video of himself doing it, resources, and overall it's super efficient you ACTUALLY get to learn! There's a couple of scattered quizzes but everything is in a set in stone routine which I LOVE!",
+        "courseName": "IT2040"
+      },
+      {
+        "date": "Sep 24, 2024",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Professor Culmer is a great teacher. He does a great job of actually teaching us concepts and working through them with us. Unlike other professors at this University that teach coding classes, Professor Culmer actually shows us not only how to program but how to clearly structure and think about our programs.",
+        "courseName": "IT2040"
+      },
+      {
+        "date": "May 05, 2024",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Professor Culmer was very helpful outside of class and seems very passionate about both his craft and teaching.",
+        "courseName": "IT2040"
+      },
+      {
+        "date": "Apr 14, 2024",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Last year Culmer took hours outside of class, one-on-one with me and on his own time, to help me with a problem with my VS Code. No prof has ever gone that above and beyond for me. Class was easy and he had clear instructions for all the assignments. Always helpful in class but doesn't always reply to his email...",
+        "courseName": "IT2040"
+      }
+    ]
+  },
+  "Leah M Baer": {
+    "name": "Leah M Baer",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "3057247",
+    "avgRating": 2,
+    "avgDifficulty": 5,
+    "wouldTakeAgainPct": 0,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/3057247",
+    "comments": [
+      {
+        "date": "Dec 10, 2024",
+        "rating": 2.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "AIS is such an outdated class in itself, so don't expect the teacher to be any different. Set up as a flipped classroom so you're expected to watch the lectures before showing up to... lecture. The videos are 4 years old, too lazy to rerecord them. All you do in class is discussion questions but attendance is mandatory. Waste of time and money.",
+        "courseName": "ACCTCY3328"
+      }
+    ]
+  },
+  "Mahafuzur Rahaman Chy": {
+    "name": "Mahafuzur Rahaman Chy",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "3151239",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "wouldTakeAgainPct": -1,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/3151239",
+    "comments": []
+  },
+  "Mary Elizabeth Cowx": {
+    "name": "Mary Elizabeth Cowx",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Matthew Glendening": {
+    "name": "Matthew Glendening",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "2210676",
+    "avgRating": 2.1,
+    "avgDifficulty": 4.6,
+    "wouldTakeAgainPct": 25,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2210676",
+    "comments": [
+      {
+        "date": "May 19, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "This was very hard and i did not like it",
+        "courseName": "ACCTY3326"
+      },
+      {
+        "date": "May 17, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "so bad i missed my cousins funeral to study the exam never take this class i promise you dont need it",
+        "courseName": "ACCTY3326"
+      },
+      {
+        "date": "May 15, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "This could be the worst class I've taken in the past 3 years. He is totally unorganized and almost schizophrenic. I do not understand what he expects of us for exams, or for projects. Totally lost. Thank you for nothing. Sorry.",
+        "courseName": "ACCTY3326"
+      },
+      {
+        "date": "May 08, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "(8420) Wow. I cannot believe how much content is in this course. We have 2.5 hour in class lectures and then he uploads hours of statistics lectures which are covered by exams. He is very vague about exam expectations. This feels like he doesn't know what he's doing or this class is new. Hardest accounting class I've taken in 2 years.",
+        "courseName": "ACCTY3326"
+      },
+      {
+        "date": "Apr 30, 2025",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "(DATA) Participation points because it's required by the uni. Talk about short articles for 2 seconds no time to contribute. Class hits 6 different software in depth. Too many to remember or learn. Lectures are 2.5 hours, he RUSHES because there's too much content. Class needs reorganizing. Projects are much harder than assignments/lecture work",
+        "courseName": "ACCTY3326"
+      },
+      {
+        "date": "Feb 12, 2025",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "I LOVE Professor Glendening! His class was incredibly well-structured and informative. I learned a lot and enjoyed his lectures. He is clearly passionate about his work and is highly intelligent while also making the concepts accessible to those without his knowledge. \n\nThe exams were very difficult, but the curve he applies is very generous.",
+        "courseName": "ACCTY3326"
+      },
+      {
+        "date": "Jan 30, 2025",
+        "rating": 3.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Said if it were up to him he wouldn't be giving exams then proceeds to give the hardest exams in the entire accounting department. Quizzes were harder than the other sections (to my best knowledge). Homework was pretty time consuming and only worth 2.5 points.",
+        "courseName": "ACCTY3326"
+      },
+      {
+        "date": "Dec 13, 2023",
+        "rating": 4.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Glendening is a very smart guy, and is incredibly knowledgeable. Class is mostly taking notes from note packets. Study the quizzes for tests and be ready to sit the entire time to take those tests. Curves pretty hard, so passing the class is achievable, just go to class, pay attention and take good notes.",
+        "courseName": "ACCTY3326"
+      }
+    ]
+  },
+  "Michael Jurczyk": {
+    "name": "Michael Jurczyk",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "223372",
+    "avgRating": 4.1,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPct": 80,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/223372",
+    "comments": [
+      {
+        "date": "May 05, 2026",
+        "rating": 4.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "tough, hard prof. but also very knowledgeable. you will have to work for your grade! but i have learned so much",
+        "courseName": "CMPSC3280"
+      },
+      {
+        "date": "May 05, 2026",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Jurczyk is one of the few professors teaching Comp Sci at MU who knows what he is talking about. He teaches the content great. The one caveat is that he is harsh and unforgiving on grading, refusing to answer emails inquiring about regrades. Get ready to study hard and turn things in on time. You have to work for your grade here.",
+        "courseName": "CMPSC3280"
+      },
+      {
+        "date": "Apr 13, 2026",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "no. just no.",
+        "courseName": "CMPSC3280"
+      },
+      {
+        "date": "Jan 31, 2026",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Tough teacher. Lectures are dense, homework is difficult, project takes time. On the bright side, you will learn.",
+        "courseName": "CS4850"
+      },
+      {
+        "date": "Dec 21, 2025",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "He is an amazing lecturer and is extremely knowledgeable on all of the topics and their associated history. He tries to keep the class engaged with little jokes and posing things as questions to the class. He is far and away a highlight of the CS department so enjoy the few classes you will have with him.",
+        "courseName": "CS4850"
+      },
+      {
+        "date": "Dec 10, 2025",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "He is a terrible grader and is extremely rude to students. Fails to realize that his lectures are boring and awful at communicating material and blames it all on students, and seems to think of himself as some sort of immortal who does no wrong.",
+        "courseName": "CS3280"
+      },
+      {
+        "date": "Dec 03, 2025",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Jurczyk cares quite a bit about this class. The lectures are always good and well explained, and at a good speed. There is a Homework or Lab every week, but not too difficult. \nCourseload is pretty light overall.",
+        "courseName": "CS3280"
+      },
+      {
+        "date": "Oct 05, 2025",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Really chill teacher. Hes a nice guy but very strict on deadlines. In this CS1000 Course 80% of the grade was determined by attendance, and 20% was based on a singular HW Essay. Overall really great professor, though the class can be a bit boring if you aren't into the topic.",
+        "courseName": "CMPSC1000"
+      }
+    ]
+  },
+  "Michael Olaolu Arowolo": {
+    "name": "Michael Olaolu Arowolo",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "2905861",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "wouldTakeAgainPct": -1,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2905861",
+    "comments": []
+  },
+  "Mohammad Haider": {
+    "name": "Mohammad Haider",
+    "rmpSearched": true,
+    "department": "Engineering",
+    "rmpId": "3144214",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "wouldTakeAgainPct": -1,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/3144214",
+    "comments": []
+  },
+  "Nargess Mottaghi Golshan": {
+    "name": "Nargess Mottaghi Golshan",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Nathan Gary Lundstrom": {
+    "name": "Nathan Gary Lundstrom",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Neil Elliot Tzinberg": {
+    "name": "Neil Elliot Tzinberg",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Nicki Elaine Russell": {
+    "name": "Nicki Elaine Russell",
+    "rmpSearched": true,
+    "department": "English",
+    "rmpId": "1972400",
+    "avgRating": 4,
+    "avgDifficulty": 2,
+    "wouldTakeAgainPct": -1,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1972400",
+    "comments": [
+      {
+        "date": "Jan 03, 2015",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "This is an easy class. Not a huge time commitment at all. The only problem is that the course is only out of 100 points so you can't miss many points for an A. Tests are 200 word essays about the readings which are easy. The pop quizzes are hard which end up making up about 40% of your grade.",
+        "courseName": "ENGLISH1310"
+      }
+    ]
+  },
+  "Nickolas Michael Wergeles": {
+    "name": "Nickolas Michael Wergeles",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "2253515",
+    "avgRating": 3.6,
+    "avgDifficulty": 3.6,
+    "wouldTakeAgainPct": 62,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2253515",
+    "comments": [
+      {
+        "date": "Sep 27, 2021",
+        "rating": 2.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Prof has ruined web dev for me. What should be fun web design labs, turn into nightmares as u are threatened w a 0%F! -for anything deemed amiss n the assignment. Confusing, wordy 20q+ quizzes weekly, 4h+ lectures weekly, pgs+pgs of study/reading assigned weekly, plus the lab: 6p messy directions  12h work, sometimes in a lang that u learn that wk",
+        "courseName": "IT2830"
+      },
+      {
+        "date": "Sep 27, 2021",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "My all time favorite professor. His lecture videos are really helpful. His homework he assigns are really fun to do if you enjoy programming. You definitely need to put the work/hours in but the reward you get at the end is worth it. Take him if you can. You wont regret it.",
+        "courseName": "CS2830"
+      },
+      {
+        "date": "Sep 25, 2021",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Professor Wergeles is a fantastic professor. Yes, he gives a lot of hw, but you learn a lot. He knows a vast amount about many topics related to CS and you will definitely learn valuable skills. If you have a full class load, it can be difficult to work his assignments into your schedule, but if you can, his class is worth taking.",
+        "courseName": "CS2830"
+      },
+      {
+        "date": "Sep 12, 2021",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Notes are done outside of class, take upwards of 2 hours. Attendance is mandatory, takes 3 hours a week where questions get answered. Changes instructions on hw the day it's due. Tends to talk around an answer; everything is very wordy, including syllabus. Does not proofread hw instructions. Mandatory citation style leaves a lot to be desired.",
+        "courseName": "CS2830"
+      },
+      {
+        "date": "May 19, 2021",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Professor Wergeles has been my favorite professor so far at the University. His course is challenging but if you put the work in throughout the semester, you will be successful. Lots of help is available outside the class as well. Wergeles cares deeply about the success of his students and has amazing experience in the industry. Highly recommend!",
+        "courseName": "IT2830"
+      },
+      {
+        "date": "May 17, 2021",
+        "rating": 4.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Yes, the workload is overwhelming, but that's because there's only so much time to teach all the content in one semester. You will spend quite a bit of time taking this class each week, but you will also learn so much. Very lecture heavy but he explains things very clearly. Available help is also a good perk of this class.",
+        "courseName": "IT2830"
+      },
+      {
+        "date": "May 17, 2021",
+        "rating": 2.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "This is a 3 credit hour class that requires you do research and trouble shoot 20+ hours a week. At the end of it all I was proud what all I did. Yet at the same time I wouldn't wish this course on my worst enemy.",
+        "courseName": "IT2830"
+      },
+      {
+        "date": "May 12, 2021",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Good professor, forces you to learn the material. He knows his stuff and still does interviews with FAANG companies to make sure he is teaching useful information. His challenges take you a long time to complete and some required material is a little silly. Overall, he's a good guy who cares about his students and I'll take more of his classes.",
+        "courseName": "CS2830"
+      }
+    ]
+  },
+  "Paul Leroy Vogel": {
+    "name": "Paul Leroy Vogel",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Penny Lynn Kleen": {
+    "name": "Penny Lynn Kleen",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Philip Bamber Wright": {
+    "name": "Philip Bamber Wright",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Philip William Kunz": {
+    "name": "Philip William Kunz",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Praveen Ramesh Rao": {
+    "name": "Praveen Ramesh Rao",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "2865407",
+    "avgRating": 4.3,
+    "avgDifficulty": 1.6,
+    "wouldTakeAgainPct": 100,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2865407",
+    "comments": [
+      {
+        "date": "Dec 21, 2025",
+        "rating": 4.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "While his lectures are a little boring, I believe it is the fault of the topic not the teaching. He is very kind, and even if you do not attend class he will still treat you the same. If you are concerned about a mistake you made effecting your grade, just respectfully talk to him and he will almost certainly allow you to rectify it.",
+        "courseName": "CS3380"
+      },
+      {
+        "date": "Oct 14, 2025",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "He is a very calming professor. His lectures are a bit slow sometimes but I enjoy his classes. He gives a lot of examples when learning new topics so you understand how it works. He is genuinely a nice prof. One of the few good comp sci professors at Mizzou. Posts lectures online as well.",
+        "courseName": "CS3380"
+      },
+      {
+        "date": "Aug 12, 2025",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Boring class, but did provide a good study on relational databases and SQL, and the professor knew what he was doing. Exams are straight forward, but be prepared for a semester long project that's worth more of your grade than the exams. Also be prepared to present said project to the TAs at the end.",
+        "courseName": "CS3380"
+      },
+      {
+        "date": "Jul 11, 2025",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "The grading for assignments and the three-part phases of your project are very reasonable. Very up to date with the news, such as new AI models. A few extra credits comparing Deepseek to GPT. Does his lecture seem boring? Yes, but you can tell that he's very passionate while lecturing on each topic. Ask questions, he's good at explaining.",
+        "courseName": "CS3380"
+      },
+      {
+        "date": "May 24, 2025",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Very knowledgeable and passionate. The only negative is that the lecture is boring and drawn out.",
+        "courseName": "CS3380"
+      },
+      {
+        "date": "May 10, 2025",
+        "rating": 3.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "The lectures were pretty boring, but it was an interesting topic and an easy class. Lecture videos were immediately posted, and he would respond to emails. \nThe final project was not totally covered in class, which made it hard to implement, but he was willing to help.",
+        "courseName": "CS3380"
+      },
+      {
+        "date": "Feb 16, 2025",
+        "rating": 4.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "One of the better profs in CS department. You can tell he cares about the topic. There's very little homework, so the only way to really learn concepts is to do your own code outside class. Tests are pretty easy as long as you understand the topic.",
+        "courseName": "CS3380"
+      },
+      {
+        "date": "Dec 11, 2024",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Dr. Rao was an amazing professor and passionate about the material. The project was probably the best part about this course. Because you got to design a database and a application that uses the database.",
+        "courseName": "CS3380"
+      }
+    ]
+  },
+  "Rasha Saadallah Gargees": {
+    "name": "Rasha Saadallah Gargees",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Raynolde Pereira": {
+    "name": "Raynolde Pereira",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "2534859",
+    "avgRating": 5,
+    "avgDifficulty": 3,
+    "wouldTakeAgainPct": 100,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2534859",
+    "comments": [
+      {
+        "date": "Mar 16, 2020",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "There is no textbook for this course. The course consists of different PowerPoints and word documents that he will use each class period. He will call on students at random to answer questions. Regular pop quizzes. If you are interest in M&amp;A, this class is a good foundation for accounting students. Very approachable directly after class. Easy A.",
+        "courseName": "ACCTCY8453"
+      }
+    ]
+  },
+  "Richard M Naik": {
+    "name": "Richard M Naik",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "2779372",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "wouldTakeAgainPct": -1,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2779372",
+    "comments": []
+  },
+  "Rohit Chadha": {
+    "name": "Rohit Chadha",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "2144792",
+    "avgRating": 4.3,
+    "avgDifficulty": 3.6,
+    "wouldTakeAgainPct": 86,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2144792",
+    "comments": [
+      {
+        "date": "Mar 27, 2024",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Rohit is an accommodating grader, making the learning process less stressful. His informative videos enrich understanding, while the practical labs provide hands-on experience. Highly recommend for a balanced and rewarding academic journey.",
+        "courseName": "CS4420"
+      },
+      {
+        "date": "Dec 22, 2021",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "CS 4420 has to be one of my favorite classes I've ever taken because of how fun Rohit makes it and how practical the labs are. The lecture content is closely related to the labs and quizzes, and I feel like I learned a lot from this class. Highly recommend this professor and this class!",
+        "courseName": "CS4420"
+      },
+      {
+        "date": "Dec 22, 2021",
+        "rating": 5.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": true,
+        "text": "Rohit Chadra is a very caring teacher but CS 4050 was really challenging. The lectures contained a ton of proofs that went way over my head and the homework questions asked Leetcode questions that were hard to relate to the lecture content.",
+        "courseName": "CS4050"
+      },
+      {
+        "date": "Jan 23, 2018",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Professor Chadha is clearly very intelligent, but is not the greatest of public speakers. He can occasionally get lost in a single example and confuse himself. His lectures can move very fast day to day. Outside of class, he is very willing to help and will try his hardest to solve your problem. The TA's were less than useless.",
+        "courseName": "CS3050"
+      },
+      {
+        "date": "Jan 09, 2018",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Chadha was clearly knowledgable but I personally wasn't a fan of his teaching style. Never knew what was going on during lecture &amp; had to learn everything outside of class. Programming assignments &amp; homework were mostly doable but the exams were a struggle. Class is heavily curved from the beginning to offset expected low scores.",
+        "courseName": "CS3050"
+      },
+      {
+        "date": "Dec 15, 2016",
+        "rating": 4.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Very tough class, but he does a pretty good job teaching it. 3 coding assignments and two large tests.",
+        "courseName": "CS3050"
+      },
+      {
+        "date": "Aug 11, 2016",
+        "rating": 4.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Doesn't require a textbook instead he posts his lecture notes online. A man of constitution who doesn't take pearson's BS. Unfortunately those lecture notes are of poor quality and he's not the best at explaining in general. His in class examples are boring but effective. Each homework assignment is a time consuming project. Hard relative to CS2050",
+        "courseName": "CS3050"
+      },
+      {
+        "date": "May 17, 2016",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Dr. Chadha's class is the hardest I've taken so far, but i would definitely recommend him as a professor. His lecturing style is very awkward, but his slides are easy to follow. The material is very challenging, so are the tests and assignments, but the grading is generous. He's also very willing to help if you're a good student and go to class.",
+        "courseName": "CS3050"
+      }
+    ]
+  },
+  "Ronny Cristian Bazan Antequera": {
+    "name": "Ronny Cristian Bazan Antequera",
+    "rmpSearched": true,
+    "department": "Information Technology",
+    "rmpId": "2660818",
+    "avgRating": 3.4,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPct": 50,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2660818",
+    "comments": [
+      {
+        "date": "May 13, 2023",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Prof Bazan is very enthusiastic about his classes and cares about his student's grades. He provides excellent up-to-date lectures that right now are relevant to my position as a SysAdmin. All his classes involve working with several labs using virtual environments and the cloud. He is very approachable and passionate.",
+        "courseName": "IT3910"
+      },
+      {
+        "date": "May 02, 2023",
+        "rating": 2.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "The class had a lot of extra credit available, professor bazan is accesible throughout the day. His class and way of explaining just isnt the best and he does not care much about students. Does not like to say goodbye.",
+        "courseName": "IT3910"
+      },
+      {
+        "date": "Mar 20, 2023",
+        "rating": 1.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "Did not explain much, his class was very akward and Mr.Bazan did not want to interact much with the class. Very shy guy",
+        "courseName": "IT3910"
+      },
+      {
+        "date": "Jan 19, 2023",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "This goes for all of his classes... He does a great job of explaining complex concepts so that it's easily understandable for students. 95% of the info in lectures are used for graded assignments, so as long as you follow along it's an easy class. Reached out a couple times for questions and got replies the same day. One of my favorite professors.",
+        "courseName": "IT3910"
+      },
+      {
+        "date": "Nov 30, 2022",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "During the last months after graduation I have been using a lot of knowledges I got from this class in my job, I am very thankful with the professor for his passion and guidance.",
+        "courseName": "IT3850"
+      },
+      {
+        "date": "Jul 30, 2022",
+        "rating": 3.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "I took this as an 8 week summer class online, which was more than enough. The class is well presented, but the assignments or at least lecture notes to complete the assignments are outdated which creates additional time having to research the correct commands or files. Extra credit is provided, giving an easy way to make up an entire assignment.",
+        "courseName": "IT3910"
+      },
+      {
+        "date": "Jul 13, 2022",
+        "rating": 2.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Course covers primarily Linux based system, avoiding Windows server administration. Put expectations of having to spend about an hour or two more because lectures and assignments are not up to date. Once you get the ball rolling on an assignment however, it goes by pretty quickly. Extra credit is provided a lot during the semester too.",
+        "courseName": "IT3850"
+      },
+      {
+        "date": "Jul 13, 2022",
+        "rating": 2.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "This class does require independent research for assignments as the lectures and given instructions are not well up to date. Assignments are a breeze however once you get the ball rolling. Quizzes and exams are basic as well as extra credit provided plentifully along the way.",
+        "courseName": "IT3530"
+      }
+    ]
+  },
+  "Roshan Lal Neupane": {
+    "name": "Roshan Lal Neupane",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "3126041",
+    "avgRating": 1.5,
+    "avgDifficulty": 4,
+    "wouldTakeAgainPct": 0,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/3126041",
+    "comments": [
+      {
+        "date": "Feb 24, 2026",
+        "rating": 2.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "I have no idea how to rate this guy. He was kind and helpful, but gave incredibly unclear lectures. His tests were nightmarishly hard, but graded very lightly, so everyone felt like they failed but the average was 85%. The homework assignments were weird and unclear but everyone received full points. The class was very useful but poorly executed.",
+        "courseName": "CS4530"
+      },
+      {
+        "date": "Oct 23, 2025",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Professor disappeared for 5 weeks mid-semester and had random subs filling in. Showed up 2 days before the exam to tell us what was on it. Grades attendance even though he barely attended. Exam was insanely hard and covered topics we never learned. Do not take this class.",
+        "courseName": "CS4530"
+      }
+    ]
+  },
+  "Royce De Rohan Barondes": {
+    "name": "Royce De Rohan Barondes",
+    "rmpSearched": true,
+    "department": "Law",
+    "rmpId": "2431199",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "wouldTakeAgainPct": -1,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2431199",
+    "comments": []
+  },
+  "Sajid Kamal": {
+    "name": "Sajid Kamal",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Sarah M Meyer": {
+    "name": "Sarah M Meyer",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Satish S Nair": {
+    "name": "Satish S Nair",
+    "rmpSearched": true,
+    "department": "Engineering",
+    "rmpId": "1134662",
+    "avgRating": 1.4,
+    "avgDifficulty": 4.2,
+    "wouldTakeAgainPct": 11,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1134662",
+    "comments": [
+      {
+        "date": "Apr 29, 2026",
+        "rating": 1.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": false,
+        "text": "If you aren't taking this class for the Neuroscience certificate, I don't really recommend it. This professor was absent past the first day. Each week, Matthew Will and a guest presenter talked about new topics, making the class feel like it lacks structure. However, homework and quizzes are very easy if you need the 1 credit hour.",
+        "courseName": "Psych2017"
+      },
+      {
+        "date": "Dec 24, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "I took the online section of this course which was completely put together by the TA. Many of the prerecorded lectures and lecture slides were outdated, some spanning back to 2018 and 2020. This made information of how to access homework difficult as there was a lot of conflicting information. Confusing lectures lead to confusing homework.",
+        "courseName": "CMPSC4590"
+      },
+      {
+        "date": "Nov 18, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Where do I even start&#8230; He admitted he uses ChatGPT to make his exams, which explains why they feel nearly impossible. He drags out the same topics for weeks, then suddenly rushes through the rest. The only mercy is a 10-30% curve at the end. Anyone taking this course&#8230; you'll need luck.",
+        "courseName": "CMPSC4590"
+      },
+      {
+        "date": "May 20, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "This prof does not grade for partial credit. So, If you get one part of a four part question wrong, you earn no points. Very stressful. Also, the correct answers for Hw, quizzes, and exams are not revealed. There is no guidance. Also, hours before grades are due, an extreme curve is applied. Your grade in canvas does not reflect your final grade.",
+        "courseName": "CMPSC4540"
+      },
+      {
+        "date": "Mar 04, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "I have never had a professor this bad in my entire life. Assignments take hours with unclear instructions and the necessary material frequently forgotten. All of the learning for the course consists of online videos that either under-explain content or have zero correlation. Assignments and labs also have no correlation. DO NOT TAKE.",
+        "courseName": "CMPSC4540"
+      },
+      {
+        "date": "Feb 02, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "This class is the worst I've seen during my time at Mizzou. Satish is very adamant about sticking to his style, which consists of never answering student's questions, not teaching things himself, and assigning unreasonable amounts of homework. This is a glorified teach-yourself course, but it lacks the necessary structure and guidance. Stay clear!",
+        "courseName": "CMPSC4540"
+      },
+      {
+        "date": "Jan 25, 2025",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "This guy is a joke. Genuinely awful. First day of class he'll tell you there will be no feedback on homework and it's completion and it takes hours upon hours to complete it and it often serves zero purpose for the class. This is the worst professor I've ever had. I took the elective because it sounds interesting but he completely ruins it.",
+        "courseName": "CMPSC4540"
+      },
+      {
+        "date": "Jan 23, 2025",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "This class wasn't awful but it's a lot of work. I took the online version so there were less opportunities for content review, but it's still doable and tests were alright. The TA was a big help (and also basically ran the whole class). Taking it in-person might be better for concepts to be cleared up, but overall I still learned a lot.",
+        "courseName": "BME4590"
+      }
+    ]
+  },
+  "Scott B Picker": {
+    "name": "Scott B Picker",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "2402315",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "wouldTakeAgainPct": -1,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2402315",
+    "comments": []
+  },
+  "Scottie Dean Murrell": {
+    "name": "Scottie Dean Murrell",
+    "rmpSearched": true,
+    "department": "Information Technology",
+    "rmpId": "2800538",
+    "avgRating": 2.3,
+    "avgDifficulty": 3.4,
+    "wouldTakeAgainPct": 36,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2800538",
+    "comments": [
+      {
+        "date": "Sep 28, 2025",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "Probably one of the best teachers I've had. Classes were well done and informative. Office hours were easily accessible and he is good with managing time and answering questions.",
+        "courseName": "2830"
+      },
+      {
+        "date": "May 10, 2025",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Scottie is a great guy, and if you are looking for some cool things that can apply to your everyday computing life this is a great class. I still use some of the applications that we discuss such as VM's in this class that I did not know about before.",
+        "courseName": "3530"
+      },
+      {
+        "date": "Feb 01, 2025",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Scottie is a fine professor, he can get lost in his own world sometimes haha. HW can be unclear sometimes but gives plenty of time to get it done and will explain it if you have questions on discord or next time in class just don't wait. Lecture can get bland and boring sometimes. He does care though and tries to engage the class.",
+        "courseName": "3530"
+      },
+      {
+        "date": "Jan 08, 2025",
+        "rating": 2.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "Mickey Mouse class. Could chat gpt the entire course. There is no lectures its a textbook that you follow. Theres a project at the end that is full stack development but the grading is fairly easy. Another easy scottie Murrell class im not sure how the university lets this slide.",
+        "courseName": "2830"
+      },
+      {
+        "date": "Sep 24, 2024",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Scottie Murrell is a really good guy who is always willing to help you with the concepts. However, he doesn't teach anything. Nothing he says makes any sense. His lectures and slide shows somehow leave me even more confused than before. He basically expects you to already know everything he is talking about. Good luck in his class.",
+        "courseName": "IT3530"
+      },
+      {
+        "date": "May 13, 2024",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "I really liked this class. We got to do some really cool stuff. The lectures sometimes got a little boring but overall it was ok.",
+        "courseName": "3530"
+      },
+      {
+        "date": "May 05, 2024",
+        "rating": 3.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Scottie seems like a great guy, was always available to answer questions and extremely knowledgeable about Unix. However, some of his lectures or assignment requirements were very incoherent and unrelated to what we were learning in class or doing for an assignment. Midterm + Final were honestly drastically easier than smaller weighted assignments.",
+        "courseName": "3530"
+      },
+      {
+        "date": "May 04, 2024",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Pretty much completion assignments all the way up until the last 4 weeks of class, which is a final project, that no one understands and he expects you to know/learn full stack development on your own.",
+        "courseName": "2830"
+      }
+    ]
+  },
+  "Sean Patrick Goggins": {
+    "name": "Sean Patrick Goggins",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "2218372",
+    "avgRating": 2.6,
+    "avgDifficulty": 3.4,
+    "wouldTakeAgainPct": 46,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2218372",
+    "comments": [
+      {
+        "date": "Mar 31, 2026",
+        "rating": 1.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "Dr. Goggins is incapable of teaching any topic, no matter the simplicity. Attending lecture will only leave you more confused than never attending. He is bad about giving feedback to students for labs. Lectures primarily consist of him getting corrected by students after he guessed what a slide meant. Overall, a likeable guy, but can't teach.",
+        "courseName": "CS3050"
+      },
+      {
+        "date": "Jan 22, 2026",
+        "rating": 2.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "He gives some confusing, cobbled-together lectures that make it look like he hasn't taught this class before, even though he has many times. It's hard to understand what you should be studying. You won't get much from this class, but at least he's a lenient grader. He's very easy to talk to in class, but was not there when I went to office hours.",
+        "courseName": "CS3050"
+      },
+      {
+        "date": "Dec 20, 2025",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "The first 2 thirds of the class consisted of confusing lectures and easy labs with most covering what you've already learned, but the last third contained 2 much harder experimental labs covering poorly taught/uncovered material. Currently this class is an easy A, but you will not learn much.",
+        "courseName": "CS3050"
+      },
+      {
+        "date": "Jun 02, 2025",
+        "rating": 3.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Pretty chill professor. Easy to reach out too.",
+        "courseName": "CS3050"
+      },
+      {
+        "date": "Feb 16, 2025",
+        "rating": 1.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "Extremely disorganized throughout the course. He used other prof's slides and didn't seem to understand half of them: he would read verbatim and was unable to answer questions about stuff on it. Tests are unnecessarily confusing and he occasionally had the wrong answers. Fortunately his grading is lax, but I will still avoid him in the future.",
+        "courseName": "CS3050"
+      },
+      {
+        "date": "Oct 23, 2023",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Goggins assigns work that is extremely unclear; almost no one in the class has any idea what they're doing. It's not that the assignments are hard, it's that there's a huge lack of direction. It seems like Goggins forgets about the class as soon as he leaves it every day. It's intentionally vague and frustrating.",
+        "courseName": "CS4320"
+      },
+      {
+        "date": "Oct 11, 2023",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Unfortunately SE is a required course. Its unfortunate because Goggins teaches this course. You probably won't know what is going on, the lectures are almost random and the homework assignments were difficult only because we have no idea what to do. Oftentimes does not respond in his own discord server for the class. His communication is asinine",
+        "courseName": "CS4320"
+      },
+      {
+        "date": "May 06, 2023",
+        "rating": 1.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": false,
+        "text": "Youll get an easy A but you will not learn a thing.",
+        "courseName": "CMPCS4320"
+      }
+    ]
+  },
+  "Shannon Ashley Ferguson": {
+    "name": "Shannon Ashley Ferguson",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "2321032",
+    "avgRating": 2.3,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPct": 33,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2321032",
+    "comments": [
+      {
+        "date": "May 08, 2018",
+        "rating": 2.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "By pop quizzes, I mean extra credit attendance points. Very enthusiastic and knowledgeable, but was extremely difficult to talk to outside class (and even avoided students close to due dates). Lots of homework and huge accounting projects, so don't wait until the last minute to do them. She didn't assign our second textbook until end of semester.",
+        "courseName": "ACCTCY2010"
+      },
+      {
+        "date": "Mar 07, 2018",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Professor Ferguson is strict but a good teacher. The homework doesn't take too long but is due before class starts in person. On most days that there is no homework due she will give out extra credit for attendance. Her tests are honestly really easy; the multiple choice is a breeze and then the problems come from the hw or in class. Just study!",
+        "courseName": "ACTCY2010"
+      },
+      {
+        "date": "Mar 04, 2018",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "This woman is the worst teacher I have ever had. She refuses to work with students on their grades as I went to her several times about it. For instance, one time Canvas closed the submission box for an assignment early, and when I went to explain it to her she said I could email it in. I did and she then refused to give me any points for it. awful",
+        "courseName": "ACCTCY2010"
+      }
+    ]
+  },
+  "Stacy Jay Wright": {
+    "name": "Stacy Jay Wright",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "3011754",
+    "avgRating": 3.9,
+    "avgDifficulty": 2.6,
+    "wouldTakeAgainPct": 75,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/3011754",
+    "comments": [
+      {
+        "date": "Mar 31, 2026",
+        "rating": 2.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Class is taught in ways that make simple concepts overall complicated and so much harder than it needs to be. Cheat sheets are given but only one side and there is to much material dumped on you where you couldn't get it all on the sheet if you wanted to. Exams are given at bad times and overall set up to make a simple class hard.",
+        "courseName": "ACCTCY2037"
+      },
+      {
+        "date": "Dec 19, 2025",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Stacy really cares about students and she provides plenty of opportunities for extra credit. Also, she teaches well.",
+        "courseName": "ACCTCY2037"
+      },
+      {
+        "date": "Nov 13, 2025",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "She is a great teacher; the only downside is that she sometimes overcomplicates the easy things and makes you question it all together. The larger topics sometimes feel like she's just showing you what to do and not really explaining it clearly. She's great, just pay close attention and make your notes easy to read for when you go back to study.",
+        "courseName": "ACCTCY2037"
+      },
+      {
+        "date": "Oct 17, 2025",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Overall just not applicable at all. Just a crazy amount of busy work. Felt like high school again.",
+        "courseName": "ACCTCY2037"
+      },
+      {
+        "date": "May 11, 2025",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Stacy is caring and a fantastic professor!  She is a professional who really cares about her students.  You get a cheat sheet on exams and lab attendance is optional (you can earn extra credit by going, but you can also choose to do the online assignment instead).  Exams are straightforward, lectures are useful/she points out what will be on exams.",
+        "courseName": "ACCTCY2037"
+      },
+      {
+        "date": "Apr 24, 2025",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Stacy is a great professor and a very nice person! She is always willing to help if you have any questions. Make sure to go to lab and class because it is very helpful (and will lead to success in the class). You get a cheat sheet on the tests. To prepare for the tests: go through the class workbook and do all the \"on your owns\" in it as well.",
+        "courseName": "ACCTCY2037"
+      },
+      {
+        "date": "Feb 03, 2025",
+        "rating": 3.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "As far as content, this class was easier than Accounting 1. Sometimes, lab attendance is extra credit, so make sure to utilize that and go to lectures because they honestly help. She goes through lots of examples that are similar to exam questions. Stacy sometimes, however, can overexplain simple things and be repetitive. But that's okay :)",
+        "courseName": "ACCTCY2037"
+      },
+      {
+        "date": "May 07, 2024",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Good prof who made sure to have good TAs and be accessible to students. Labs are in-person (10-point quiz during each) but an assignment can be done online giving flexibility (but you can get extra credit going to labs). She only takes attendance a few times a semester, but it's worth 5% of your grade. I did badly on the exams and still got a B.",
+        "courseName": "ACCTCY2037"
+      }
+    ]
+  },
+  "Stevanie Schneider Neuman": {
+    "name": "Stevanie Schneider Neuman",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "2887770",
+    "avgRating": 2.2,
+    "avgDifficulty": 4.7,
+    "wouldTakeAgainPct": 17,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2887770",
+    "comments": [
+      {
+        "date": "May 14, 2025",
+        "rating": 2.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Boy, where do I start? Monotone + shrill voice (one-two punch combo), rude, tough grader. When a student isn't presenting (everyone has to), she just fills out notes on an iPad. I wish I had checked the grade distribution before taking this, lesson learned. Study hard, or be happy with a C. You have been warned.",
+        "courseName": "8453"
+      },
+      {
+        "date": "May 09, 2023",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "This tax course is a first for all students, nonetheless she is strict for grading, lecturing and extra credit. She reads off a tablet and fills in notes over each chapter. Projects are vague, and she doesn't explain anything. She repeats the same words and phrases. She doesn't allow people to leave early or talk in class.",
+        "courseName": "4353"
+      },
+      {
+        "date": "Apr 22, 2023",
+        "rating": 2.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "A lot is expected from students learning taxes for the first time. She lectures the entire time and acts like an old lady about leaving at the end of lecture and talking. There is a lot of material to memorize for weekly quizzes on top of 2 exams. Projects use reports and she assumes students understand and know how to figure everything out already",
+        "courseName": "4353"
+      },
+      {
+        "date": "Apr 21, 2023",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Professor Neuman illustrates the highest degree of preparedness and professionalism. All that she asks back is your respect. Very low tolerance for students who disrespect their peers by talking in class.",
+        "courseName": "4353"
+      },
+      {
+        "date": "Apr 05, 2023",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Neuman expects a high level of respect from students that isn't given back in return. She spends a lot of class time repeatedly yelling at everyone to be quiet. The whole class is based on quizzes, tests, and projects to be done outside of class. She mostly just writes notes on her Ipad for lectures and is a harsh grader. Wouldn't recommend",
+        "courseName": "4353"
+      },
+      {
+        "date": "Mar 17, 2023",
+        "rating": 2.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "You must print out the lecture notes and bring them to class every day. All assignments are graded extremely harshly and if your answers aren't 100% exactly correct, expect to loose points. Also, she gets easily frustrated by students talking during class and will not hesitate to call you out. Overall I would not recommend this professor.",
+        "courseName": "4353"
+      }
+    ]
+  },
+  "Steven Lee Haenchen": {
+    "name": "Steven Lee Haenchen",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Suchithra Rajendran": {
+    "name": "Suchithra Rajendran",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Timothy Michael Howald": {
+    "name": "Timothy Michael Howald",
+    "rmpSearched": true,
+    "department": "Finance",
+    "rmpId": "3036084",
+    "avgRating": 2.5,
+    "avgDifficulty": 3.8,
+    "wouldTakeAgainPct": 39,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/3036084",
+    "comments": [
+      {
+        "date": "May 03, 2026",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Professor extremely confusing to follow.",
+        "courseName": "3000"
+      },
+      {
+        "date": "Apr 21, 2026",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Really good and worthwhile class if you put in the work. Tim is an excellent professor too",
+        "courseName": "3000"
+      },
+      {
+        "date": "Mar 11, 2026",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Homework is nothing like what we see on the exams. Tim forgets the fact that in real life we can just google something, so one would think a one sided cheat sheet on exams would be acceptable.",
+        "courseName": "3000"
+      },
+      {
+        "date": "Mar 11, 2026",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "He is a good person, but not a good teacher. I clicker is for attendance but not multiple choice, so if you put even a wrong decimal in, you do not get attendance credit for being there. He likes to repeat himself. His life's mission is to make the exams hard, and for us to memorize dozens of formulas. The lectures are also disorganized.",
+        "courseName": "3000"
+      },
+      {
+        "date": "Feb 23, 2026",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "The expectations for tests are insane",
+        "courseName": "3000"
+      },
+      {
+        "date": "Feb 19, 2026",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Howald is a good person, but his ADHD-ridden lectures and inability to finish thoughts make his lectures nearly impossible to comprehend. His lectures do not pertain to the exams in any sort on the bright side. He usually provides a 200-question test bank, so I recommend memorizing formulas instead of listening to an \"um ummm uh\" filled word salad.",
+        "courseName": "4356"
+      },
+      {
+        "date": "Feb 18, 2026",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Tim was a great professor in my book. The class was hard but felt like it was worth it. Prepare those tests at least 2 weeks in advance!!",
+        "courseName": "3000"
+      },
+      {
+        "date": "Feb 17, 2026",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Tim is a great professor I've had him for four classes now and he really doesn't care about his students and wants to see them succeed. If you need help he is always willing. Know all of the problems on the practice exams he gives and you will get in A in all his classes, he doesn't try to trick you he gives you everything you need to be successful",
+        "courseName": "4356"
+      }
+    ]
+  },
+  "Timothy Ray Hurley": {
+    "name": "Timothy Ray Hurley",
+    "rmpSearched": true,
+    "department": "Engineering",
+    "rmpId": "3006784",
+    "avgRating": 5,
+    "avgDifficulty": 3,
+    "wouldTakeAgainPct": 100,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/3006784",
+    "comments": [
+      {
+        "date": "Dec 22, 2025",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Took for Structural Analysis/CVENG3300. Great professor and lenient grader. If you understand the material and explain your work on exams, you will do well. Very accessible and willing to help in office hours and after class. Genuinely cares about the teaching and super reasonable if you have a request or question about grades/rounding.",
+        "courseName": "CVENG3300"
+      }
+    ]
+  },
+  "Tobias Mendelson": {
+    "name": "Tobias Mendelson",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Toni Kazic": {
+    "name": "Toni Kazic",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Vairam Arunachalam": {
+    "name": "Vairam Arunachalam",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Wei Jiang": {
+    "name": "Wei Jiang",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "2450818",
+    "avgRating": 1,
+    "avgDifficulty": 4,
+    "wouldTakeAgainPct": 0,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2450818",
+    "comments": [
+      {
+        "date": "Dec 27, 2018",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Professor Jiang truly tried to make this class good and was very open outside class. However, this was his first time teaching software engineering and he was very unprepared. He did not know how to filter relevant information. Everything was group work with upwards of 150+ pages written per group. I truly believe he will improve with time.",
+        "courseName": "CS4320"
+      }
+    ]
+  },
+  "Xiaofan Huang": {
+    "name": "Xiaofan Huang",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Ye Duan": {
+    "name": "Ye Duan",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "2271474",
+    "avgRating": 2.7,
+    "avgDifficulty": 3,
+    "wouldTakeAgainPct": 67,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2271474",
+    "comments": [
+      {
+        "date": "May 19, 2022",
+        "rating": 2.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": false,
+        "text": "Dr. Duan seems ok. He taught a couple classes and had the TAs teach the rest. This class was so easy to pass, but it felt like a waste of time. The grade is based on a few things: 5 WebGL assignments and a final project. This course doesn't have a ton of content, and the content that it does have is glossed over and poorly taught. Please avoid.",
+        "courseName": "CS4610"
+      },
+      {
+        "date": "Apr 24, 2019",
+        "rating": 3.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Deep learning is a very important class for any CS student. This class course slides are based on Stanford's CS231n . Grading is based on mid-term and final project. Lectures are good . Exam is easy. Prof Duan will help you form groups for the final project. So,it's killing two birds with one stone. Easy 'A' and you will learn something on the way.",
+        "courseName": "CS8690"
+      },
+      {
+        "date": "Jan 14, 2019",
+        "rating": 3.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": true,
+        "text": "Prof Duane's class is one of the toughest I took He himself said it The prerequisites were laid out clearly You need top be very very good at Data structures,a bit of Linear Algebra Mat lab and Open CV and Geometry It has only 3 assignments but prepare to sweat a lot He is a generous grader through",
+        "courseName": "CS8680"
+      }
+    ]
+  },
+  "Yi Shang": {
+    "name": "Yi Shang",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Youssef Saab": {
+    "name": "Youssef Saab",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "1861256",
+    "avgRating": 2.7,
+    "avgDifficulty": 3.6,
+    "wouldTakeAgainPct": 38,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1861256",
+    "comments": [
+      {
+        "date": "Feb 08, 2021",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "One of the professors everyone dreads having, but has no other choice. Will teach you how to do a specific example, and be tested on completely different examples. Mizzou CS deserves better CS Algo curriculum.",
+        "courseName": "CS4050"
+      },
+      {
+        "date": "Jan 22, 2021",
+        "rating": 2.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "Saab is quite possibly the worst communicator to ever exist. He wouldn't talk to the TA's, so even they didn't know what was going to be on the exams. His lectures are painfully terrible. There is little explanation on anything, and it is difficult to understand and YouTube video can do a better job All assignment answers found online, so easy A",
+        "courseName": "CS3050"
+      },
+      {
+        "date": "Oct 23, 2020",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "gives a fraction of the lecture time you pay for, tests on content he never explained",
+        "courseName": "CS4050"
+      },
+      {
+        "date": "Oct 20, 2020",
+        "rating": 3.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "This class has optional homework, which is nice. It's also graded on weekly quizzes, which I find more agreeable than homework or projects when it comes to assessing understanding of this particular subject. The professor's just really quite dry, but if you can tolerate that and have a decent grasp on computer logic, it's an easy A.",
+        "courseName": "CMPSC4410"
+      },
+      {
+        "date": "Sep 27, 2020",
+        "rating": 2.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "He teaches math concepts. He does not really teach how to translate math concepts into programs. Good luck getting him to respond to your email. Considering that the lectures are pre-recorded and that theres not any real way to ask questions, this is easily one of the worst classes Ive ever been in. Prepare to do a lot of online searching.",
+        "courseName": "CS3050"
+      },
+      {
+        "date": "Aug 24, 2020",
+        "rating": 3.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Rough content, but explained decently. Hard to understand.",
+        "courseName": "CS4050"
+      },
+      {
+        "date": "Dec 21, 2019",
+        "rating": 2.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Your grade is divided into four 25% categories: Test 1, Test 2, Quizzes, and Programs. Quizzes are weekly, and the questions are exactly the same as the optional homework. The answers are on google. Go to the TA's for help on programs (if you need it). For the tests, review the book chapters he gives you, and prepare for conceptual questions.",
+        "courseName": "CS3050"
+      },
+      {
+        "date": "Dec 17, 2019",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Class was fine, everything is in the textbook (I found it online). Weekly quizzes were directly from the unassigned optional homework each week, so know how to do them. 2 in-class exams, no final. A single question on the exam can be worth a lot of points (KNOW TIME COMPLEXITIES) otherwise if you read the book and/or attend class you'll be fine.",
+        "courseName": "CS3050"
+      }
+    ]
+  },
+  "Yue Zou": {
+    "name": "Yue Zou",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Yunxin Zhao": {
+    "name": "Yunxin Zhao",
+    "rmpSearched": true,
+    "department": "Computer Science",
+    "rmpId": "1900443",
+    "avgRating": 1.6,
+    "avgDifficulty": 4,
+    "wouldTakeAgainPct": 0,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1900443",
+    "comments": [
+      {
+        "date": "Dec 23, 2025",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Try and avoid taking her class if possible.  She's a nice person but the other professor for this class gives out easy A's.  Labs are insanely difficult and so is the final.",
+        "courseName": "CS2270"
+      },
+      {
+        "date": "May 20, 2025",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Lectures aren't mandatory, but if you miss one you'll have no idea what's going on.  Labs are insanely difficult, and class slides make no sense without attending the lecture.",
+        "courseName": "CS2270"
+      },
+      {
+        "date": "Feb 27, 2024",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Impossible to succeed in class if you fall behind, even if it is just a little bit. Miss a lecture and you are in trouble, because the slides make no sense without the lecture.",
+        "courseName": "CS2270"
+      },
+      {
+        "date": "Feb 26, 2024",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "dont take her please",
+        "courseName": "CS2270"
+      },
+      {
+        "date": "Jan 13, 2024",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Please understand that the lectures don't really help with any of the homework or quizzes you take. The quizzes get astronomically harder as the semester continues. Because this is online, the way you enter in your results ends up in a lot of misses points. Don't rely on the final exam as you will most likely not do well. Do Extra credit",
+        "courseName": "CS2270"
+      },
+      {
+        "date": "Feb 21, 2023",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Smart, but not very good at teaching. She put no prerequisites but requires that you know linear algebra and statistics to a higher degree than they were taught. She will teach as if you know everything perfectly. As she teaches, she expects you to know everything she covered, or just covered last time. 6 weeks in and I have learned nothing.",
+        "courseName": "CS4720"
+      },
+      {
+        "date": "May 12, 2022",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Her accent makes it very hard to understand her. She goes way to fast with examples and she only does them once.",
+        "courseName": "CS2270"
+      },
+      {
+        "date": "May 03, 2021",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "This is coming from a student who is going to receive an A in the class by the way. She goes so freaking fast it's unbelievable. You don't have time to even write down notes. She also barely speaks English and can't even understand her half of the time. The worst professor I've ever had, would not recommend this class. Take the electrical eng one",
+        "courseName": "CS2270"
+      }
+    ]
+  },
+  "Zhenhao Piao": {
+    "name": "Zhenhao Piao",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Zhihai He": {
+    "name": "Zhihai He",
+    "rmpSearched": true,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
+    "tags": [],
+    "rmpUrl": null,
+    "comments": []
+  },
+  "Zhiyan Song": {
+    "name": "Zhiyan Song",
+    "rmpSearched": true,
+    "department": "Accounting",
+    "rmpId": "3075471",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "wouldTakeAgainPct": -1,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/3075471",
+    "comments": []
+  }
+}
