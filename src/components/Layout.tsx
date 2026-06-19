@@ -1,8 +1,6 @@
-import { useRef } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import StorageBanner from './StorageBanner';
-import { exportAllData, importAllData } from '@/lib/storage';
 
 interface LayoutProps {
   children: React.ReactNode;
@@ -10,22 +8,10 @@ interface LayoutProps {
 
 const NAV_LINKS = [
   { href: '/', label: 'Search' },
-  { href: '/planner', label: 'Planner' },
-  { href: '/degrees', label: 'Degrees' },
 ];
 
 export default function Layout({ children }: LayoutProps) {
   const router = useRouter();
-  const importRef = useRef<HTMLInputElement>(null);
-
-  function handleImport(e: React.ChangeEvent<HTMLInputElement>) {
-    const file = e.target.files?.[0];
-    if (!file) return;
-    importAllData(file, () => {
-      e.target.value = '';
-      router.reload();
-    });
-  }
 
   return (
     <div className="min-h-screen flex flex-col" style={{ background: 'var(--off)' }}>
@@ -68,28 +54,6 @@ export default function Layout({ children }: LayoutProps) {
             </Link>
           );
         })}
-
-        <div className="flex items-center gap-1 ml-2">
-          <button
-            onClick={exportAllData}
-            className="font-syne font-bold text-xs px-3 py-1.5 rounded transition-colors"
-            style={{ color: 'var(--g400)', border: '1.5px solid #2a2a2a', background: 'transparent' }}
-            onMouseEnter={(e) => { (e.target as HTMLButtonElement).style.color = 'var(--gold)'; }}
-            onMouseLeave={(e) => { (e.target as HTMLButtonElement).style.color = 'var(--g400)'; }}
-          >
-            Export
-          </button>
-          <button
-            onClick={() => importRef.current?.click()}
-            className="font-syne font-bold text-xs px-3 py-1.5 rounded transition-colors"
-            style={{ color: 'var(--g400)', border: '1.5px solid #2a2a2a', background: 'transparent' }}
-            onMouseEnter={(e) => { (e.target as HTMLButtonElement).style.color = 'var(--gold)'; }}
-            onMouseLeave={(e) => { (e.target as HTMLButtonElement).style.color = 'var(--g400)'; }}
-          >
-            Import
-          </button>
-          <input ref={importRef} type="file" accept=".json" className="hidden" onChange={handleImport} />
-        </div>
       </nav>
 
       <main className="flex-1">
