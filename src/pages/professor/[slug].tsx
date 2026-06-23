@@ -4,6 +4,8 @@ import Link from 'next/link';
 import type { Professor, GradeRecord, Course } from '@/types';
 import { professorSlug } from '@/lib/utils';
 import { readProfessors, readGradeDist, readCourses } from '@/lib/data-server';
+import { useIsMobile } from '@/lib/hooks';
+import MobileProfessorPage from '@/components/mobile/MobileProfessorPage';
 
 interface ProfessorPageProps {
   professor: Professor;
@@ -37,6 +39,9 @@ function GradeBar({ label, pct, color }: { label: string; pct: number; color: st
 }
 
 export default function ProfessorPage({ professor, records, courseMap }: ProfessorPageProps) {
+  const isMobile = useIsMobile();
+  if (isMobile) return <MobileProfessorPage professor={professor} records={records} courseMap={courseMap} />;
+
   const hasProfData = professor.avgRating !== null;
 
   const courseRecords: Record<string, GradeRecord[]> = {};

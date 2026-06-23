@@ -9,6 +9,8 @@ import { readCourses, readGradeDist, readProfessors } from '@/lib/data-server';
 import GPABadge from '@/components/GPABadge';
 import RMPBadge from '@/components/RMPBadge';
 import GPATrendChart from '@/components/GPATrendChart';
+import { useIsMobile } from '@/lib/hooks';
+import MobileCourseDetail from '@/components/mobile/MobileCourseDetail';
 
 type SortKey = 'professor' | 'avgGPA' | 'terms';
 type SortDir = 1 | -1;
@@ -58,6 +60,7 @@ function RatingDot({ value }: { value: number }) {
 }
 
 export default function CourseDetail({ course, records, avgGPA, professorMap, prereqCourses }: CourseDetailProps) {
+  const isMobile = useIsMobile();
   const [sortKey, setSortKey] = useState<SortKey>('avgGPA');
   const [sortDir, setSortDir] = useState<SortDir>(-1);
   const [expandedRow, setExpandedRow] = useState<string | null>(null);
@@ -91,6 +94,8 @@ export default function CourseDetail({ course, records, avgGPA, professorMap, pr
     else cmp = a.avgGPA - b.avgGPA;
     return cmp * sortDir;
   }), [professorGroups, sortKey, sortDir]);
+
+  if (isMobile) return <MobileCourseDetail course={course} records={records} avgGPA={avgGPA} professorMap={professorMap} prereqCourses={prereqCourses} />;
 
   function toggleSort(key: SortKey) {
     if (sortKey === key) setSortDir((d) => (d === 1 ? -1 : 1));

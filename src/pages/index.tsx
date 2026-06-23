@@ -7,6 +7,8 @@ import Fuse from 'fuse.js';
 import type { Course } from '@/types';
 import { readSubjects, readCourses } from '@/lib/data-server';
 import CourseCard from '@/components/CourseCard';
+import { useIsMobile } from '@/lib/hooks';
+import MobileHome from '@/components/mobile/MobileHome';
 
 // ── Types ──────────────────────────────────────────────────────────────────────
 
@@ -87,7 +89,7 @@ function StatusDot({ hasData }: { hasData: boolean }) {
 
 // ── Main Component ─────────────────────────────────────────────────────────────
 
-export default function Home({ initialSubjects, initialCourseCount }: HomeProps) {
+function HomeDesktop({ initialSubjects, initialCourseCount }: HomeProps) {
   const router = useRouter();
 
   const [subjectList] = useState<SubjectInfo[]>(() =>
@@ -597,6 +599,12 @@ export default function Home({ initialSubjects, initialCourseCount }: HomeProps)
       </div>
     </>
   );
+}
+
+export default function Home(props: HomeProps) {
+  const isMobile = useIsMobile();
+  if (isMobile) return <MobileHome {...props} />;
+  return <HomeDesktop {...props} />;
 }
 
 // ── Static data ────────────────────────────────────────────────────────────────
