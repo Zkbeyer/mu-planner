@@ -1023,7 +1023,7 @@
     "rmpSearched": true,
     "department": "Computer Science",
     "rmpId": "2675511",
-    "avgRating": 3.5,
+    "avgRating": 3.6,
     "avgDifficulty": 3.3,
     "wouldTakeAgainPct": 67,
     "tags": [],
@@ -4242,10 +4242,18 @@
     "rmpId": "2095837",
     "avgRating": 3.9,
     "avgDifficulty": 3.2,
-    "wouldTakeAgainPct": 85,
+    "wouldTakeAgainPct": 86,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/2095837",
     "comments": [
+      {
+        "date": "Jul 07, 2026",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Statics in the beginning is pretty intuitive, I think Aaron did a good job at giving the class a solid foundation for the rest of the course. However, Exam 1 is by far the easiest exam, and Exam 2 is miles harder (likely on purpose). Do not get discouraged, though, Aaron and all the TA's/PLA's are available every day of the week.",
+        "courseName": "ENGINR1200"
+      },
       {
         "date": "May 04, 2026",
         "rating": 5.0,
@@ -4300,14 +4308,6 @@
         "difficulty": 3.0,
         "wouldTakeAgain": true,
         "text": "Saucier was a cool professor who explained concepts well. Posts notes online, posts practice exams, and exams were a little tough but he curved the lowest grade. Only issue is he could come off as a little derogatory when answering questions for students who were really confused. Slightly more homework than usual but still a reasonable amount",
-        "courseName": "ENGINR1200"
-      },
-      {
-        "date": "Oct 16, 2025",
-        "rating": 5.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": true,
-        "text": "Saucier is the goat!! He has great lectures that are really easy to follow. The exams are always straightforward and he and his TA's are very accessible if you need help. Probably the best professor I've had at MU so far, definitely take his class if you can.",
         "courseName": "ENGINR1200"
       }
     ]
@@ -7996,10 +7996,18 @@
     "rmpId": "1675808",
     "avgRating": 2,
     "avgDifficulty": 3,
-    "wouldTakeAgainPct": 24,
+    "wouldTakeAgainPct": 25,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/1675808",
     "comments": [
+      {
+        "date": "Jul 31, 2026",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "I never had Professor Simons as my prof, but she oversaw a graduate student who taught the class and she came in often. From this limited perspective, I think she's misunderstood. I appreciated her thoroughness, dedication and vigor. She gave me feedback in an editing session that was more useful than most of my other profs. Try and it'll be okay.",
+        "courseName": "J1400"
+      },
       {
         "date": "Jan 19, 2026",
         "rating": 5.0,
@@ -8055,14 +8063,6 @@
         "wouldTakeAgain": false,
         "text": "If you can, avoid taking ANY classes with Amy Simons. She takes things from level 1 to 100 all the time. It seemed like her goal was for us to fail her class. She gave us all these loop holes to jump through with no sympathy or leniency of any kind. She wants up to think outside the box just to criticize us for doing so. The worst prof I ever had.",
         "courseName": "J1400"
-      },
-      {
-        "date": "Mar 15, 2025",
-        "rating": 2.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": false,
-        "text": "Very harsh grader, and is always looking for you to do more. Does offer extra credit, allowing you to keep your grade up, but definitely expects too much out of you.",
-        "courseName": "JOURN1000"
       }
     ]
   },
@@ -9399,14 +9399,23 @@
   "Andrew J. Woodson": {
     "name": "Andrew J. Woodson",
     "rmpSearched": true,
-    "department": "Chemistry",
-    "rmpId": "2231052",
-    "avgRating": 0,
-    "avgDifficulty": 0,
+    "department": "Philosophy",
+    "rmpId": "1285712",
+    "avgRating": 2.5,
+    "avgDifficulty": 3,
     "wouldTakeAgainPct": -1,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/2231052",
-    "comments": []
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1285712",
+    "comments": [
+      {
+        "date": "Nov 15, 2011",
+        "rating": 3.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Awkward sense of humor. Moon a nice guy, but is not meant for teaching. The class, if you can help yourself from falling asleep, is easy. His tests are semi-fair. Not a teacher I would recommend.",
+        "courseName": "PHIL1000"
+      }
+    ]
   },
   "Andrew James Forsythe": {
     "name": "Andrew James Forsythe",
@@ -9525,10 +9534,18 @@
     "rmpId": "2769257",
     "avgRating": 4.3,
     "avgDifficulty": 2.4,
-    "wouldTakeAgainPct": 82,
+    "wouldTakeAgainPct": 83,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/2769257",
     "comments": [
+      {
+        "date": "Jul 11, 2026",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "He was engaging in lecture and answered questions well. The homework he assigns is tedious and takes 1-2 hours, but questions aren't that difficult. Before large exams, he gives a lot of these at once and doing them will take a lot of time from doing projects at the end of a semester. Be careful to manage this along with other classes.",
+        "courseName": "FINPLN2183"
+      },
       {
         "date": "May 11, 2026",
         "rating": 5.0,
@@ -9583,14 +9600,6 @@
         "difficulty": 3.0,
         "wouldTakeAgain": false,
         "text": "Lectured very fast and gave a lot of homework. On average HW would take me roughly an hour to an hour and a half to complete. On another note, the exams were very easy. The first one was online and open notes, and the final was only over the second part of the semester and we were allowed one sheet of paper, front and back.",
-        "courseName": "FINPLN2183"
-      },
-      {
-        "date": "Aug 31, 2023",
-        "rating": 5.0,
-        "difficulty": 2.0,
-        "wouldTakeAgain": true,
-        "text": "He was super fun to have and explained everything very well! Missing a day wasnt a big deal, but he does do in class assignments. He taught me a lot about managing my personal finances",
         "courseName": "FINPLN2183"
       }
     ]
@@ -12337,10 +12346,18 @@
     "rmpId": "799910",
     "avgRating": 3.6,
     "avgDifficulty": 3.3,
-    "wouldTakeAgainPct": 64,
+    "wouldTakeAgainPct": 65,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/799910",
     "comments": [
+      {
+        "date": "Jul 03, 2026",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "Dr.Harcharras is by far the best calc III prof. She clearly cares a lot about the content and is always happy to explain topics in more detail or help in any way she can. Exams are fair and she allows note cards for each exam, and provides plenty of practice material. Absolutely recommend her for Calc 3 and Calc 2",
+        "courseName": "MATH2300"
+      },
       {
         "date": "Apr 07, 2026",
         "rating": 5.0,
@@ -12396,14 +12413,6 @@
         "wouldTakeAgain": false,
         "text": "She is a very sweet lady who I really enjoy as a person, but her lecture style sometimes felt like a 50 minute sorta monotone rambling of difficult, high-level math concepts. I genuinely almost fell asleep every class. If you talk to her outside of class for help she is great, overall not terrible.",
         "courseName": "MATH2300"
-      },
-      {
-        "date": "May 24, 2024",
-        "rating": 5.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": true,
-        "text": "I took this course at another university and got an A. I then attended MU after a lengthy absence. My first attempt at MATH 1700 was with Tanya Christiansen but had to withdraw because of poor exam performance. My mid-term exam performance averaged to an 89%, and my final exam grade was a 93%. Overall my grade was a 93%. Loved the exam/quiz format",
-        "courseName": "MATH1700"
       }
     ]
   },
@@ -14119,11 +14128,19 @@
     "department": "Mathematics",
     "rmpId": "273023",
     "avgRating": 4.6,
-    "avgDifficulty": 2.3,
+    "avgDifficulty": 2.2,
     "wouldTakeAgainPct": 100,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/273023",
     "comments": [
+      {
+        "date": "Jul 08, 2026",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "As long as you try you can get 100 percent. Content wise, this class was one of the most difficult classes I have taken for my math degree, but his grading scale made it possible and passable. Just show up and pay attention and you will learn some amazing stuff. Also very funny.",
+        "courseName": "MATH4400"
+      },
       {
         "date": "May 13, 2025",
         "rating": 5.0,
@@ -14178,14 +14195,6 @@
         "difficulty": 3.0,
         "wouldTakeAgain": true,
         "text": "This man is so funny and nice. He is passionate about Mathematics and making sure you understand it. He truly cares and is very genuine, and is always available for extra help if you need it. He taught me Calculus while reducing my stress about it, and I definitely recommend taking a class with him.",
-        "courseName": "MATH2300"
-      },
-      {
-        "date": "Dec 22, 2021",
-        "rating": 5.0,
-        "difficulty": 2.0,
-        "wouldTakeAgain": true,
-        "text": "I was so glad I had Prof Banks. His lectures were usually pretty easy to follow, but the practice exams were the best way to study for exams. He is very understanding and gave extensions on quizzes/homework and would curve if needed. The homework was much harder than the exams but would be available for questions if we had them.",
         "courseName": "MATH2300"
       }
     ]
@@ -16351,6 +16360,14 @@
     "rmpUrl": "https://www.ratemyprofessors.com/professor/465159",
     "comments": [
       {
+        "date": "Jul 29, 2026",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "It's a flipped classroom. His lecture videos are well designed. The recipe for success in this class is to watch the lecture videos before class and do the ALEKS homework yourself before the test. Only use AI to help you understand a topic and know your calculator well. Power points from lecture videos and iClicker make good cheat sheet resources.",
+        "courseName": "CHEM1400"
+      },
+      {
         "date": "Apr 17, 2026",
         "rating": 4.0,
         "difficulty": 2.0,
@@ -16404,14 +16421,6 @@
         "difficulty": 1.0,
         "wouldTakeAgain": true,
         "text": "If you have previous chemistry knowledge and can learn things on your own, he's easy and his tests are pretty easy. If you don't know anything about chemistry and need a lot of support from a professor, don't take him. But you do get bonus points for showing up to the lectures 60% of the time and he is good about answering questions in class.",
-        "courseName": "CHEM1400"
-      },
-      {
-        "date": "Dec 12, 2025",
-        "rating": 4.0,
-        "difficulty": 2.0,
-        "wouldTakeAgain": true,
-        "text": "He's really smart, but if you ask him questions deeper than the content goes even outside of class he doesnt super like to answer them which kinda sucks. there are only 6 things in canvas, and if you attend 60% < of lectures you get 15 points of ec.",
         "courseName": "CHEM1400"
       }
     ]
@@ -18802,76 +18811,76 @@
   "Caroline Brock": {
     "name": "Caroline Brock",
     "rmpSearched": true,
-    "department": "Peace Studies",
-    "rmpId": "2294417",
-    "avgRating": 1.6,
-    "avgDifficulty": 3.6,
-    "wouldTakeAgainPct": 9,
+    "department": "Sociology",
+    "rmpId": "1777078",
+    "avgRating": 2.5,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPct": 31,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/2294417",
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1777078",
     "comments": [
       {
-        "date": "Mar 11, 2026",
-        "rating": 3.0,
+        "date": "Apr 28, 2026",
+        "rating": 1.0,
         "difficulty": 5.0,
         "wouldTakeAgain": false,
-        "text": "The class was okay, but it was very confusion to understand the structure and the material.",
-        "courseName": "SOCIOL2150W"
+        "text": "This is one of the most difficult professors I have ever dealt with. She is not receptive to any student feedback, she is negligent to the fact that every student in her class took around 4 or 5 weeks of classes to understand her course material and organization, and with talking with other classmates has consistently made rude remarks to everyone.",
+        "courseName": "SOC2150W"
       },
       {
-        "date": "Dec 18, 2025",
-        "rating": 1.0,
-        "difficulty": 4.0,
+        "date": "May 06, 2025",
+        "rating": 2.0,
+        "difficulty": 2.0,
         "wouldTakeAgain": false,
-        "text": "I spent way too much time in office hours to receive no helpful feedback and no matter what grade I got I was told to come to office hours DON'T TAKE THIS CLASS unless you are incredibly bored because it will take up so much time to get an A",
+        "text": "Prof. Brock is incredibly knowledgable and passionate. However, this class was miserable. The work is monotonous and resembles \"busy work.\" You are given three essays to complete, but each essay requires an outline and a draft. The instruction page for the final essay was 7 pages long. The instructions are often confusing and repetitive.",
         "courseName": "SOCIOL2150W"
       },
       {
-        "date": "Nov 20, 2025",
-        "rating": 1.0,
-        "difficulty": 1.0,
-        "wouldTakeAgain": false,
-        "text": "So confusing and not very helpful. She gives too much reading and little time to complete. She isn't really caring about the students. DO NOT TAKE THIS CLASS!!!!!!!!",
-        "courseName": "SOCIOL2150W"
-      },
-      {
-        "date": "Nov 15, 2025",
-        "rating": 4.0,
+        "date": "May 02, 2025",
+        "rating": 5.0,
         "difficulty": 3.0,
         "wouldTakeAgain": true,
-        "text": "Dr. Brock is very sweet and cares about her students. She provides many opportunities of extra credit and office hours to get help on things. The class was difficult and had lots of work even outside of class but if you take the time to do it you will be just fine.",
-        "courseName": "SOC2150W"
-      },
-      {
-        "date": "Oct 01, 2025",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "Just don't do it worst experience I've had in any class so far",
-        "courseName": "SOC2150W"
-      },
-      {
-        "date": "Dec 04, 2024",
-        "rating": 1.0,
-        "difficulty": 1.0,
-        "wouldTakeAgain": false,
-        "text": "Dr. Brock, if you are reading this please take these comments personally. Please stop pandering to your students during class time. Also learn how to grade papers other than just claiming everything as \"overstatements.\" Also stop picking favorites in class. I did not miss a single class and you picked me out in class more times than I can count.",
+        "text": "This is a writing intensive class, some people don't realize that. It's not a guaranteed easy A, but if you do the work, you'll do well. Only two main papers, with lots of feedback and support. Professor is kind, always available to talk, and offers plenty of office hours and extra credit opportunities. Ended up with a 108% in the class.",
         "courseName": "SOCIOL2150W"
       },
       {
-        "date": "Feb 27, 2024",
-        "rating": 1.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": false,
-        "text": "I am currently taking this class, and this might be the most unclear instructor I have had so far at Mizzou. This class has way too much reading for the time she gives us, and no matter what, every assignment has to be the way she wants it, or its wrong. Her feedback on the papers you have to write is very unclear, leaving you to guess what to fix.",
+        "date": "Apr 22, 2025",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "She often doesn't really make sense but the class really isn't that hard especially for a writing intensive",
         "courseName": "SOCIOL2150W"
       },
       {
-        "date": "Jan 30, 2024",
-        "rating": 2.0,
+        "date": "Apr 22, 2025",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Sometimes a lot of work and she can be confusing at times. Not a hard class but she can be aggravating. Gives a lot of extra credit though which is helpful. Has a lot of office hours too.",
+        "courseName": "SOCIOL2150W"
+      },
+      {
+        "date": "Apr 22, 2025",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Can be a lot of work but overall the class isn't that hard. If you are a good writer and go to class you'll be fine.",
+        "courseName": "SOC2150W"
+      },
+      {
+        "date": "Apr 22, 2025",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "There is work you have to do outside of class which can sometimes be aggravating but overall this class is really easy. She has a ton of office hours that are helpful and she gives a lot of extra credit which is nice. She's a really nice lady and has helpful TAs.",
+        "courseName": "SOCIOL2150W"
+      },
+      {
+        "date": "Apr 22, 2025",
+        "rating": 1.0,
         "difficulty": 4.0,
         "wouldTakeAgain": false,
-        "text": "So so many readings to do before each class. I understand this is a writing intensive course but it's so much work for a 2000 level class. She's a nice woman but her expectations are so high. She does give opportunities for extra credit but it doesn't matter with how bad the grading scale is. Her instructions aren't always clear either.",
+        "text": "Horrible grader and makes no sense.",
         "courseName": "SOCIOL2150W"
       }
     ]
@@ -20919,14 +20928,79 @@
   "Charles H Nilon": {
     "name": "Charles H Nilon",
     "rmpSearched": true,
-    "department": "Fisheries  Wildlife",
-    "rmpId": "2001762",
-    "avgRating": 0,
-    "avgDifficulty": 0,
-    "wouldTakeAgainPct": -1,
+    "department": "Wildlife",
+    "rmpId": "1300783",
+    "avgRating": 1.9,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPct": 50,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/2001762",
-    "comments": []
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1300783",
+    "comments": [
+      {
+        "date": "Nov 14, 2019",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "While his lectures seemed random at first, i found later what was the point. He doesn't just use bold letters on what you are supposed to learn. The class is based on giving background during lectures to help with labs and tests later. I liked it cause you get to apply what we learned, not just memorizing material. Dr. Nilon is really nice.",
+        "courseName": "NAT1060"
+      },
+      {
+        "date": "Aug 28, 2019",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Most labs are an easy A and he will curve any quizzes (basically exams) if he thinks he should. Just show up to class, even though the lectures are very dry, and you should be fine. He really cares about his students and the subject so respect that!",
+        "courseName": "NAT1060"
+      },
+      {
+        "date": "Jul 24, 2019",
+        "rating": 2.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Nilon is SO passionate about ecology and his job, and that's amazing. However, he is sometimes hard to understand and isn't good at communicating what will be on the quizzes. The quizzes are worth so much of your grade and are really difficult. P.S. YOU WILL GO OUTSIDE EVERY WEEK IN THE MIDDLE OF WINTER IF YOU TAKE THIS CLASS FOR LAB.",
+        "courseName": "NAT1060"
+      },
+      {
+        "date": "Apr 30, 2017",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Typos on assignments make it hard to decipher what he's asking, a sign of how little he cares. I didn't get anything out of the material he taught because of his nonsensical lectures. It's hard to get a good grade just because you don't know what he wants from you. This was meant to be a blow-off class but it stressed me out more than any others.",
+        "courseName": "NATR1060"
+      },
+      {
+        "date": "Apr 20, 2017",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "This was, by far, the worst class I have ever taken at Mizzou. His lectures are very vague and you can barely understand anything he says. The information we learned was not hard, but he taught it in such a confusing way that nobody understood what was going on. I do NOT recommend this class.",
+        "courseName": "NAT1060"
+      },
+      {
+        "date": "Mar 23, 2017",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Honestly, I thought this class was extremely easy and interesting. It is a good way to get an easy science w/ a lab without having to do a ton of work. If you show up to lecture and put a little effort into the lab write-ups, this should be a piece of cake. Nilon is an extremely nice guy, a little scattered, but great intentions and a good class.",
+        "courseName": "NAT1060"
+      },
+      {
+        "date": "May 14, 2015",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "We never really knew our exact grade at any given time throughout the semester, nor what our grade was going into the final. We learned nothing new. His lectures were very unorganized and he could never get to a direct point. Lot of open ended questions that he would ask but never receive answers to. Too many stupid examples. Terrible lecturer Zzzz",
+        "courseName": "4200"
+      },
+      {
+        "date": "Apr 08, 2015",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "The single worst class and professor I have ever had. Most boring subject and Charles is the worst lecturer I have ever seen.  Do not take this class or you'll regret it.",
+        "courseName": "NATR1060"
+      }
+    ]
   },
   "Charles J Nemmers": {
     "name": "Charles J Nemmers",
@@ -26164,6 +26238,14 @@
         "courseName": "J2000"
       },
       {
+        "date": "May 12, 2026",
+        "rating": 1.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "There was a checklist buried in the rubric for our semester long project. This checklist was worth 15% of our final grade for the project. What would have otherwise received a 99, was instead graded an 84. Which cost me an A in this course, because she doesn't round up grades. It's an excellent course, just not with her.",
+        "courseName": "J2000"
+      },
+      {
         "date": "May 06, 2026",
         "rating": 1.0,
         "difficulty": 3.0,
@@ -26209,14 +26291,6 @@
         "difficulty": 5.0,
         "wouldTakeAgain": false,
         "text": "Canvas is confusing (there is bonus points for students who create test questions for her, something she never mentioned), and grading has no rubric basis. Genuinely a bad person as much as she is a bad teacher. Uses situated knowledge and the intolerance paradox to legitimize berating students on their opinions. Drop this class genuinely.",
-        "courseName": "J2000"
-      },
-      {
-        "date": "Jul 30, 2025",
-        "rating": 1.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": false,
-        "text": "Cristina walked into class every day with her coffee, a nice outfit, and a clean purse every day while telling students they are bad people for having a heteronormative race and sexual orientation. Told my close friend in class that she could never feel the oppression Cristina has felt in her lifetime, while she is living below the poverty line.",
         "courseName": "J2000"
       }
     ]
@@ -27370,14 +27444,31 @@
   "Daniel Emerson Shafer": {
     "name": "Daniel Emerson Shafer",
     "rmpSearched": true,
-    "department": null,
-    "rmpId": null,
-    "avgRating": null,
-    "avgDifficulty": null,
-    "wouldTakeAgainPct": null,
+    "department": "English",
+    "rmpId": "2208595",
+    "avgRating": 3.5,
+    "avgDifficulty": 3,
+    "wouldTakeAgainPct": 50,
     "tags": [],
-    "rmpUrl": null,
-    "comments": []
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2208595",
+    "comments": [
+      {
+        "date": "Mar 20, 2023",
+        "rating": 3.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "He's pretty average. He's absolutely not clear about grading criteria. About 80% of your grade is based only on two papers and he was very picky. I would never take him again.",
+        "courseName": "ENGL3003"
+      },
+      {
+        "date": "Dec 10, 2016",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "He is fun and young so he tries really hard to relate to his students. His class is mostly papers and little assignments. CHECK CANVAS often because sometimes he will post small assignments without telling you in class. Show up to class because attendance and participation is worth a third of your grade in the end.",
+        "courseName": "ENGLISH1000"
+      }
+    ]
   },
   "Daniel F Collins": {
     "name": "Daniel F Collins",
@@ -27525,79 +27616,14 @@
   "Daniel Leon Downing": {
     "name": "Daniel Leon Downing",
     "rmpSearched": true,
-    "department": "History",
-    "rmpId": "1919660",
-    "avgRating": 1.7,
-    "avgDifficulty": 4.4,
-    "wouldTakeAgainPct": -1,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/1919660",
-    "comments": [
-      {
-        "date": "Apr 10, 2015",
-        "rating": 4.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": false,
-        "text": "I love Professor Domingues- he is absolutely my favorite professor on campus and a really great guy. I've taken several classes with him, and they are challenging, but worth it. His grading expectations take some getting used to but once you understand what he wants from you it's all really great. And he's super hot!",
-        "courseName": "HIST1700"
-      },
-      {
-        "date": "Feb 13, 2015",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "He is, quite literally, the worse teacher on Mizzou campus. He is ridiculously tough when it comes to grading papers and then he gives obscure feedback over what you did wrong. Whatever you do, DO NOT TAKE THIS CLASS. Domingues is a terrible teacher and hiring him was a terrible mistake by Mizzou.",
-        "courseName": "HIST1790"
-      },
-      {
-        "date": "Jan 30, 2015",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "Taking this class was a huge mistake. It killed my 4.0 which is terrible. I tried going to office hours and he would always reschedule. The one time I did show up he just spent forever ignoring my questions. When I asked about why I got a bad grade he said it was because I \"felt entitled to it\". What the heck?  I question his qualifications.",
-        "courseName": "HIST1790"
-      },
-      {
-        "date": "Dec 15, 2014",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "worse teacher ever do not take any class with this professor not willing to work with you no matter what I tried and tried but it did not matter teachers like this don' t belong in class teaching but alone....",
-        "courseName": "HIST1790"
-      },
-      {
-        "date": "Nov 21, 2014",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "Quite possibly the most odious man alive. He REFUSES to give anyone a 1010 on their papers which wouldn't be such a big deal if there were more than 100 points possible in the class. THE WORST DECISION OF MY LIFE. History majors if you need a 3rd world DO NOT TAKE IT WITH DOMINGUES.",
-        "courseName": "HIST1790"
-      },
-      {
-        "date": "Nov 10, 2014",
-        "rating": 2.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "He is very hard to understand both with his accent and what he expects from you. Most history professors usually require you to know the importance of an event in relation to the material learned. However, he requires you to know the dates without emphasizing the overall picture. Honestly, the worst class I've taken at Mizzou and am disappointed.",
-        "courseName": "1790"
-      },
-      {
-        "date": "Oct 13, 2014",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "A terrible teacher, has no want to help students when reached out to. DONT TAKE",
-        "courseName": "AFRICANHISTORY"
-      },
-      {
-        "date": "Sep 14, 2014",
-        "rating": 4.0,
-        "difficulty": 1.0,
-        "wouldTakeAgain": false,
-        "text": "Weird but funny guy and an awesome teacher who really has a passion for what he teaches. Wish more teachers were like him.",
-        "courseName": "HIST1790"
-      }
-    ]
+    "rmpUrl": null,
+    "comments": []
   },
   "Daniel Lorenz Springer": {
     "name": "Daniel Lorenz Springer",
@@ -32856,6 +32882,14 @@
     "rmpUrl": "https://www.ratemyprofessors.com/professor/2068753",
     "comments": [
       {
+        "date": "Jul 15, 2026",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Dr. Belt is an amazing professor. The practice tests were very similar to the actual tests and were super helpful. He also allows for a notecard with notes on all the exams. He's responsive to emails and has even sent me a video in response to a question I had.",
+        "courseName": "MATH2300"
+      },
+      {
         "date": "Mar 10, 2026",
         "rating": 5.0,
         "difficulty": 2.0,
@@ -32910,14 +32944,6 @@
         "wouldTakeAgain": true,
         "text": "Absolutely amazing professor. The course is incredibly well organized and carefully laid out. The lectures are incredibly structured, and he does a great job at articulating the information. Like others have stated previously, he's got the course down to a science.",
         "courseName": "MATH1500"
-      },
-      {
-        "date": "Dec 17, 2025",
-        "rating": 5.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "Go to the TA discussions, that's where you learn everything and where a lot of your grade comes from, don't make the same mistake as me, but Belt is a great professor",
-        "courseName": "MATH1500"
       }
     ]
   },
@@ -32944,6 +32970,14 @@
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/3017384",
     "comments": [
+      {
+        "date": "Jul 24, 2026",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Dzhambul is personable, sharp-witted, and knowledgable. It is easy to follow his intuitive coursework and class direction over a term. He is on-time and prepared, respectful and patient, and knows how to reign in the class to bridge individual and collective learning. I would say he excels in fostering a conducive learning environment. Just show up",
+        "courseName": "RUSS2350W"
+      },
       {
         "date": "Mar 01, 2026",
         "rating": 5.0,
@@ -32998,14 +33032,6 @@
         "difficulty": 3.0,
         "wouldTakeAgain": true,
         "text": "He is our prophet, our priest, our king. Joseph Smith was not one tenth the revelator he is. His teaching is like unto the discovery of a third tablet at Sinai.",
-        "courseName": "RUSS2350W"
-      },
-      {
-        "date": "Mar 20, 2025",
-        "rating": 5.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": true,
-        "text": "Jambul is a very engaging teacher and he cares so much about his students, he takes the time to get to know them each individually. Thats pookie fr\n\nlove you jambul MIZZOU YOU NEED JAMBUL",
         "courseName": "RUSS2350W"
       }
     ]
@@ -33874,14 +33900,31 @@
   "Elizabeth Grace Boehmer": {
     "name": "Elizabeth Grace Boehmer",
     "rmpSearched": true,
-    "department": null,
-    "rmpId": null,
-    "avgRating": null,
-    "avgDifficulty": null,
-    "wouldTakeAgainPct": null,
+    "department": "English",
+    "rmpId": "1010264",
+    "avgRating": 5,
+    "avgDifficulty": 2.5,
+    "wouldTakeAgainPct": -1,
     "tags": [],
-    "rmpUrl": null,
-    "comments": []
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1010264",
+    "comments": [
+      {
+        "date": "Mar 09, 2011",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "She's a good teacher.  Just be competent at writing and you'll breeze through this class.  Show up to class, because she's good looking.",
+        "courseName": "ENG1000"
+      },
+      {
+        "date": "Jan 11, 2008",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Best English 1000 teacher the university has... Just work hard and ask questions and an A is possible",
+        "courseName": "ENG1000"
+      }
+    ]
   },
   "Elizabeth Griep King": {
     "name": "Elizabeth Griep King",
@@ -36317,6 +36360,14 @@
     "rmpUrl": "https://www.ratemyprofessors.com/professor/1912339",
     "comments": [
       {
+        "date": "May 12, 2026",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "It's outside again yay! We all have fun while going to a restaurant together!",
+        "courseName": "Outsideclass200"
+      },
+      {
         "date": "Apr 29, 2026",
         "rating": 5.0,
         "difficulty": 2.0,
@@ -36371,14 +36422,6 @@
         "wouldTakeAgain": true,
         "text": "super cool genuinely so much fun",
         "courseName": "JAPNSE1100"
-      },
-      {
-        "date": "May 09, 2024",
-        "rating": 5.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "Japanese is a hard subject no matter where you go, but Lancaster is a great person to study under. Clear objectives and well paced lectures, which included a lot of really funny asides that helped to remind me why I was studying the language to begin with. Very good teacher.",
-        "courseName": "JAPANESE1100"
       }
     ]
   },
@@ -37294,6 +37337,14 @@
     "rmpUrl": "https://www.ratemyprofessors.com/professor/2373656",
     "comments": [
       {
+        "date": "Jul 17, 2026",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "Easiest prof ever only four real grades but if you try she will give you an A",
+        "courseName": "ENGLSH1000"
+      },
+      {
         "date": "Jan 28, 2026",
         "rating": 5.0,
         "difficulty": 1.0,
@@ -37348,14 +37399,6 @@
         "wouldTakeAgain": true,
         "text": "Honestly a great and easy English 1,000 teacher. She shows that she cares and understands sometimes if you aren't able to make it to class if you email her ahead of time.",
         "courseName": "ENGLSH1000"
-      },
-      {
-        "date": "Jul 29, 2024",
-        "rating": 5.0,
-        "difficulty": 1.0,
-        "wouldTakeAgain": true,
-        "text": "Prof. Regneri is so genuine, laid-back, and overall amazing. Attendance is mandatory, but class goes by pretty fast and attendance is a bulk of your grade. Only 4 papers assigned for the entire semester.",
-        "courseName": "ENG1000"
       }
     ]
   },
@@ -39992,6 +40035,14 @@
     "rmpUrl": "https://www.ratemyprofessors.com/professor/2871208",
     "comments": [
       {
+        "date": "Jul 23, 2026",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Very good professor.  Class covers a lot of ground, but if you study his slides, the tests are fine. Learned a lot about the law, and life lessons as well. Lectures are entertaining, and he includes a lot of real-life examples. Very approachable and understanding. 100% recommend.",
+        "courseName": "MANGMT3540"
+      },
+      {
         "date": "May 05, 2026",
         "rating": 4.0,
         "difficulty": 1.0,
@@ -40045,14 +40096,6 @@
         "difficulty": 4.0,
         "wouldTakeAgain": true,
         "text": "I took both of his classes, the advanced B Law might be my favorite class of all time. Brand is in talks for the greatest of all time. Very knowledgeable and caring, makes a difficult class better. I highly recommend him to anyone. Do not screw around and blow off the tests, they are difficult but possible if you study.",
-        "courseName": "MANGMT3540"
-      },
-      {
-        "date": "Dec 08, 2024",
-        "rating": 5.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": true,
-        "text": "He's really nice. Helped me out a lot when I had online issues and extended due dates when canvas wasn't working. Cares a lot about his students.",
         "courseName": "MANGMT3540"
       }
     ]
@@ -40295,10 +40338,26 @@
     "rmpId": "2941074",
     "avgRating": 2.5,
     "avgDifficulty": 3.1,
-    "wouldTakeAgainPct": 47,
+    "wouldTakeAgainPct": 52,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/2941074",
     "comments": [
+      {
+        "date": "May 12, 2026",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Dr. Reynders is great! Go to lecture/ watch on Zoom, and you'll do well. His tests were straightforward and matched the material he goes over in class.",
+        "courseName": "2110"
+      },
+      {
+        "date": "May 12, 2026",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Dr. Reynders was an amazing professor for Orgo 2. He demonstrated a clear understanding of the subject, and was able to effectively teach it. Attendance is mandatory, but you learn a lot in his lectures. His exams can be a little difficult but they don't stray far away from what he teaches. I'm glad I had him for one of the most difficult classes.",
+        "courseName": "2110"
+      },
       {
         "date": "May 11, 2026",
         "rating": 4.0,
@@ -40346,22 +40405,6 @@
         "wouldTakeAgain": false,
         "text": "Very hard professor, the exams are tough, but the homework is pretty easy.",
         "courseName": "1320H"
-      },
-      {
-        "date": "Jan 09, 2025",
-        "rating": 3.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": true,
-        "text": "Very much lecture heavy, but all information given is important. Tests were multiple choice and homework is easy with unlimited attempts. Go to office hours if you are confused, they help a ton. He is very understanding, especially if you go to office hours and keep in touch. Just be an active learner and go back through the slides after class.",
-        "courseName": "CHEM1400H"
-      },
-      {
-        "date": "Dec 10, 2024",
-        "rating": 2.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": true,
-        "text": "His class (Chem 1410) is very easy if you get 100 on all the homework (infinite attempts) and participate in all the in class iclicker quizzes because they are most of your grade. He is a mediocre lecturer but this is only his 3rd year so cut him some slack. He is very strict about grade rounding, he wont do it....ever.",
-        "courseName": "chem1330"
       }
     ]
   },
@@ -42070,79 +42113,14 @@
   "Haojing Yan": {
     "name": "Haojing Yan",
     "rmpSearched": true,
-    "department": "Science",
-    "rmpId": "2237874",
-    "avgRating": 1.8,
-    "avgDifficulty": 4.2,
-    "wouldTakeAgainPct": 21,
+    "department": "Physics",
+    "rmpId": "2826563",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "wouldTakeAgainPct": -1,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/2237874",
-    "comments": [
-      {
-        "date": "Feb 28, 2026",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "I had to drop",
-        "courseName": "ASTRON1200"
-      },
-      {
-        "date": "Jan 13, 2026",
-        "rating": 5.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "i took this course (extra-galactic astronomy) last semester and liked it a lot. dr yan was one of the two professors in the department who inspired me the most. his lectures were well organized and he asked deep questions. i also liked it very much that he set aside time in class to work out the past homework problems. he is awesome.",
-        "courseName": "ASTRON4360"
-      },
-      {
-        "date": "Jan 14, 2025",
-        "rating": 5.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "I took his Galactic Astronomy last semester. He is an extremely knowledgeable professor and a caring person. He teaches in the classic way but I did learn a lot, basically what astronomy is really about. Not an easy professor though, and to do well you must come to his lectures. But he would give you many opportunities to make things right.",
-        "courseName": "ASTRON4350"
-      },
-      {
-        "date": "May 27, 2024",
-        "rating": 5.0,
-        "difficulty": 2.0,
-        "wouldTakeAgain": true,
-        "text": "Missed a few assignments due to family issues after the spring break and thought I'd fail this one. I explained my situations, he was sympathetic and gave extensions. A highly recommended teacher. The class was fun, the lectures were organized nicely through canvas. just did the hw on my phone because i had to travel a lot.",
-        "courseName": "ASTRON1200"
-      },
-      {
-        "date": "May 21, 2024",
-        "rating": 5.0,
-        "difficulty": 2.0,
-        "wouldTakeAgain": true,
-        "text": "I took this online course instead of a bio class to fulfill the science course requirement. Being a history major I found this course a bit different from what I'd expected. But overall the materials were great and inspiring and I'd recommend it. Dr. Yan was very quick in answering my emails. Had I not forgotten two homework I believe I'd got A.",
-        "courseName": "ASTRON1200"
-      },
-      {
-        "date": "Mar 07, 2024",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "Absolutely terrible teacher. AVOID AT ALL COSTS. SO BAD SO BAD SO BAD.",
-        "courseName": "ASTRON1200"
-      },
-      {
-        "date": "Apr 24, 2023",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "All of these reviews are 100% true. One of the online quizzes (worth 75% of grade) closed out before the due date for me, and I had to basically argue with him over email to get him to open it again. Expect no leniency with assignments, even though they are 3/4 of your grade. Very lazy class layout and seems like an excuse to get research funding.",
-        "courseName": "ASTRON1200"
-      },
-      {
-        "date": "Mar 09, 2023",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "This is the worst teacher I've ever had. His homework answers are not anywhere in the notes, and are not accurate according to legitimate online sources. He can barely speak English in the lectures and skips over important information needed to succeed in Astronomy 1200. Will not ever take a class with this teacher again.",
-        "courseName": "ASTRON1200"
-      }
-    ]
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2826563",
+    "comments": []
   },
   "Harley Dean Naumann": {
     "name": "Harley Dean Naumann",
@@ -46680,14 +46658,55 @@
   "James E Tarr": {
     "name": "James E Tarr",
     "rmpSearched": true,
-    "department": null,
-    "rmpId": null,
-    "avgRating": null,
-    "avgDifficulty": null,
-    "wouldTakeAgainPct": null,
+    "department": "Biology",
+    "rmpId": "822880",
+    "avgRating": 4.7,
+    "avgDifficulty": 3.2,
+    "wouldTakeAgainPct": -1,
     "tags": [],
-    "rmpUrl": null,
-    "comments": []
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/822880",
+    "comments": [
+      {
+        "date": "Jan 31, 2010",
+        "rating": 5.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "His senior seminar on spiders was terrific. Cured my phobia of creepy crawlers.",
+        "courseName": "BIO4994"
+      },
+      {
+        "date": "Mar 18, 2007",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "He's a great guy and a great teacher.  He knows all the material and then some.  He really likes what he does, which makes you like it too.  I highly recommend the honors section which he teaches.  Great class and great prof.",
+        "courseName": "BIO1500"
+      },
+      {
+        "date": "Jan 20, 2007",
+        "rating": 4.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "No Comments",
+        "courseName": "BIO1500"
+      },
+      {
+        "date": "Dec 15, 2006",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "He's such a nice guy, and amusing too.",
+        "courseName": "BIO1500"
+      },
+      {
+        "date": "Mar 22, 2006",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "Dr. Carrel is an outstanding teacher who makes class interesting. His tests are primarily concerned with the readings and some of his lecture anecdotes. Very willing to help students and explain things. This is my second class with him and I will take as many Bio classes with him as possible. Awesome professor!",
+        "courseName": "BIO1500H"
+      }
+    ]
   },
   "James Edward Gordon": {
     "name": "James Edward Gordon",
@@ -47815,12 +47834,20 @@
     "rmpSearched": true,
     "department": "Journalism",
     "rmpId": "2966841",
-    "avgRating": 3.2,
+    "avgRating": 3.3,
     "avgDifficulty": 3.7,
-    "wouldTakeAgainPct": 43,
+    "wouldTakeAgainPct": 47,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/2966841",
     "comments": [
+      {
+        "date": "May 12, 2026",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "I ab didn't take this class bc of reviews about the difficulty, but im so glad I did. It takes a lot to get me to consistently show up for lecture when attendance isn't graded, but Dr. Schroeder's teaching style was genuinely engaging Tests are challenging but if u make a good cheat sheet and use critical thinking its not hard to get a decent grade",
+        "courseName": "J4000"
+      },
       {
         "date": "Mar 31, 2026",
         "rating": 4.0,
@@ -47875,14 +47902,6 @@
         "difficulty": 5.0,
         "wouldTakeAgain": false,
         "text": "The professor is funny and nice as can be but his tests are impossible. You can study for hours and write every single word that comes out of his mouth into notes and the test will still be nearly impossible unless you can find out exactly what trick he's playing throughout each of the 50 questions within a 1 hour and 15 minute time frame.",
-        "courseName": "J4000"
-      },
-      {
-        "date": "Dec 12, 2024",
-        "rating": 4.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "The tests are way harder than they need to be and I am pretty sure he does that on purpose. The questions are created to trick you. He seems like a nice guy but the exams are just nuts.",
         "courseName": "J4000"
       }
     ]
@@ -49414,10 +49433,18 @@
     "rmpId": "368141",
     "avgRating": 2.3,
     "avgDifficulty": 3.2,
-    "wouldTakeAgainPct": 27,
+    "wouldTakeAgainPct": 25,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/368141",
     "comments": [
+      {
+        "date": "May 12, 2026",
+        "rating": 2.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "He is very knowledgable about this topic, but at times it feels like he expects students to have the same level of understanding. This made it hard for people to speak during discussions, because the learning enviornment was not always encouraging. The class content itself is interesting (although we did have to read a lot)",
+        "courseName": "HIST2120"
+      },
       {
         "date": "Dec 17, 2025",
         "rating": 2.0,
@@ -49473,14 +49500,6 @@
         "wouldTakeAgain": false,
         "text": "His lectures are hard to pay attention to, his slides have way too many words and are difficult to follow, and the tests are formatted in a strange way. He also does very little to prepare you for tests and it is extremely unclear what you ACTUALLY need to know on exams. There are also essays required in the class that just seemed unnecessary.",
         "courseName": "2440"
-      },
-      {
-        "date": "Dec 09, 2024",
-        "rating": 1.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": false,
-        "text": "Where to begin...This man frequently shows up late; he has the most boring possible lectures he can; he doesn't help students prepare for their exams in his class much at all, and when he does, it's either last minute or not helpful. Good luck if you have a question and decide to email him because there is no chance he will get back to you.",
-        "courseName": "HIST2440"
       }
     ]
   },
@@ -49775,13 +49794,13 @@
   "Jennifer A Dills": {
     "name": "Jennifer A Dills",
     "rmpSearched": true,
-    "department": "Chemistry",
-    "rmpId": "2868150",
-    "avgRating": 0,
-    "avgDifficulty": 0,
-    "wouldTakeAgainPct": -1,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/2868150",
+    "rmpUrl": null,
     "comments": []
   },
   "Jennifer Ann Kist": {
@@ -49852,79 +49871,14 @@
   "Jennifer Dunham Kline": {
     "name": "Jennifer Dunham Kline",
     "rmpSearched": true,
-    "department": "Political Science",
-    "rmpId": "2340403",
-    "avgRating": 2,
-    "avgDifficulty": 4.5,
-    "wouldTakeAgainPct": 29,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/2340403",
-    "comments": [
-      {
-        "date": "Jul 31, 2022",
-        "rating": 4.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "Prof. Selin was an excellent teacher. The class was very difficult, but she mentioned how this class would relate to law school. If you're a poly-sci major this course is a must-take. She is a tough grader but it forces you to really soak in the information. Would totally recommend but this course isn't for the lazy/unproductive type.",
-        "courseName": "3000W"
-      },
-      {
-        "date": "Apr 28, 2022",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "Terrible. DO NOT TAKE HER CLASS! I don't know why MU puts up with this. TOO MUCH READING- Not Practical. \n\n*My grad class was not available in the RMP dropbox, btw.",
-        "courseName": "PS4150"
-      },
-      {
-        "date": "Nov 04, 2021",
-        "rating": 1.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": false,
-        "text": "Highly miseducated professor. Believes her personal opinions are so well thought out that they can be taught as class worthy content. Teaches the nuances of state government and the judiciary branch blatantly wrong. Grades not posted,No clear content plan or what info is important to focus on. Twice a week, being in her classroom ruined my day.",
-        "courseName": "POLYSCI2445"
-      },
-      {
-        "date": "Jun 18, 2021",
-        "rating": 4.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "Prof. Selin was harsh but fair. Her teaching philosophy is to metaphorically &quot;break&quot; students by assigning a lot of homework in order to challenge your world view. She grades relatively quickly and gives good feedback, but be prepared to answer difficult questions in class. Overall I enjoyed her class, but it's not for everyone.",
-        "courseName": "GNHON2010H"
-      },
-      {
-        "date": "Jun 08, 2021",
-        "rating": 4.0,
-        "difficulty": 2.0,
-        "wouldTakeAgain": true,
-        "text": "This class was only graded by 3 short answer/long essay exams. The answers and information needed for the exams were clearly lined out in lectures and outside resources were not needed. I think professor Selin graded fairly and quickly, and her lectures were interesting. There were also a lot of extra credit opportunities.",
-        "courseName": "POLISCI4150"
-      },
-      {
-        "date": "Mar 15, 2021",
-        "rating": 5.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "While the course is challenging, she is always willing and able to help. Will work with you one on one and wants you to succeed in this course. The criteria for exams is different but take advantage of office hours and meetings, you will do well. very happy and calming individual and makes you feel heard. Tough isnt a negative in this class",
-        "courseName": "POLS4150"
-      },
-      {
-        "date": "Dec 03, 2020",
-        "rating": 5.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "Professor Selin is one of the greatest poli sci professors I've come across! This is not an easy class whatsoever, but if you take advantage of the help she offers, you will be successful. She is tough, but very fair and incredibly knowledgable. If you are serious about poli sci, take this class! If you don't put in the work, you won't do well!",
-        "courseName": "POLISCI4150"
-      },
-      {
-        "date": "Apr 20, 2019",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "Do not expect a good grade going into this class. The lectures are scrambled and dont represent the test. Lots of reading. Terrible. Dont take if you have another option",
-        "courseName": "POLYSCI1500"
-      }
-    ]
+    "rmpUrl": null,
+    "comments": []
   },
   "Jennifer Elizabeth Foley": {
     "name": "Jennifer Elizabeth Foley",
@@ -50311,79 +50265,14 @@
   "Jennifer Loraine Keely": {
     "name": "Jennifer Loraine Keely",
     "rmpSearched": true,
-    "department": "Political Science",
-    "rmpId": "2340403",
-    "avgRating": 2,
-    "avgDifficulty": 4.5,
-    "wouldTakeAgainPct": 29,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/2340403",
-    "comments": [
-      {
-        "date": "Jul 31, 2022",
-        "rating": 4.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "Prof. Selin was an excellent teacher. The class was very difficult, but she mentioned how this class would relate to law school. If you're a poly-sci major this course is a must-take. She is a tough grader but it forces you to really soak in the information. Would totally recommend but this course isn't for the lazy/unproductive type.",
-        "courseName": "3000W"
-      },
-      {
-        "date": "Apr 28, 2022",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "Terrible. DO NOT TAKE HER CLASS! I don't know why MU puts up with this. TOO MUCH READING- Not Practical. \n\n*My grad class was not available in the RMP dropbox, btw.",
-        "courseName": "PS4150"
-      },
-      {
-        "date": "Nov 04, 2021",
-        "rating": 1.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": false,
-        "text": "Highly miseducated professor. Believes her personal opinions are so well thought out that they can be taught as class worthy content. Teaches the nuances of state government and the judiciary branch blatantly wrong. Grades not posted,No clear content plan or what info is important to focus on. Twice a week, being in her classroom ruined my day.",
-        "courseName": "POLYSCI2445"
-      },
-      {
-        "date": "Jun 18, 2021",
-        "rating": 4.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "Prof. Selin was harsh but fair. Her teaching philosophy is to metaphorically &quot;break&quot; students by assigning a lot of homework in order to challenge your world view. She grades relatively quickly and gives good feedback, but be prepared to answer difficult questions in class. Overall I enjoyed her class, but it's not for everyone.",
-        "courseName": "GNHON2010H"
-      },
-      {
-        "date": "Jun 08, 2021",
-        "rating": 4.0,
-        "difficulty": 2.0,
-        "wouldTakeAgain": true,
-        "text": "This class was only graded by 3 short answer/long essay exams. The answers and information needed for the exams were clearly lined out in lectures and outside resources were not needed. I think professor Selin graded fairly and quickly, and her lectures were interesting. There were also a lot of extra credit opportunities.",
-        "courseName": "POLISCI4150"
-      },
-      {
-        "date": "Mar 15, 2021",
-        "rating": 5.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "While the course is challenging, she is always willing and able to help. Will work with you one on one and wants you to succeed in this course. The criteria for exams is different but take advantage of office hours and meetings, you will do well. very happy and calming individual and makes you feel heard. Tough isnt a negative in this class",
-        "courseName": "POLS4150"
-      },
-      {
-        "date": "Dec 03, 2020",
-        "rating": 5.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "Professor Selin is one of the greatest poli sci professors I've come across! This is not an easy class whatsoever, but if you take advantage of the help she offers, you will be successful. She is tough, but very fair and incredibly knowledgable. If you are serious about poli sci, take this class! If you don't put in the work, you won't do well!",
-        "courseName": "POLISCI4150"
-      },
-      {
-        "date": "Apr 20, 2019",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "Do not expect a good grade going into this class. The lectures are scrambled and dont represent the test. Lots of reading. Terrible. Dont take if you have another option",
-        "courseName": "POLYSCI1500"
-      }
-    ]
+    "rmpUrl": null,
+    "comments": []
   },
   "Jennifer Lynn Hart": {
     "name": "Jennifer Lynn Hart",
@@ -50697,14 +50586,63 @@
   "Jennifer Marie Pendleton Hulett": {
     "name": "Jennifer Marie Pendleton Hulett",
     "rmpSearched": true,
-    "department": null,
-    "rmpId": null,
-    "avgRating": null,
-    "avgDifficulty": null,
-    "wouldTakeAgainPct": null,
+    "department": "Political Science",
+    "rmpId": "1798763",
+    "avgRating": 1.8,
+    "avgDifficulty": 4.3,
+    "wouldTakeAgainPct": -1,
     "tags": [],
-    "rmpUrl": null,
-    "comments": []
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1798763",
+    "comments": [
+      {
+        "date": "Nov 03, 2014",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Basically what the previous comments have said is correct. She flies through the material, doesn't expand on anything, goes into WAY too much detail so it doesn't really matter how hard you study for tests, you won't do well. When asking review questions she gives very vague answers so you leave more confused than before.",
+        "courseName": "1100"
+      },
+      {
+        "date": "May 21, 2013",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Dont know what these other reviews are talking about her class is difficult bc there are only tests and quizzes but shes a decent teacher and shes really nice. I thought I was gonna have a low A- for the class but she curved everyones grades at the end and I almost ended with an A+. Just do what she says and youll be fine other reviews are dramatic",
+        "courseName": "POLISCI1100"
+      },
+      {
+        "date": "May 14, 2013",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "She is a horrible teacher and the class is much to difficult. She has so many readings and doesn't slow down in lectures. I've gone to class every single class period and am still barely passing. She isn't helpful and doesn't even care that half the class is failing. She tests over small detail but  her lectures are very broad.",
+        "courseName": "POLISCI1100"
+      },
+      {
+        "date": "May 11, 2013",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "HORRIBLE instructor. I went to class, took notes, read the book, and I'm still barely passing. The exam questions are impossible and the quizzes aren't any better. The lectures are long, dense, and not very helpful in terms of learning the material. I really wished I would have taken this course pass/fail.",
+        "courseName": "POLSC1100"
+      },
+      {
+        "date": "Apr 21, 2013",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "This class has been the bane of my existence since it started. It's really difficult to tell what she thinks is important, so in order to do well on the tests you have to study literally everything. I've also found that the notes you take in class don't help that much for tests or quizzes. And the quizzes are impossible. Do not take this class.",
+        "courseName": "POLISCI1100"
+      },
+      {
+        "date": "Feb 21, 2013",
+        "rating": 2.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Tip: When there is a snow storm and school hasn't been cancelled, go to class. There will be a pop quiz.                  She is also very young and doesnt know how to slow down and teach. instead, we are hurrying to write the notes down. She doesnt put power points online, and doesn't use tegrity either.... Dont get her.",
+        "courseName": "POLI1100"
+      }
+    ]
   },
   "Jennifer Maritza McCauley": {
     "name": "Jennifer Maritza McCauley",
@@ -50745,13 +50683,13 @@
   "Jennifer O Connor": {
     "name": "Jennifer O Connor",
     "rmpSearched": true,
-    "department": null,
-    "rmpId": null,
-    "avgRating": null,
-    "avgDifficulty": null,
-    "wouldTakeAgainPct": null,
+    "department": "Philosophy",
+    "rmpId": "1348376",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "wouldTakeAgainPct": -1,
     "tags": [],
-    "rmpUrl": null,
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1348376",
     "comments": []
   },
   "Jennifer R Case": {
@@ -50879,43 +50817,132 @@
   "Jennifer Ruth Fruend": {
     "name": "Jennifer Ruth Fruend",
     "rmpSearched": true,
-    "department": "Science",
-    "rmpId": "2958866",
-    "avgRating": 3,
-    "avgDifficulty": 1.5,
-    "wouldTakeAgainPct": 50,
+    "department": "Human Environmental Science",
+    "rmpId": "2965202",
+    "avgRating": 2.6,
+    "avgDifficulty": 1.3,
+    "wouldTakeAgainPct": 40,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/2958866",
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2965202",
     "comments": [
       {
-        "date": "Oct 21, 2025",
-        "rating": 5.0,
+        "date": "Apr 24, 2026",
+        "rating": 2.0,
         "difficulty": 2.0,
-        "wouldTakeAgain": true,
-        "text": "Love her to death",
-        "courseName": "4600"
+        "wouldTakeAgain": false,
+        "text": "While she has a lovely personality, she is a not good professor. I have taken two classes with her and passed with ease, but there is almost no point in going to lectures as she is always off topic and does not make any sense.",
+        "courseName": "FW4700"
       },
       {
-        "date": "Jan 05, 2024",
+        "date": "Oct 28, 2025",
+        "rating": 3.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "isnt a hard class at all. tests are open book and lab is a breeze. only thing is she gets off topic easily and can get behind in teaching bc of it.",
+        "courseName": "FW3660"
+      },
+      {
+        "date": "Feb 04, 2025",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "LOVE DR FRUEND!!!! Unorganized at times but she cares for her students and is very understanding when you have issues outside of class/miss class. Take her class!",
+        "courseName": "FW4700"
+      },
+      {
+        "date": "Dec 18, 2024",
+        "rating": 2.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "I love her, she is so sweet and helpful if you come by office hours. But if you took APES in high school, don't even bother taking this class bc you will learn nothing new. She grades stuff super late, and I think just gives you a 100% as long as you do it.",
+        "courseName": "ENVSCI2600"
+      },
+      {
+        "date": "Dec 09, 2024",
+        "rating": 2.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": false,
+        "text": "Overall she was very nice and cares a lot about her students. As a teacher though, she sucked. Out of the whole semester, I went to class less than 10 times and I am passing with an 87% because of a few missing assignments. Her lectures don't have any words to copy down, so you have to write as she talks and she usually doesn't make much sense.",
+        "courseName": "ENVSCI2600"
+      },
+      {
+        "date": "Feb 22, 2024",
         "rating": 1.0,
         "difficulty": 1.0,
         "wouldTakeAgain": false,
-        "text": "If you want to learn anything, don't take Sustainability Foundations with Professor Fruend. She is extremely kind and outgoing but when it comes to teaching-- she doesn't. Her lectures are completely unorganized and she gets off-topic easily.",
-        "courseName": "53679"
+        "text": "If you want to learn anything, don't take her classes. She didn't teach me about anything relating to sustainability and talked about her kids the entire time. I don't know why she's still allowed to teach",
+        "courseName": "ENVSCI2600"
+      },
+      {
+        "date": "Dec 20, 2023",
+        "rating": 3.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "Super disorganized, but also nice and caring. Easy class.",
+        "courseName": "ENVSCI2600"
+      },
+      {
+        "date": "Dec 19, 2023",
+        "rating": 2.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": false,
+        "text": "Dr. Fruend is a great and fun person that I enjoyed being around, however she is the most unorganized professor I have ever had. Consistently unprepared for class, after I submitted the final, nothing had been graded since August. Once grades were put in it seemed as if she didn't even look at the assignments and gave random grades. Easy grader.",
+        "courseName": "ENVSCI2600"
       }
     ]
   },
   "Jennifer T Wright": {
     "name": "Jennifer T Wright",
     "rmpSearched": true,
-    "department": "Chemistry",
-    "rmpId": "2868150",
-    "avgRating": 0,
-    "avgDifficulty": 0,
+    "department": "Education",
+    "rmpId": "421233",
+    "avgRating": 4,
+    "avgDifficulty": 2.8,
     "wouldTakeAgainPct": -1,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/2868150",
-    "comments": []
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/421233",
+    "comments": [
+      {
+        "date": "Jul 20, 2010",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Great class and awesome instructor!  Reading is a must, but the reading assignments are excellent.  You get what you put in from the class.  I would recommend getting a head start on the final project.  My only complaint is that it packs too much into so little time.  Too bad it can't be two different courses.",
+        "courseName": "ELPA9440"
+      },
+      {
+        "date": "Oct 09, 2008",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "She's great! I LOVE HER!",
+        "courseName": "EDUCELPA"
+      },
+      {
+        "date": "Jun 03, 2007",
+        "rating": 1.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": false,
+        "text": "No course content. Discussion over nothing for 15 weeks. Assignment clarity lacking. Pointless class. She has trouble with technology too. Will let one or two novice students dominate. Very boring. AVOID.",
+        "courseName": "TEACH1"
+      },
+      {
+        "date": "Jul 17, 2004",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Great teacher!",
+        "courseName": "EL"
+      },
+      {
+        "date": "Jun 08, 2004",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Very good teacher.  Made class fun and encouraged student participation.  Work load was right for the class.",
+        "courseName": "ED"
+      }
+    ]
   },
   "Jennifer Williams": {
     "name": "Jennifer Williams",
@@ -51486,51 +51513,6 @@
   "Jessica Cash": {
     "name": "Jessica Cash",
     "rmpSearched": true,
-    "department": "Psychology",
-    "rmpId": "2296042",
-    "avgRating": 2.5,
-    "avgDifficulty": 3.8,
-    "wouldTakeAgainPct": 50,
-    "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/2296042",
-    "comments": [
-      {
-        "date": "Feb 14, 2019",
-        "rating": 5.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "I really liked Jessica! She was very passionate about what she was teaching since she wants to be in therapy. Her exams were pretty straightforward, and some questions came from things only found during lectures. She was very nice.",
-        "courseName": "PSYCH2510"
-      },
-      {
-        "date": "Aug 16, 2018",
-        "rating": 1.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": false,
-        "text": "One of the worst teachers I have ever experienced. Lectures are not required for attendance but the tests are mostly comprised of answers from the lecture. Tests averages were horrible because she wouldn't emphasize any importance of material. She was very distracted during class and on her phone a lot. She was a nice person but a very poor teacher",
-        "courseName": "PSYCH2510"
-      },
-      {
-        "date": "Apr 10, 2018",
-        "rating": 1.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": false,
-        "text": "Hated her survey of abnormal psych class",
-        "courseName": "PSYCH2510"
-      },
-      {
-        "date": "Mar 20, 2018",
-        "rating": 3.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": true,
-        "text": "She is nice and cares for her students. Lecture is not taken for attendance, however on the exams there are questions that are specific towards the lectures. There are 4 total exams and about 4 mindtap assignments per section. Do not forget to do those, they are an easy 15 points each.",
-        "courseName": "PSYCH2510"
-      }
-    ]
-  },
-  "Jessica G Kamuru": {
-    "name": "Jessica G Kamuru",
-    "rmpSearched": true,
     "department": null,
     "rmpId": null,
     "avgRating": null,
@@ -51539,6 +51521,27 @@
     "tags": [],
     "rmpUrl": null,
     "comments": []
+  },
+  "Jessica G Kamuru": {
+    "name": "Jessica G Kamuru",
+    "rmpSearched": true,
+    "department": "English",
+    "rmpId": "1387367",
+    "avgRating": 1,
+    "avgDifficulty": 1,
+    "wouldTakeAgainPct": -1,
+    "tags": [],
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1387367",
+    "comments": [
+      {
+        "date": "May 19, 2010",
+        "rating": 1.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": false,
+        "text": "We were her very first intro to poetry class at Mizzou, so the syllabus was pretty much optional.  Two times she didn't show up to class and never explained why. I did EVERY assignment and NEVER had an absence that I didn't warn her about before.  She told me I had an A, and then put it in  as a B. No clue why.  Don't take this class.",
+        "courseName": "ENGLS1530"
+      }
+    ]
   },
   "Jessica Johnson": {
     "name": "Jessica Johnson",
@@ -51609,13 +51612,13 @@
   "Jessica Marmolejos": {
     "name": "Jessica Marmolejos",
     "rmpSearched": true,
-    "department": "Human Development",
-    "rmpId": "3060665",
-    "avgRating": 0,
-    "avgDifficulty": 0,
-    "wouldTakeAgainPct": -1,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/3060665",
+    "rmpUrl": null,
     "comments": []
   },
   "Jessica McCarthy": {
@@ -52937,11 +52940,19 @@
     "rmpUrl": "https://www.ratemyprofessors.com/professor/158372",
     "comments": [
       {
-        "date": "May 05, 2026",
-        "rating": 3.0,
-        "difficulty": 1.0,
+        "date": "Jul 03, 2026",
+        "rating": 1.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "Just because the prof is chill or humorous does not mean they are great as a prof. Please attend the lectures, as the exams are based on things he said in class that may not be covered in the textbook, like certain examples.",
+        "courseName": "3000MARKETING"
+      },
+      {
+        "date": "Jul 01, 2026",
+        "rating": 2.0,
+        "difficulty": 5.0,
         "wouldTakeAgain": true,
-        "text": "idk why there are so many bad ratings, like, Joel is the best, although i definitely did not learn anything.",
+        "text": "This class was probably the worst class I have taken within the business school. It made me rethink being a business minor. His lectures are not consistent and the tests aren't concept based but all memory of what he said in lecture. I haven't learned a think because i'm busy memorizing the examples he brings up. I am very disappointed.",
         "courseName": "3000MARKETING"
       },
       {
@@ -52990,14 +53001,6 @@
         "difficulty": 3.0,
         "wouldTakeAgain": false,
         "text": "The professor is usually relaxed. But, once he skipped a class without notice, leaving us waiting for 15 minutes before we all decided to leave. He didn't apologize at the next lecture and acted as if nothing happened. Don't know why he made us earn a cert that teaches us how to use AI better when there's better certs.",
-        "courseName": "3000MARKETING"
-      },
-      {
-        "date": "Feb 14, 2026",
-        "rating": 1.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": false,
-        "text": "He created his own textbook, which is filled with spelling and typing errors that are behind autoaccess, including the lecture slides. You can't skip any lectures, as even minor details could be on the exams. He easily loses focus. He does give some curves, or else no one would pass his exams. In class ai assignments and ai certificate.",
         "courseName": "3000MARKETING"
       }
     ]
@@ -53910,79 +53913,14 @@
   "John Ervin Scofield": {
     "name": "John Ervin Scofield",
     "rmpSearched": true,
-    "department": "Business",
-    "rmpId": "116809",
-    "avgRating": 2.2,
-    "avgDifficulty": 3.9,
-    "wouldTakeAgainPct": 29,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/116809",
-    "comments": [
-      {
-        "date": "Jan 23, 2026",
-        "rating": 5.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "Yes his class is difficult, but it is fair. Lectures are entertaining. Anyone who says he is unfair or is mean is probably soft and can't take criticism. Toughen up and be humble enough to take feedback and learn from it. He literally gives you old exams to study and tells  you exactly what will be on them",
-        "courseName": "FIN4320"
-      },
-      {
-        "date": "Dec 18, 2025",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "Has a huge ego. He forgot his own syllabus so with 3 weeks left of the semester he assigned us 10 quizzes because he only gave us 1/11 in the first 2 months of class. He posts all of his old tests so you can study them but they all have typos. Then he completely lied about what questions are going to be on the final.",
-        "courseName": "FIN4030"
-      },
-      {
-        "date": "Dec 16, 2025",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "Overall, he is the worst teacher I've ever been around. He's as arrogant as they come and mocks students when they ask questions. I'm genuinely surprised he is still employed at Mizzou, given that the majority of instructors here make an effort to support their students and want them to succeed. He does not demonstrate that in any way.",
-        "courseName": "FIN3000"
-      },
-      {
-        "date": "Dec 09, 2025",
-        "rating": 1.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": false,
-        "text": "He is the worst professor I have ever had. He complains while teaching during lectures and gives you iclicker questions in class that he never taught you over that are a big chunk of your grade. All of his previous exam answer keys that he posts for you to study with have typos and misinformation and he is rude when you ask for help.",
-        "courseName": "FINANCE"
-      },
-      {
-        "date": "Dec 04, 2025",
-        "rating": 1.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": false,
-        "text": "He was just so cocky and expected students to know a lot of things going into the semester, even though it was an introductory course. Worst professor I've ever had and very unhelpful. I will not be taking a class with him ever again.",
-        "courseName": "FIN3000"
-      },
-      {
-        "date": "Nov 10, 2025",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "John Stansfield takes pride in making students feel small and acts like his class is the center of Mizzou. He refused to excuse a professional networking trip, changes answers to fit his narrative, and leaves students confused and frustrated. A true lesson in patience, not learning.",
-        "courseName": "FINANCE"
-      },
-      {
-        "date": "Oct 20, 2025",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "If I have one piece of advice for anyone considering taking this class with John, for your sake DO NOT. His lectures and notes are unhelpful, all homework and quizzes are all proctored online and the average iclicker grade in my class is a 59% right now. He is just overall, awful.",
-        "courseName": "FIN3000"
-      },
-      {
-        "date": "Oct 07, 2025",
-        "rating": 1.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": false,
-        "text": "Proctored homework and quizzes every week, mandatory class attendance. iClicker questions answered in class heavily effect grade, most students averaged under a 30% for iClicker points. Dont bother emailing him about grades or assignments, will respond with a snarky rude comment about not paying attention in class or \"do better\".",
-        "courseName": "FIN3000"
-      }
-    ]
+    "rmpUrl": null,
+    "comments": []
   },
   "John F Nestojko": {
     "name": "John F Nestojko",
@@ -56803,31 +56741,14 @@
   "Joseph M Scogin": {
     "name": "Joseph M Scogin",
     "rmpSearched": true,
-    "department": "English",
-    "rmpId": "1306647",
-    "avgRating": 5,
-    "avgDifficulty": 3,
-    "wouldTakeAgainPct": 100,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/1306647",
-    "comments": [
-      {
-        "date": "Oct 08, 2023",
-        "rating": 5.0,
-        "difficulty": 2.0,
-        "wouldTakeAgain": true,
-        "text": "great",
-        "courseName": "ENGLS2150"
-      },
-      {
-        "date": "Sep 01, 2009",
-        "rating": 5.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": false,
-        "text": "Superior professor in terms of his ability to make cogent comments that helped improve my writing and clarify my thinking on assigned topics.  Also a strong and quick communicator via e-mail, not to mention a nice guy!  If you like to read/write, his class is for you.",
-        "courseName": "ENGLS2150"
-      }
-    ]
+    "rmpUrl": null,
+    "comments": []
   },
   "Joseph M Zulovich": {
     "name": "Joseph M Zulovich",
@@ -59801,12 +59722,20 @@
     "rmpSearched": true,
     "department": "Journalism",
     "rmpId": "3109854",
-    "avgRating": 2,
-    "avgDifficulty": 3.9,
-    "wouldTakeAgainPct": 31,
+    "avgRating": 2.2,
+    "avgDifficulty": 3.8,
+    "wouldTakeAgainPct": 29,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/3109854",
     "comments": [
+      {
+        "date": "Jul 07, 2026",
+        "rating": 1.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": false,
+        "text": "Told me to submit assignments one way, then told me that it was against the syllabus, then was confused when I showed her the email she sent me giving the directions I followed.",
+        "courseName": "4160"
+      },
       {
         "date": "May 05, 2026",
         "rating": 5.0,
@@ -59861,14 +59790,6 @@
         "difficulty": 2.0,
         "wouldTakeAgain": true,
         "text": "I think prof. Edgerson is a good professor. I communicated with her few times and she responded within hours. She was respectful and understanding in her responses. The course was easy and she also gave a lot of extra credit opportunities, which was. great. I think she just expects studnets to pay attention to rubric and wants to see quality work.",
-        "courseName": "4160"
-      },
-      {
-        "date": "Feb 28, 2026",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "I did not like her grading system, I did not like the class.",
         "courseName": "4160"
       }
     ]
@@ -62343,6 +62264,14 @@
     "rmpUrl": "https://www.ratemyprofessors.com/professor/3105298",
     "comments": [
       {
+        "date": "Jul 23, 2026",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Only class I've ever dropped. Not because the class was hard - I just couldn't stand her. She's got a million excuses why her McGraw Hill link isn't working, and why it takes her weeks to publish grades. Her feedback is vague, and didn't respond to any of my emails. She spends 80% of the lectures bragging about herself. So much busy work. Very bad.",
+        "courseName": "MANGMT-3000"
+      },
+      {
         "date": "May 11, 2026",
         "rating": 1.0,
         "difficulty": 5.0,
@@ -62396,14 +62325,6 @@
         "difficulty": 5.0,
         "wouldTakeAgain": false,
         "text": "ANNOYING. Constantly emailing about assignments because instructions were unclear or make no sense, and shes a stickler on getting specifics correct which is a bad combo. Smartbooks are more concepts then some of my accounting classes. Assignments super long/extra for no reason. Final is in person and 100+ questions (writing intensive class btw).",
-        "courseName": "MANGMT-3000"
-      },
-      {
-        "date": "Mar 10, 2026",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "She's a very nice lady when you talk to her , and she's very successful outside of this class. But she genuinely has no clue how to be a professor. Can't answer emails , always having issues she's fixing or adjusting, brags a lot (idk why), lectures r so so so boring , homework assignments are pointless and smartbooks are so long for no reason.",
         "courseName": "MANGMT-3000"
       }
     ]
@@ -62605,10 +62526,18 @@
     "rmpId": "2875701",
     "avgRating": 3.9,
     "avgDifficulty": 2.1,
-    "wouldTakeAgainPct": 80,
+    "wouldTakeAgainPct": 73,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/2875701",
     "comments": [
+      {
+        "date": "May 12, 2026",
+        "rating": 2.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": false,
+        "text": "She requires you add the editing history for your essays, which is just annoying for innocent Tism people who give their all in essays but are not computer savvy. Just because you are worried about AI, I don't think it warrants that you add a whole extra step for people who are doing the work. She gives off mean grl. Just do your job.",
+        "courseName": "HDFS-1600"
+      },
       {
         "date": "May 04, 2026",
         "rating": 1.0,
@@ -62664,14 +62593,6 @@
         "wouldTakeAgain": true,
         "text": "Even though this was an online class, she made it interesting and interactive. Every week there's a small discussion board but only have to post on 10 of the 15 boards. Very understanding and willing to help. There are 4 papers due throughout the class but she gives lots of prompts and questions to answer and they're no more than 3 pages.",
         "courseName": "HDFS-3600"
-      },
-      {
-        "date": "May 07, 2023",
-        "rating": 5.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": true,
-        "text": "Loved this class! The papers were amazing to make you think! I enjoyed how much this class made me think differently!",
-        "courseName": "HDFS-1600"
       }
     ]
   },
@@ -64050,12 +63971,20 @@
     "rmpSearched": true,
     "department": "Theater",
     "rmpId": "1569536",
-    "avgRating": 3.3,
-    "avgDifficulty": 2,
-    "wouldTakeAgainPct": 25,
+    "avgRating": 3.5,
+    "avgDifficulty": 1.9,
+    "wouldTakeAgainPct": 40,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/1569536",
     "comments": [
+      {
+        "date": "Jul 08, 2026",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "Must take class. Entire class is about learning how to use AI. I looked forward to going to this class every day. The whole class is allowed and encouraged to speak freely about different topics regarding AI. Some of the discussions in this class were genuinely enlightening. You write what you want to write about. Cannot recommend this class enough",
+        "courseName": "INTDSC3010W"
+      },
       {
         "date": "Dec 12, 2025",
         "rating": 1.0,
@@ -64111,14 +64040,6 @@
         "wouldTakeAgain": false,
         "text": "THEATR 1100 is an incredibly straightforward class. Just show up, study the PowerPoints before the quizzes, turn in play reviews and journals, and you'll be fine. If you're a serious theatre student, don't take 1100 because it's mostly people who don't care. Dr. Brown really cares about the subject, and is great at using examples.",
         "courseName": "THEAT1100"
-      },
-      {
-        "date": "Nov 09, 2011",
-        "rating": 4.0,
-        "difficulty": 1.0,
-        "wouldTakeAgain": false,
-        "text": "This class is so easy! its actually interesting too, i had no interest in theatre but still enjoyed it a lot! you have to see plays, but they really are not that bad. You also have to read some plays but essays are submitted on SAGrader so its a VERY easy 100%! i DEFINITELY recommend this class! its the best",
-        "courseName": "THTR1100"
       }
     ]
   },
@@ -67482,12 +67403,60 @@
     "rmpSearched": true,
     "department": "Business",
     "rmpId": "2397896",
-    "avgRating": 1.3,
+    "avgRating": 1.9,
     "avgDifficulty": 4,
-    "wouldTakeAgainPct": 11,
+    "wouldTakeAgainPct": 20,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/2397896",
     "comments": [
+      {
+        "date": "Jul 13, 2026",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "You get to review assignments to improve scores. A lot of writing, but good class.",
+        "courseName": "MANGMT4140W"
+      },
+      {
+        "date": "Jul 13, 2026",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Good class to improve writing. Helpful teacher.",
+        "courseName": "MANGMT4140W"
+      },
+      {
+        "date": "Jul 13, 2026",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Very helpful and caring when I had a tough semester.",
+        "courseName": "BA3500"
+      },
+      {
+        "date": "Jul 13, 2026",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Very interactive in the leadership development class. Not just lecturers, but group activities which made it more interesting.",
+        "courseName": "BA3500"
+      },
+      {
+        "date": "Jul 13, 2026",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Learned a lot about business writing in this class. Very practical. Professor Brengarth was helpful when I had questions and the TA helped also.",
+        "courseName": "MGMT4140W"
+      },
+      {
+        "date": "Jul 13, 2026",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Great professor. Great class",
+        "courseName": "MANGMT4140W"
+      },
       {
         "date": "May 26, 2026",
         "rating": 5.0,
@@ -67503,54 +67472,6 @@
         "wouldTakeAgain": true,
         "text": "Helpful writing and presenting tips for business. Helpful professor whose background is in this area.",
         "courseName": "MANGMT4140W"
-      },
-      {
-        "date": "May 10, 2026",
-        "rating": 5.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "Took the Business & Society class. Enjoyed group discussions. Very approachable professor.",
-        "courseName": "MANGMT4140W"
-      },
-      {
-        "date": "Dec 16, 2025",
-        "rating": 1.0,
-        "difficulty": 2.0,
-        "wouldTakeAgain": false,
-        "text": "I had her for MNGT 3000W and she was terrible, TA did all the grading, had to remind her to post grades, class was a snooze fest, exams were impossible to study you just had to wing it, SO MANY GROUP PROJECTS, She would take at least two days to respond to emails and when she posted grades, revisions were due like 5 hours later. wouldn't recommend",
-        "courseName": "MGMT4140W"
-      },
-      {
-        "date": "Dec 15, 2025",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "I had her for Management 3000W and she has no idea what shes doing, youll do papers and shell expect you to revise them without releasing the grader you got, and then shell release it like 5 hours before revisions are due. The TA does all the grading and then finals week shell come in and drop your grade by like 4%",
-        "courseName": "MGMT4140W"
-      },
-      {
-        "date": "Jan 21, 2025",
-        "rating": 1.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": false,
-        "text": "The most unorganized class I have ever taken. Her TA's do everything and she does nothing. The grading is not made clear to the TA's so they make it up as they go. Your groups participation will affect your grade and they do not care if they did work or not. Her lectures are pointless and she uses iClicker. She will give no direction.",
-        "courseName": "BA3500"
-      },
-      {
-        "date": "Dec 12, 2024",
-        "rating": 1.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": false,
-        "text": "Professor Brengarth is not a good professor and I did not like BA3500 with her at all. It all felt very unorganized and like a waste of time if being honest. The lectures were pointless, and I couldn't wait to be done with the class. I can't recommend this class with her to anyone. Stay away.",
-        "courseName": "BA3500"
-      },
-      {
-        "date": "Dec 12, 2024",
-        "rating": 4.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "Good class but a lot of group work.",
-        "courseName": "BA3500"
       }
     ]
   },
@@ -67921,10 +67842,18 @@
     "rmpId": "2289800",
     "avgRating": 3.2,
     "avgDifficulty": 2.8,
-    "wouldTakeAgainPct": 63,
+    "wouldTakeAgainPct": 62,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/2289800",
     "comments": [
+      {
+        "date": "May 12, 2026",
+        "rating": 2.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Quizzes were 90% of our grade. 90. I believe that was way too much especially since none are dropped. He also wasn't very understanding with when I was in the hospital and was rude about it.",
+        "courseName": "STAT1200"
+      },
       {
         "date": "Jan 06, 2026",
         "rating": 5.0,
@@ -67979,14 +67908,6 @@
         "difficulty": 5.0,
         "wouldTakeAgain": false,
         "text": "This class was my living hell. If you are a bad test taker do not take this class. It's 80% based off quizzes which are only 13 questions so if you aren't really good at every single thing you learn you're screwed. He is also extremely rude when you email him and make absolutely zero exceptions for anyone no matter what.",
-        "courseName": "STAT1200"
-      },
-      {
-        "date": "Nov 03, 2025",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "Homework was easy but tests were so difficult. I did great on stats in high school but this was the hardest class I've ever taken.",
         "courseName": "STAT1200"
       }
     ]
@@ -68103,77 +68024,29 @@
   "Leah Alice Rosenberg": {
     "name": "Leah Alice Rosenberg",
     "rmpSearched": true,
-    "department": "Sociology",
-    "rmpId": "1643100",
-    "avgRating": 3.5,
-    "avgDifficulty": 2.8,
+    "department": "Religious Studies",
+    "rmpId": "2323495",
+    "avgRating": 2,
+    "avgDifficulty": 4,
     "wouldTakeAgainPct": 50,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/1643100",
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2323495",
     "comments": [
       {
-        "date": "May 16, 2023",
-        "rating": 2.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": false,
-        "text": "The amount of time you have to spend on discussion boards in order to get full points is ridiculous. She sent out an example of a good discussion board post that was closer to the length of an essay. You HAVE to do the readings to do well. I did well in the class, but wasnt expecting to have to spend as much time on it as my hardcore STEM classes.",
-        "courseName": "RELST3360"
-      },
-      {
-        "date": "Oct 01, 2022",
-        "rating": 4.0,
+        "date": "Nov 16, 2020",
+        "rating": 3.0,
         "difficulty": 4.0,
         "wouldTakeAgain": true,
-        "text": "Class itself is very interesting and enjoyable, and would recommend her for that alone. Dr. Rosenberg is a pretty love-her-or-hate-her type of professor, and while I enjoy how raw and honest she is, her style won't appeal to everyone. Just be sure to actually participate and do the readings if you want to succeed.",
-        "courseName": "RELST3740"
+        "text": "Dr. Rosenberg uses profane language in class, is hilarious, and is very intelligent. However, the ideas in her classes and the topics that she wants you to connect can be extremely complex, and she can be very condescending if you don't provide a conclusion that she agrees with or intrigues her. You're going to have to read A LOT in her classes.",
+        "courseName": "RELST2910"
       },
       {
-        "date": "Dec 23, 2020",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "Worst professor I've ever had. Makes you participate and then yells at you or tries to belittle you if your opinion is not EXACTLY like hers. I was anxious every day before class because I knew she would gaslight one of her students and you never knew when it was going to be you. Makes her political opinion very clear. Better just pretend to agree.",
-        "courseName": "RELST3020"
-      },
-      {
-        "date": "Dec 23, 2020",
+        "date": "Feb 20, 2019",
         "rating": 1.0,
         "difficulty": 4.0,
         "wouldTakeAgain": false,
-        "text": "This class was my hardest class for the semester and I am Pre-Med. This is because the professor talks in circles and has abstract connections that make no sense. She is rude, condescending, unprofessional and she politicized everything. Did not learn anything about what I was supposed to. AWFUL learning environment. So distracting.",
-        "courseName": "RELST3020"
-      },
-      {
-        "date": "Feb 05, 2020",
-        "rating": 5.0,
-        "difficulty": 2.0,
-        "wouldTakeAgain": true,
-        "text": "I absolutely adore Dr. Rosenberg. I took her Dying in the West World class and she was so amazing and very clear/concise. She truly wants her students to succeed and is very reasonable. I'm taking another one of her classes this semester as an elective just because I liked her so much the first time. Definitely recommend anything she teaches!",
-        "courseName": "RELST2220"
-      },
-      {
-        "date": "Nov 13, 2017",
-        "rating": 1.0,
-        "difficulty": 1.0,
-        "wouldTakeAgain": false,
-        "text": "I was optimistic at the beginning of this class. I like professors who are honest, raw, and passionate about their subjects. However, Dr. Rosenberg is rude, condescending, and will often try to belittle you in front of your peers. I have a pretty tough exterior and even I was taken aback by how toxic she was in class. Distracted from learning.",
-        "courseName": "REL3005"
-      },
-      {
-        "date": "May 10, 2017",
-        "rating": 5.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "I love Dr. Rosenberg! This class was interesting and heartbreaking  WELL worth taking. Other reviews say she talks over class discussions, but while sometimes she does get excited and blurt over people, she is always adding useful, helpful information. She is challenging, funny and a great professor. My favorite prof at Mizzou so far!",
-        "courseName": "RELST3005"
-      },
-      {
-        "date": "Dec 21, 2016",
-        "rating": 4.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": true,
-        "text": "I enjoyed this class and Dr. Rosenberg is very funny, kind, and interesting. We talked about social norms/politics/racism/sexism throughout history, and it was all so interesting. You have to read EVERYTHING. You end up reading 2-3 books worth of material and then use it for 5 papers throughout the semester. It was hard, but worth it.",
-        "courseName": "RELST2220"
+        "text": "Leah Rosenberg is the worst professor I have ever had. I have been at this university for 4 years and she is by far the least accessible professor I have had. She rude when you meet with her and in her online correspondence, and provides no personal feedback on your assignments. I literally cannot express enough that she is not a good professor.",
+        "courseName": "REL3660"
       }
     ]
   },
@@ -75441,14 +75314,39 @@
   "Matthew Bayer": {
     "name": "Matthew Bayer",
     "rmpSearched": true,
-    "department": "Educational Psychology",
-    "rmpId": "2686594",
-    "avgRating": 0,
-    "avgDifficulty": 0,
-    "wouldTakeAgainPct": -1,
+    "department": "Statistics",
+    "rmpId": "2636212",
+    "avgRating": 5,
+    "avgDifficulty": 3.3,
+    "wouldTakeAgainPct": 100,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/2686594",
-    "comments": []
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2636212",
+    "comments": [
+      {
+        "date": "Mar 19, 2026",
+        "rating": 5.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": true,
+        "text": "Omg, he is the best professor ever!!! Stats was my nightmare, now I'm considering taking more stat classes.",
+        "courseName": "7170"
+      },
+      {
+        "date": "Jun 04, 2024",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "He can teach basic stats to grad-level students in the easiest way. He recaps previous lessons every time before the next class, explains complex concepts in a unique and easy way, and gives detailed feedback.",
+        "courseName": "7170"
+      },
+      {
+        "date": "Jan 19, 2024",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "LOVE THE GUY!!!! He is an exceptional teacher and would recommend! He made math fun.",
+        "courseName": "10000"
+      }
+    ]
   },
   "Matthew C Lucy": {
     "name": "Matthew C Lucy",
@@ -75530,14 +75428,55 @@
   "Matthew Callaway Harder": {
     "name": "Matthew Callaway Harder",
     "rmpSearched": true,
-    "department": "Educational Psychology",
-    "rmpId": "2686594",
-    "avgRating": 0,
-    "avgDifficulty": 0,
-    "wouldTakeAgainPct": -1,
+    "department": "Classics",
+    "rmpId": "2011957",
+    "avgRating": 4.6,
+    "avgDifficulty": 2.4,
+    "wouldTakeAgainPct": 75,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/2686594",
-    "comments": []
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2011957",
+    "comments": [
+      {
+        "date": "Dec 16, 2022",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "The class format is awesome. I took the Culture and Crisis in Athens course which included a one-and-a-half month roleplay session (not that kind) where we participate in the Athenian assembly as historical figures after the Peloponnesian War. It was very fun as well as enlightening on how ancient Athens truly worked.",
+        "courseName": "CLHUM2100"
+      },
+      {
+        "date": "Dec 03, 2017",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Dr. Farmer is a very nice guy who knows his Greek Culture. This class is all reading though. You have to read the books to know what is going on. There are a couple of books throughout the class that you can spark note and get away with going good on the tests, but you have to read. The first test is the hardest by far and attendance is mandatory.",
+        "courseName": "CLHUM2100"
+      },
+      {
+        "date": "Nov 07, 2017",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "He was an amazing teacher! Always so easy to understand and is actually pretty funny with his lectures. There's no doubt in my mind that I would take his class again if I could.",
+        "courseName": "CLHUM2100"
+      },
+      {
+        "date": "Nov 01, 2016",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Dr. Farmer  is the best! He engages the class during lecture, he's funny, and he only tells you what you need to know. Tests are easy as long as you go over your notes before the test. Would definitely take him again.",
+        "courseName": "CLHUM2100"
+      },
+      {
+        "date": "May 07, 2015",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "I took Greek Culture (CLHUM 2100).   Dr. Farmer is really amazing at lecturing and able to hold student interest quite easily.  His class isn't that difficult, but it still helps you learn.  I would definitely recommend it.",
+        "courseName": "CLHUM2100"
+      }
+    ]
   },
   "Matthew David McCloud": {
     "name": "Matthew David McCloud",
@@ -75729,14 +75668,47 @@
   "Matthew James Morris": {
     "name": "Matthew James Morris",
     "rmpSearched": true,
-    "department": null,
-    "rmpId": null,
-    "avgRating": null,
-    "avgDifficulty": null,
-    "wouldTakeAgainPct": null,
+    "department": "Theater",
+    "rmpId": "1153103",
+    "avgRating": 4.8,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPct": -1,
     "tags": [],
-    "rmpUrl": null,
-    "comments": []
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1153103",
+    "comments": [
+      {
+        "date": "Dec 03, 2012",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "Great Teacher",
+        "courseName": "THTR2005"
+      },
+      {
+        "date": "Aug 09, 2010",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "Nice guy. Puts a solid amount of effort into teaching. Most class time is used doing live exercises to prepare you for your graded performances (solo, duet, and group improv). Thus, your experience in the class is largely controlled by everyone else that's signed up. It's not the easiest class, but anyone with half a brain and an alarm should pass.",
+        "courseName": "THEAT1400"
+      },
+      {
+        "date": "Jan 14, 2010",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Matt is very enthusiastic about acting. Be prepared to come every day and participate! Your grade drops lots after 3 absences. Also you have to go see 3 MU plays. But he gives you easy Blackboard quizzes to pad your grade and the in class performances aren't too bad- just rehearse! He's overall pretty fun. Drops the f bomb a lot despite being geeky",
+        "courseName": "THEA1400"
+      },
+      {
+        "date": "Jan 14, 2009",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Funny and cool. More work than I thought though.",
+        "courseName": "THEAT1400"
+      }
+    ]
   },
   "Matthew Jay Peek": {
     "name": "Matthew Jay Peek",
@@ -75848,14 +75820,79 @@
   "Matthew Kevin Burns": {
     "name": "Matthew Kevin Burns",
     "rmpSearched": true,
-    "department": null,
-    "rmpId": null,
-    "avgRating": null,
-    "avgDifficulty": null,
-    "wouldTakeAgainPct": null,
+    "department": "Engineering",
+    "rmpId": "1896613",
+    "avgRating": 5,
+    "avgDifficulty": 4,
+    "wouldTakeAgainPct": -1,
     "tags": [],
-    "rmpUrl": null,
-    "comments": []
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1896613",
+    "comments": [
+      {
+        "date": "Jun 14, 2014",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "His class is not easy, but you will learn 3 times as much in his class than any other in the dept. Gives great career advice and has experience in industry. He always has his door open and is willing to help students learn.Let's you know what mistakes you made and is very thorough in grading. This type of teaching I'm willing to pay for.",
+        "courseName": "CHE4385DESIGN"
+      },
+      {
+        "date": "May 12, 2014",
+        "rating": 5.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "An excellent professor who really wants to make sure students learn. His classes are very difficult, but he has a \"tough love\" approach that guides students through detailed projects while allowing them to think for themselves. Learned more from his classes than any others in this department.",
+        "courseName": "CHENG4980"
+      },
+      {
+        "date": "May 07, 2014",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Dr. Bernards will make you work hard and think critically, but you will learn stuff, he will grade you fairly, and he's always there to help you help yourself. In the words of the great philosopher Kanye West, \"Every body know [he's] a motherf***in' monster\"",
+        "courseName": "CHENG4980"
+      },
+      {
+        "date": "May 07, 2014",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "There are professors who do great research, but suck at teaching. There are professors who are great teachers, but do no research. There are professors who suck at both. Then there are professors who do great research and are good at teaching. Dr. Bernards is one of these.",
+        "courseName": "CHE4980"
+      },
+      {
+        "date": "May 02, 2014",
+        "rating": 5.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Dr. Bernards is by far the best professor in the ChE department. His class is extremely challenging, but you learn a lot. He stresses real-world applicability and pushes students to really think about their designs. He is easily available for help wants to ensure you understand. It's a shame he has to pick up the slack of all the other lousy profs.",
+        "courseName": "CHENG4980"
+      },
+      {
+        "date": "May 02, 2014",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Extremely helpful. Challenging, yet completely fair. Was an awesome resource both inside and outside the classroom. One of the few professors who has a good research-teaching balance.",
+        "courseName": "CHEMEDESIGN1"
+      },
+      {
+        "date": "May 01, 2014",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Dr Bernards is by far the best professor in the department. He is very helpful when it comes to his classes and giving job or grad school advice. He pushes us to the height of our potential and expects the very best from us. That being said, the class is difficult, but it's good to be challenged. I'm confident in the material I learned in his class",
+        "courseName": "CHENG4980"
+      },
+      {
+        "date": "May 01, 2014",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "Dr. Bernards is very interested in student learning and is always available for questioning. His expectations are clear and reasonable. He is also a great mentor. He is available anytime for career advice. I consider Dr. Bernards the best professor in the department. His departure would significantly decrease the quality.",
+        "courseName": "CHEENG4385"
+      }
+    ]
   },
   "Matthew Knudtson": {
     "name": "Matthew Knudtson",
@@ -75897,20 +75934,36 @@
     "name": "Matthew Philip Krause",
     "rmpSearched": true,
     "department": "Statistics",
-    "rmpId": "2524458",
+    "rmpId": "2636212",
     "avgRating": 5,
-    "avgDifficulty": 4,
+    "avgDifficulty": 3.3,
     "wouldTakeAgainPct": 100,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/2524458",
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2636212",
     "comments": [
       {
-        "date": "Feb 19, 2020",
+        "date": "Mar 19, 2026",
         "rating": 5.0,
-        "difficulty": 4.0,
+        "difficulty": 5.0,
         "wouldTakeAgain": true,
-        "text": "Matt Kane is the best TA I've had at my time at Mizzou. If you go to class, you will get an A. Matt was available to help outside of class. He is very knowledgeable about Statistics and tries to relate it to real world situations. He utilizes class time to go over exactly what you need to know and doesn't spend time on pointless topics.",
-        "courseName": "STAT2500"
+        "text": "Omg, he is the best professor ever!!! Stats was my nightmare, now I'm considering taking more stat classes.",
+        "courseName": "7170"
+      },
+      {
+        "date": "Jun 04, 2024",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "He can teach basic stats to grad-level students in the easiest way. He recaps previous lessons every time before the next class, explains complex concepts in a unique and easy way, and gives detailed feedback.",
+        "courseName": "7170"
+      },
+      {
+        "date": "Jan 19, 2024",
+        "rating": 5.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "LOVE THE GUY!!!! He is an exceptional teacher and would recommend! He made math fun.",
+        "courseName": "10000"
       }
     ]
   },
@@ -75966,14 +76019,47 @@
   "Matthew Walton Foulkes": {
     "name": "Matthew Walton Foulkes",
     "rmpSearched": true,
-    "department": null,
-    "rmpId": null,
-    "avgRating": null,
-    "avgDifficulty": null,
-    "wouldTakeAgainPct": null,
+    "department": "Theater",
+    "rmpId": "1153103",
+    "avgRating": 4.8,
+    "avgDifficulty": 2.8,
+    "wouldTakeAgainPct": -1,
     "tags": [],
-    "rmpUrl": null,
-    "comments": []
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/1153103",
+    "comments": [
+      {
+        "date": "Dec 03, 2012",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "Great Teacher",
+        "courseName": "THTR2005"
+      },
+      {
+        "date": "Aug 09, 2010",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "Nice guy. Puts a solid amount of effort into teaching. Most class time is used doing live exercises to prepare you for your graded performances (solo, duet, and group improv). Thus, your experience in the class is largely controlled by everyone else that's signed up. It's not the easiest class, but anyone with half a brain and an alarm should pass.",
+        "courseName": "THEAT1400"
+      },
+      {
+        "date": "Jan 14, 2010",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "Matt is very enthusiastic about acting. Be prepared to come every day and participate! Your grade drops lots after 3 absences. Also you have to go see 3 MU plays. But he gives you easy Blackboard quizzes to pad your grade and the in class performances aren't too bad- just rehearse! He's overall pretty fun. Drops the f bomb a lot despite being geeky",
+        "courseName": "THEA1400"
+      },
+      {
+        "date": "Jan 14, 2009",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Funny and cool. More work than I thought though.",
+        "courseName": "THEAT1400"
+      }
+    ]
   },
   "Matthias John Young": {
     "name": "Matthias John Young",
@@ -77559,10 +77645,18 @@
     "rmpId": "2615426",
     "avgRating": 3.6,
     "avgDifficulty": 3.4,
-    "wouldTakeAgainPct": 57,
+    "wouldTakeAgainPct": 59,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/2615426",
     "comments": [
+      {
+        "date": "Jul 29, 2026",
+        "rating": 3.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "She explains concepts clearly and is a great professor overall. Be sure to read the textbook because the exams are long and cover a lot of material. There are only a few larger assignments spread throughout the semester, usually due weekly, so the workload is very manageable if you stay organized but these assignments can't be rushed through.",
+        "courseName": "HDFS1610"
+      },
       {
         "date": "Feb 13, 2026",
         "rating": 5.0,
@@ -77617,14 +77711,6 @@
         "difficulty": 4.0,
         "wouldTakeAgain": false,
         "text": "This class is honestly terrible. The instructor grades extremely hard, and the tests are overly complicated for no reason. Scoring well feels almost impossible, and the short workload doesn't match what's supposed to be an &#8220;easy&#8221; class. Overall, I wouldn't recommend it to anyone, especially freshmen.",
-        "courseName": "HDFS1610"
-      },
-      {
-        "date": "Dec 12, 2025",
-        "rating": 1.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": false,
-        "text": "The instructor is clearly passionate about teaching, but she grades much tougher than expected for a class labeled as \"easy\". Maintaining a solid grade like a B has been difficult. The tests are challenging, with tricky questions. The class is almost entirely female, which can feel a bit awkward if you're a guy. Overall, I wouldn't take this.",
         "courseName": "HDFS1610"
       }
     ]
@@ -80151,14 +80237,39 @@
   "Michael Stewart Chapman": {
     "name": "Michael Stewart Chapman",
     "rmpSearched": true,
-    "department": null,
-    "rmpId": null,
-    "avgRating": null,
-    "avgDifficulty": null,
-    "wouldTakeAgainPct": null,
+    "department": "Political Science",
+    "rmpId": "2297747",
+    "avgRating": 3.3,
+    "avgDifficulty": 3.7,
+    "wouldTakeAgainPct": 67,
     "tags": [],
-    "rmpUrl": null,
-    "comments": []
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2297747",
+    "comments": [
+      {
+        "date": "Mar 19, 2018",
+        "rating": 2.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Tough teacher. Lots of reading that does not really matter. Discussions are not meaningful.",
+        "courseName": "POLSC2700"
+      },
+      {
+        "date": "Dec 12, 2017",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": true,
+        "text": "Wahman is fantastic, though he teaches 2700 at a much more difficult level than other 2000 courses in the department. You have to attend the discussions, otherwise you get a huge portion of your grade deducted at the end.",
+        "courseName": "POLSC2700"
+      },
+      {
+        "date": "Nov 09, 2017",
+        "rating": 4.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Wahman is a good guy. Hes from Sweden so he has a accent and knows a lot about African politics. Really nice guy who teaches for understanding, not memorization. This makes the class a little harder. Make sure you actually understand concepts. Attend the discussions to pass, lectures arent mandatory though. Good overall experience.",
+        "courseName": "POLSC2700"
+      }
+    ]
   },
   "Michael Thomas": {
     "name": "Michael Thomas",
@@ -84059,13 +84170,13 @@
   "Nicholas A Parks": {
     "name": "Nicholas A Parks",
     "rmpSearched": true,
-    "department": "Chemistry",
-    "rmpId": "1104875",
-    "avgRating": 0,
-    "avgDifficulty": 0,
-    "wouldTakeAgainPct": -1,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/1104875",
+    "rmpUrl": null,
     "comments": []
   },
   "Nicholas Alexander Smith": {
@@ -84091,6 +84202,14 @@
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/2932787",
     "comments": [
+      {
+        "date": "Jul 31, 2026",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "Easily comprehensible material. Inspiring. I took his class at the beginning of my day and it honestly put me in a good mood for the rest of it. His lectures are digestible, poignant and entertaining. Not just saying this to glaze, but he's truly a master of his craft, and I hope to be like him someday. Cheers to educators like Dr. Mathews!",
+        "courseName": "J1100"
+      },
       {
         "date": "May 04, 2026",
         "rating": 5.0,
@@ -84146,14 +84265,6 @@
         "wouldTakeAgain": true,
         "text": "Incredible lectures, you leave the building ready to go out in the world and make a change. Really cares about his students, & he greets everyone outside the hall in the mornings. Go to his coffee hours.",
         "courseName": "J1100"
-      },
-      {
-        "date": "Dec 12, 2025",
-        "rating": 5.0,
-        "difficulty": 2.0,
-        "wouldTakeAgain": true,
-        "text": "this is the best professor i've ever had, if you can take a class with him, please do it",
-        "courseName": "J1100"
       }
     ]
   },
@@ -84172,79 +84283,14 @@
   "Nicholas J Bergan": {
     "name": "Nicholas J Bergan",
     "rmpSearched": true,
-    "department": "Biology",
-    "rmpId": "2904107",
-    "avgRating": 3.5,
-    "avgDifficulty": 3.6,
-    "wouldTakeAgainPct": 70,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/2904107",
-    "comments": [
-      {
-        "date": "May 17, 2025",
-        "rating": 4.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "The exams were a little difficult, but there were plenty of extra credit opportunities on exams and projects. The semester project also seems intimidating, but was super easy and not very time consuming. BEWARE of mandatory cumulative final exam",
-        "courseName": "3400"
-      },
-      {
-        "date": "May 15, 2025",
-        "rating": 5.0,
-        "difficulty": 2.0,
-        "wouldTakeAgain": true,
-        "text": "One of my favorite professors I had at Mizzou. Knows how to teach the material while being entertaining(a lot of professors can't do both at once). Taking notes and studying for exams is so easy the way he teaches! As a senior, this was just a fill in class but I wish I would have been able to enjoy Dr. Blay for more classes while I was at Mizzou!",
-        "courseName": "3400"
-      },
-      {
-        "date": "May 11, 2025",
-        "rating": 4.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": true,
-        "text": "Professor Blay is incredibly laid back in class and delivers really interesting lectures. His exams are hard but fair, and the assignments are long, but you have a while to complete them. His pop quizzes are easy if you pay attention, so try and do so! The semester project is fun and isn't too difficult! Also, super funny! BE RESPECTFUL!",
-        "courseName": "3400"
-      },
-      {
-        "date": "Oct 31, 2024",
-        "rating": 5.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": true,
-        "text": "Dr. Blay has been one of my favorite teachers so far at Mizzou. His lectures are interesting, and he grades fairly. You will need to go to class and study for tests, but if you put in the effort, you can definitely get a good grade. Would highly recommend for Vertebrate Biology!",
-        "courseName": "3002"
-      },
-      {
-        "date": "Jul 24, 2024",
-        "rating": 4.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "Great professor, cares about students and always willing to help. Has pop quizzes in class to take attendance. Not a lot of homework but test are HARD.",
-        "courseName": "3700"
-      },
-      {
-        "date": "Mar 01, 2024",
-        "rating": 5.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": true,
-        "text": "Great professor who cares about his students. He wants us all to understand, which is why he gives pop quizzes (controversial but they are not hard if you pay attention). Tests come directly from slides. Accessible outside of class and hilarious. You have to go to class because he doesn't record his lectures and quizzes are at the beginning.",
-        "courseName": "3700"
-      },
-      {
-        "date": "Jan 05, 2024",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "His lecture slides are the worst. They never line up with his outlines. I have never had a class with him where he actually teaches the things on his slides. Basically none of the content he teaches is relevant to his exams.",
-        "courseName": "3700"
-      },
-      {
-        "date": "Nov 08, 2023",
-        "rating": 5.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": true,
-        "text": "Great professor who pays attention to where students are at in order to best explain the material. Easy going and his lectures aren't boring. Multiple choice can be tricky, but he gives back points for questions that are frequently missed. Doesn't record lectures and has pop quizzes, but they are like 3 points, so missing 1 or 2 is not a big deal.",
-        "courseName": "3700"
-      }
-    ]
+    "rmpUrl": null,
+    "comments": []
   },
   "Nicholas J. Baranello": {
     "name": "Nicholas J. Baranello",
@@ -84275,12 +84321,29 @@
     "rmpSearched": true,
     "department": "Statistics",
     "rmpId": "3355268",
-    "avgRating": 0,
-    "avgDifficulty": 0,
-    "wouldTakeAgainPct": -1,
+    "avgRating": 5,
+    "avgDifficulty": 2,
+    "wouldTakeAgainPct": 100,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/3355268",
-    "comments": []
+    "comments": [
+      {
+        "date": "Jul 27, 2026",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "Really laid back instructor and was great at lecturing.",
+        "courseName": "STAT2800"
+      },
+      {
+        "date": "Jul 08, 2026",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Great professor. Grades fairly. Very helpful in class.",
+        "courseName": "STAT2800"
+      }
+    ]
   },
   "Nicholas Kalaitzandonakes": {
     "name": "Nicholas Kalaitzandonakes",
@@ -86306,10 +86369,18 @@
     "rmpId": "3014520",
     "avgRating": 2.7,
     "avgDifficulty": 2.3,
-    "wouldTakeAgainPct": 67,
+    "wouldTakeAgainPct": 50,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/3014520",
     "comments": [
+      {
+        "date": "Jul 29, 2026",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Avoid this class. The instructor is highly ineffective, and the course structure is significantly subpar. Lectures lack clarity, making them unhelpful for assignments and requiring heavy self-teaching. Furthermore, the professor demonstrates no flexibility or empathy regarding student professional scheduling conflicts.",
+        "courseName": "ISE-2710"
+      },
       {
         "date": "Dec 31, 2025",
         "rating": 3.0,
@@ -90967,14 +91038,39 @@
   "Rebecca Ann Bliss": {
     "name": "Rebecca Ann Bliss",
     "rmpSearched": true,
-    "department": null,
-    "rmpId": null,
-    "avgRating": null,
-    "avgDifficulty": null,
-    "wouldTakeAgainPct": null,
+    "department": "English",
+    "rmpId": "3070231",
+    "avgRating": 4.5,
+    "avgDifficulty": 2,
+    "wouldTakeAgainPct": 67,
     "tags": [],
-    "rmpUrl": null,
-    "comments": []
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/3070231",
+    "comments": [
+      {
+        "date": "May 24, 2026",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "i loved dr. brings! she is super accommodating and understanding to all students. she's also incredibly kind and the lectures and projects are very easy to understand. i highly recommend her to anyone taking english 1000!",
+        "courseName": "englsh-1000"
+      },
+      {
+        "date": "May 16, 2025",
+        "rating": 5.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "She is the sweetest soul ever! You get to miss four times and still get an A anything higher than 4 and your head is affected. Free submission no penalty for late work for a whole 24 hours! She is so great and gives great advice in conferences. I highly recommend she is so great.",
+        "courseName": "englsh-1000"
+      },
+      {
+        "date": "Jan 15, 2025",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "I just don't like English courses, so I didn't do great. However, Dr.Brings was super nice and had clear instructions with a great late work policy! If you want a laid back but informative English class, she's the one to take!",
+        "courseName": "englsh-1000"
+      }
+    ]
   },
   "Rebecca Anne Pelky": {
     "name": "Rebecca Anne Pelky",
@@ -91101,14 +91197,23 @@
   "Rebecca Dirkes": {
     "name": "Rebecca Dirkes",
     "rmpSearched": true,
-    "department": null,
-    "rmpId": null,
-    "avgRating": null,
-    "avgDifficulty": null,
-    "wouldTakeAgainPct": null,
+    "department": "Nutrition",
+    "rmpId": "2864234",
+    "avgRating": 5,
+    "avgDifficulty": 1,
+    "wouldTakeAgainPct": 100,
     "tags": [],
-    "rmpUrl": null,
-    "comments": []
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2864234",
+    "comments": [
+      {
+        "date": "Dec 14, 2022",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "Easiest A ever and you learn stuff about your health that is very important. She grades you with quizzes each week that you have 3 times to take. All answers can be found in her short, interesting lectures. There are 2 other assignments that are very easy. You can do everything on your own time, very kind and understanding professor. I recommend",
+        "courseName": "NEP1111"
+      }
+    ]
   },
   "Rebecca J Meisenbach": {
     "name": "Rebecca J Meisenbach",
@@ -92733,45 +92838,61 @@
   "Robert B Weir": {
     "name": "Robert B Weir",
     "rmpSearched": true,
-    "department": "Anthropology",
-    "rmpId": "2526599",
-    "avgRating": 4.5,
+    "department": "History",
+    "rmpId": "822927",
+    "avgRating": 3.9,
     "avgDifficulty": 3.3,
-    "wouldTakeAgainPct": 75,
+    "wouldTakeAgainPct": -1,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/2526599",
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/822927",
     "comments": [
       {
-        "date": "Dec 08, 2023",
-        "rating": 5.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": true,
-        "text": "I really like Rob's fieldwork stories and learning from his experiences in Brazil. We watched many movies which I enjoyed.  Final project was tough but I ended up very satisfied with what I was able to put together.",
-        "courseName": "anthro2340"
+        "date": "Jun 16, 2011",
+        "rating": 4.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "The lecture are informative, but pretty dull. Make sure to sit near the front or you'll be tempted to completely zone out. Our history class focused a lot on African American studies since he majored in that, but he makes it clear that he'll focus on that more than other professors would on the first day of class. Good teacher, but average lecture.",
+        "courseName": "HIST1000"
       },
       {
-        "date": "Dec 05, 2023",
-        "rating": 5.0,
-        "difficulty": 1.0,
-        "wouldTakeAgain": true,
-        "text": "Probably one of the best professors Mizzou Anthropology has to offer!",
-        "courseName": "anthro2340"
-      },
-      {
-        "date": "Sep 27, 2023",
-        "rating": 5.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": true,
-        "text": "Probalby one of the best courses I have taken at Mizzou. Lots of freedom to pursue your own project and follow your own interests. Rob is approachable and helpful.",
-        "courseName": "2300"
-      },
-      {
-        "date": "May 14, 2022",
+        "date": "Jan 08, 2011",
         "rating": 3.0,
         "difficulty": 4.0,
         "wouldTakeAgain": false,
-        "text": "Walker is nice and passionate, but does not teach very effectively. HW was only ever about coding in python, which was never taught to us in depth, and the final exam covered material that was only ever made available during in person lectures (not recorded) and a 700+ page novel. Cool guy, but don't take unless you already know how to code.",
-        "courseName": "2300"
+        "text": "Bland lecturing with no guidance for studying for tests that cover a LOT of material. First test is midterm, after drop date. You have to basically memorize the textbook and your notes so you can be prepared for his random test questions. Never would have had a B without the curve-typically love history, this made me despise it.",
+        "courseName": "HIST1410"
+      },
+      {
+        "date": "Nov 14, 2008",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "I LOVE, LOVE, LOVE Professor Weems.  He is an excellent teacher and really knows what he is talking about.  His classes are always really interesting and I have gotten a lot out of them.",
+        "courseName": "HIST1410"
+      },
+      {
+        "date": "Oct 30, 2007",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": false,
+        "text": "Great teacher, but boring to listen to.  He uses the same phrases over and over.  The tests are a little hard, but if you memorize your notes well, you'll do fine.",
+        "courseName": "HIST1200"
+      },
+      {
+        "date": "Dec 13, 2006",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "He was a good teacher who really knows what he is talking about.",
+        "courseName": "HIST1410"
+      },
+      {
+        "date": "Mar 22, 2006",
+        "rating": 4.0,
+        "difficulty": 3.0,
+        "wouldTakeAgain": false,
+        "text": "He's a nice guy but the whole class turned into an African-American history class instead of just general American History after 1865. I didn't feel like I learned anything I was supposed to, and felt like he was guilt-tripping me for being white. He also gives multiple choice tests instead of essay tests, which no one did very well on.",
+        "courseName": "HISTAFT1865"
       }
     ]
   },
@@ -93450,47 +93571,14 @@
   "Robert Sills Boone": {
     "name": "Robert Sills Boone",
     "rmpSearched": true,
-    "department": "English",
-    "rmpId": "1958613",
-    "avgRating": 4.3,
-    "avgDifficulty": 1.5,
-    "wouldTakeAgainPct": 100,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/1958613",
-    "comments": [
-      {
-        "date": "Mar 12, 2022",
-        "rating": 3.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": true,
-        "text": "Marks off on the dumbest things ever, not just papers but discussion posts. Other than that he’s chill and ez. Took him at MACC",
-        "courseName": "ENG1000"
-      },
-      {
-        "date": "Dec 15, 2015",
-        "rating": 5.0,
-        "difficulty": 1.0,
-        "wouldTakeAgain": false,
-        "text": "By far the easiest class ive taken at mizzou. Easy grader, no quizes or exams and papers are simple. Ended up with a 96% in the class. DEFIANTLY TAKE HIM",
-        "courseName": "ENGLISH1000"
-      },
-      {
-        "date": "May 27, 2015",
-        "rating": 5.0,
-        "difficulty": 1.0,
-        "wouldTakeAgain": false,
-        "text": "Best. Class. at. Mizzou. Bob was so great to have as a teacher.  The class was easy and I ended up with a 98% even though english is by far my worst subject. Just pay him some respect by showing up and participating and it will reflect in your grade!",
-        "courseName": "ENG1000"
-      },
-      {
-        "date": "Dec 09, 2014",
-        "rating": 5.0,
-        "difficulty": 1.0,
-        "wouldTakeAgain": false,
-        "text": "The papers are super easy and he grades even easier. The whole class was focused on global warming so everything I wrote about seemed repetitive but he still gave me a good grade. He allows 6 absences but I know people who skipped more and turned in stuff late and they still got a decent grade. Super cool guy, a little quirky but so glad I had him.",
-        "courseName": "ENGLISH1000"
-      }
-    ]
+    "rmpUrl": null,
+    "comments": []
   },
   "Robert Stephen Gray Fletcher": {
     "name": "Robert Stephen Gray Fletcher",
@@ -97869,79 +97957,14 @@
   "Scott Alan Barnes": {
     "name": "Scott Alan Barnes",
     "rmpSearched": true,
-    "department": "English",
-    "rmpId": "463485",
-    "avgRating": 4.7,
-    "avgDifficulty": 1.8,
-    "wouldTakeAgainPct": 100,
+    "department": null,
+    "rmpId": null,
+    "avgRating": null,
+    "avgDifficulty": null,
+    "wouldTakeAgainPct": null,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/463485",
-    "comments": [
-      {
-        "date": "Aug 20, 2016",
-        "rating": 5.0,
-        "difficulty": 2.0,
-        "wouldTakeAgain": true,
-        "text": "Scott Cairns, hands down, has been my favorite professor at Mizzou so far. He didn't give any tests in my class but we did do a lot of interesting reading and writing. His feedback is golden and he tells great stories. Participate and think critically in his class and you'll get an A, for sure.",
-        "courseName": "ENGL4530"
-      },
-      {
-        "date": "Jun 02, 2016",
-        "rating": 5.0,
-        "difficulty": 2.0,
-        "wouldTakeAgain": true,
-        "text": "I was told that I would be enrolled in a class with Darwin's \"The Origin of Species\" as required reading, however I was instead enrolled in Dr. Cairns's class with \"Genesis\" as required reading. Despite that, Dr. Cairns is by far the best professor that I have had in my six years at Mizzou. I got the grade that I deserved.",
-        "courseName": "ENGL2000"
-      },
-      {
-        "date": "May 11, 2016",
-        "rating": 5.0,
-        "difficulty": 1.0,
-        "wouldTakeAgain": false,
-        "text": "Tell him a joke and he'll love you. Easy class and he's interesting, even if he does repeat himself a lot. Grade is heavy on participation but the class is small so it wasn't too bad. Would take again.",
-        "courseName": "ENG4040"
-      },
-      {
-        "date": "May 12, 2015",
-        "rating": 4.0,
-        "difficulty": 2.0,
-        "wouldTakeAgain": false,
-        "text": "Professor Cairns is a charming man. He is passionate about poetry and shows that continuously throughout his class. If you come to class, do your assignments, and participate every once in awhile, you will do well. He genuinely wants you to do well and is always willing to work with you to improve your grade.",
-        "courseName": "ENG4169"
-      },
-      {
-        "date": "Mar 02, 2010",
-        "rating": 5.0,
-        "difficulty": 1.0,
-        "wouldTakeAgain": false,
-        "text": "Favorite prof ever.  This guy is serious business.",
-        "courseName": "ENGL2000"
-      },
-      {
-        "date": "Jan 22, 2010",
-        "rating": 3.0,
-        "difficulty": 1.0,
-        "wouldTakeAgain": false,
-        "text": "Dr. Cairns is a very funny guy. His class is enjoyable and not difficult. I liked listening to him talk about generally nothing (and doing some name dropping), but when he got down to talking about poetry he had some interesting views. I wasn't always in agreement but they were good to think about. He changed the way I write to a great degree.",
-        "courseName": "ENGL4530"
-      },
-      {
-        "date": "Jan 25, 2006",
-        "rating": 5.0,
-        "difficulty": 1.0,
-        "wouldTakeAgain": false,
-        "text": "course wasn't difficult; minimal work; and he made class interesting and used his time well",
-        "courseName": "ENGLISH103"
-      },
-      {
-        "date": "Mar 09, 2005",
-        "rating": 3.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": false,
-        "text": "Good: Great: Grand.  How's that for poetry.  Not as much prose as I would have liked, but an excellent, inspired teacher.",
-        "courseName": "AMERICANLIT"
-      }
-    ]
+    "rmpUrl": null,
+    "comments": []
   },
   "Scott Alan Curtis": {
     "name": "Scott Alan Curtis",
@@ -98255,39 +98278,14 @@
   "Scott Ervin Poock": {
     "name": "Scott Ervin Poock",
     "rmpSearched": true,
-    "department": "Biology",
-    "rmpId": "2944854",
-    "avgRating": 4.7,
-    "avgDifficulty": 3,
-    "wouldTakeAgainPct": 67,
+    "department": "Accounting",
+    "rmpId": "2402315",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "wouldTakeAgainPct": -1,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/2944854",
-    "comments": [
-      {
-        "date": "Dec 11, 2025",
-        "rating": 5.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": true,
-        "text": "Dr. Peck is actually the best! He is so incredibly kind and supportive of his students, and even though he is incredibly smart he does a good job of teaching undergrads. Very lecture heavy and has pop quizzes, but the material is not too tough if you keep up. Wish I could take him for every biochem class!",
-        "courseName": "2480"
-      },
-      {
-        "date": "Nov 14, 2025",
-        "rating": 5.0,
-        "difficulty": 2.0,
-        "wouldTakeAgain": true,
-        "text": "Dr. Peck is one of the kindest professors you will meet. There are weekly pop quizzes, but they are incredibly easy. There are ~15 homework assignments for the whole semester and three exams. The exams are easy; however, he does grade them tough. He cares about his students inside and outside of class and is extremely understanding/accommodating!",
-        "courseName": "2480"
-      },
-      {
-        "date": "Nov 05, 2023",
-        "rating": 4.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": false,
-        "text": "I took Dr.Peck for 2480 and beware of pop quizzes!!!! He will hint at when they are but you have little idea when they will be. Because of this he expects you to be in class every day. The class is so lecture heavy. All written exams. He does care about his students and is really approachable outside of the lecture.",
-        "courseName": "2480"
-      }
-    ]
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2402315",
+    "comments": []
   },
   "Scott H Frey": {
     "name": "Scott H Frey",
@@ -99693,77 +99691,45 @@
   "Shannon Marie Barney Breske": {
     "name": "Shannon Marie Barney Breske",
     "rmpSearched": true,
-    "department": "Business",
-    "rmpId": "2208814",
-    "avgRating": 1.4,
-    "avgDifficulty": 3.8,
-    "wouldTakeAgainPct": 9,
+    "department": "Management",
+    "rmpId": "2676929",
+    "avgRating": 2.3,
+    "avgDifficulty": 4,
+    "wouldTakeAgainPct": 25,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/2208814",
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2676929",
     "comments": [
       {
-        "date": "Dec 27, 2025",
+        "date": "Apr 08, 2025",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "- was impossible to reach throughout the semester\n- would tell you one way to do a project but it would be wrong when you did it that way\n- there is so much out of class work\n- you won't get 100 on anything\n- she is insanely condescending and pretends her mistakes are learning opportunities (doesn't admit fault)",
+        "courseName": "3000W"
+      },
+      {
+        "date": "Mar 15, 2025",
         "rating": 2.0,
-        "difficulty": 4.0,
+        "difficulty": 5.0,
         "wouldTakeAgain": false,
-        "text": "Took honors- told by Shannon that we had to \"negotiate\" class syllabus on first day of class. \n\nTips:\n1. Get front/back cheat sheet for exams (they are very hard-- avg was C with cheat sheet)\n2. Don't tie class attendance to a large portion of grade. She won't allow excuse letters\n3. Build in many bonus opportunities\n4. Build in easy group project",
-        "courseName": "MANGMT3000W"
+        "text": "I really like shannon as a person but the rubrics need to be changed. also, this will be different for everyone but my TA graded sooo harsh and sometimes it felt like there was no way to correctly do the assignment. we were always given very vague instructions and little directions in class, so we were left to do assignments completely on our own.",
+        "courseName": "3000W"
       },
       {
-        "date": "Dec 09, 2025",
+        "date": "Jan 10, 2024",
         "rating": 1.0,
         "difficulty": 5.0,
         "wouldTakeAgain": false,
-        "text": "I mean. Just the worst ever. Do not take any class with Shannon Breske. She is one of the worst professors in the Trulaske College of Business, and I think she probably knows it. Her grading is super unclear and honestly brutal. She also has a demeaning tone and belittles students. Don't take her. Take 3000W online. It's a lot easier.",
-        "courseName": "MANGMT3000W"
+        "text": "Condescending and is not open to feedback whatever she says goes. By any means avoid Shannon.",
+        "courseName": "3000W"
       },
       {
-        "date": "Oct 20, 2025",
-        "rating": 1.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": false,
-        "text": "Shannon's nice, but this class sucked. I took the Honors, so a smaller group, but she should stick to the Study Abroad department instead of teaching. She used a condescending tone extremely often that made students feel belittled and dumb. Grades papers off BSW but never fully explains how to write to cater to her grading style. can't stand her",
-        "courseName": "MANGMT3000W"
-      },
-      {
-        "date": "Jan 29, 2025",
-        "rating": 3.0,
-        "difficulty": 4.0,
+        "date": "Nov 09, 2023",
+        "rating": 5.0,
+        "difficulty": 2.0,
         "wouldTakeAgain": true,
-        "text": "Shannon Breske knows her subject well but has high expectations. The assignment guidelines are unclear, making it difficult to know what to anticipate, which often leads to low grades that she and her TAs will not revise. However, she does allow for some input on her class structure, so be sure to suggest a few dropped assignments!",
-        "courseName": "MANGMT3000W"
-      },
-      {
-        "date": "Oct 30, 2024",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "Avoid this professor. Shannon is nice, but can be very condescending and also talks to her students like they are 3rd graders. You also have a 70 question exam at the end of the year with 75 minutes to do it, over the stuff she fails to properly teach throughout the semester. And she fails to inform you about the importance of the research.Horrible",
-        "courseName": "MANGMT3000W"
-      },
-      {
-        "date": "Sep 25, 2024",
-        "rating": 3.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": false,
-        "text": "Shannon is an okay professor. She is very kind and tries to understand personal situations, but as soon as it comes to questions about the coursework/assignment, she is very ambiguous about her direction and guidance. Attendance is counted, so make sure you go to class. You will get an appropriate grade if you utilize the extra credit.",
-        "courseName": "MANGMT3000W"
-      },
-      {
-        "date": "Sep 25, 2024",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "Purposefully cruel with grades, and condescending to any who try to reason with her. She made an assignment worth 100 points be mostly graded on whether or not you highlighted some words in your paper, rather than grading your actual work. She will not compromise, she will not listen, she will do whatever she wants.",
-        "courseName": "MANGMT3000W"
-      },
-      {
-        "date": "Sep 25, 2024",
-        "rating": 1.0,
-        "difficulty": 1.0,
-        "wouldTakeAgain": false,
-        "text": "Chooses assignments point distribution with a dartboard. Made a 100 point assignment (worth the same amount as the final exam) be mostly graded off the fact 6 words needed to be highlighted in paper rather than grade the actual context of the work because she is lazy and sly. Don't try to reason with her either, she will treat you like a child.",
-        "courseName": "MANGMT3000W"
+        "text": "Shannon really cares about her students, lectures are engaging and well planned. Had us often collaborating with others during class, students get a voice on class content. Assignments are easy and well defined, but grading relies on who's your TA. Class is centered on constantly improving your communication skills and you get consistent feedback.",
+        "courseName": "3000W"
       }
     ]
   },
@@ -101229,11 +101195,19 @@
     "department": "Physics",
     "rmpId": "1575117",
     "avgRating": 3.8,
-    "avgDifficulty": 3.3,
+    "avgDifficulty": 3.2,
     "wouldTakeAgainPct": 67,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/1575117",
     "comments": [
+      {
+        "date": "Jul 28, 2026",
+        "rating": 4.0,
+        "difficulty": 2.0,
+        "wouldTakeAgain": true,
+        "text": "Silvia was the goat. All around a great professor and her accent is cool. Use AI to help you learn but don't neglect the discussions.",
+        "courseName": "2750"
+      },
       {
         "date": "Apr 27, 2026",
         "rating": 4.0,
@@ -101289,14 +101263,6 @@
         "wouldTakeAgain": true,
         "text": "She is be blunt with all responses in class, but she balances it out with a light humor. I truly loved her as a professor and wish she was teaching more classes that are required for anyone outside of physics majors.",
         "courseName": "PHYS2750"
-      },
-      {
-        "date": "Dec 08, 2025",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "I would pray every day for the buses to run me over as I was walking to her class.",
-        "courseName": "2750"
       }
     ]
   },
@@ -102170,13 +102136,13 @@
   "Stacy Ann Wagovich": {
     "name": "Stacy Ann Wagovich",
     "rmpSearched": true,
-    "department": "Health Science",
-    "rmpId": "2702443",
+    "department": "Communication",
+    "rmpId": "2377582",
     "avgRating": 0,
     "avgDifficulty": 0,
     "wouldTakeAgainPct": -1,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/2702443",
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/2377582",
     "comments": []
   },
   "Stacy Marie Hirt": {
@@ -103474,10 +103440,18 @@
     "rmpId": "1866220",
     "avgRating": 4.9,
     "avgDifficulty": 2.3,
-    "wouldTakeAgainPct": 98,
+    "wouldTakeAgainPct": 99,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/1866220",
     "comments": [
+      {
+        "date": "Jul 08, 2026",
+        "rating": 5.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": true,
+        "text": "Take his class. He makes criminology way more fun than you'd expect by having students act out scenarios, and it actually helps you learn. Also volunteer when he asks because he gives out thank you prizes. He's genuinely hilarious, super upbeat, and honestly very charming and good-looking and just has a really likable presence.",
+        "courseName": "CRIMINOLOGY3600"
+      },
       {
         "date": "Jul 01, 2026",
         "rating": 5.0,
@@ -103533,14 +103507,6 @@
         "wouldTakeAgain": true,
         "text": "Genuinely the kindest teacher I have ever had in my whole learning career. He genuinely believes in every single one of his students. I have been to his office hours before, and it felt like I was talking to a well-respected, knowledgeable peer. He never talks down on his students and is clearly incredibly passionate about what he teaches.",
         "courseName": "soc1000"
-      },
-      {
-        "date": "Jan 15, 2026",
-        "rating": 5.0,
-        "difficulty": 2.0,
-        "wouldTakeAgain": true,
-        "text": "Had him for Intro to Sociology and honestly he's the kind of professor you wish you had for every class. He's organized, clear, actually grades fairly, and never makes you feel inferior. He's also really patient and just has good energy in the room.",
-        "courseName": "sociol1000"
       }
     ]
   },
@@ -104034,10 +104000,18 @@
     "rmpId": "3052553",
     "avgRating": 2.3,
     "avgDifficulty": 3,
-    "wouldTakeAgainPct": 26,
+    "wouldTakeAgainPct": 25,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/3052553",
     "comments": [
+      {
+        "date": "May 12, 2026",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Great example of someone who should not be in education. Boring lectures, bad at teaching, makes an interesting subject terribly boring, and generally unhelpful to students. Get ready to teach yourself, Steve can't teach anything. Wait to take this class from another professor. It's a shame Mizzou only has one professor for this class at a time.",
+        "courseName": "FINANC3000"
+      },
       {
         "date": "Apr 28, 2026",
         "rating": 2.0,
@@ -104093,14 +104067,6 @@
         "wouldTakeAgain": false,
         "text": "Lord Help me",
         "courseName": "FINANC4010"
-      },
-      {
-        "date": "Jan 23, 2026",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "This is for Finance 3000, but there is no option for that yet This Professor may only speak about 3 words per minute during these lectures. Im trying to comprehend how this man got past any interviews with the university speaking at a literal sloth speed. I was really excited for Finance but its hard to be when you have 75 minutes of slow lecture",
-        "courseName": "FINANC4010"
       }
     ]
   },
@@ -104119,29 +104085,77 @@
   "Steven Miller": {
     "name": "Steven Miller",
     "rmpSearched": true,
-    "department": "Health Professions",
-    "rmpId": "2180256",
-    "avgRating": 3,
-    "avgDifficulty": 4,
-    "wouldTakeAgainPct": 0,
+    "department": "Chemistry",
+    "rmpId": "137647",
+    "avgRating": 2.3,
+    "avgDifficulty": 4.5,
+    "wouldTakeAgainPct": 20,
     "tags": [],
-    "rmpUrl": "https://www.ratemyprofessors.com/professor/2180256",
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/137647",
     "comments": [
       {
-        "date": "Oct 24, 2016",
+        "date": "Jul 14, 2026",
         "rating": 3.0,
         "difficulty": 4.0,
-        "wouldTakeAgain": false,
-        "text": "This class is pass/fail and it's a lot of work but it could be worse.",
-        "courseName": "INTDSC1000"
+        "wouldTakeAgain": true,
+        "text": "On weekends, he posts textbook chapters that pertain to his lectures for the upcoming week. Reading these before class is the only reason I passed. He expects you to already have a baseline understanding of the lecture material, but he's a pretty good lecturer once you get how he teaches.",
+        "courseName": "chem1410"
       },
       {
-        "date": "Oct 24, 2016",
-        "rating": 3.0,
+        "date": "May 29, 2026",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Yeah don't take this class if you have other options",
+        "courseName": "chem1410"
+      },
+      {
+        "date": "May 12, 2026",
+        "rating": 4.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": true,
+        "text": "Dr. Keller is a very challenging professor. He was my first class that I took for Pre-Med, and it was a great introduction and honestly taught me a lot about study habits, resilience, and chemistry. Although his class is really difficult, he himself is very nice and you can find what you're looking for in the exams in the textbook.",
+        "courseName": "CHEM1320"
+      },
+      {
+        "date": "May 11, 2026",
+        "rating": 5.0,
+        "difficulty": 1.0,
+        "wouldTakeAgain": true,
+        "text": "Keller genuinely cares about the content. His normal Chemistry classes are very tough but his seminars are awesome.",
+        "courseName": "GNHON2457H"
+      },
+      {
+        "date": "May 10, 2026",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Extremely difficult test that his lectures do not prepare you for or the homework. Avoid this class.",
+        "courseName": "chem1410"
+      },
+      {
+        "date": "May 09, 2026",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "the sukuna of professors",
+        "courseName": "chem1410"
+      },
+      {
+        "date": "May 07, 2026",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "I am fighting for my life to hopefully end with a B-.  Homework, lectures, practice and previous tests have zero correlation to exams. He doesn't answer questions clearly. I would rather wake up for a 6 am lecture with anyone else than be in this class. If you have plans for grad school, do not take this class- it will tank your GPA and sanity.",
+        "courseName": "chem1410"
+      },
+      {
+        "date": "May 04, 2026",
+        "rating": 1.0,
         "difficulty": 4.0,
         "wouldTakeAgain": false,
-        "text": "For a pass fail class, there's LOTS of work.",
-        "courseName": "INTDSC1001"
+        "text": "He teaches to students like everyone is a Chemistry Scholar. Be prepared to teach yourself everything.",
+        "courseName": "chem1410"
       }
     ]
   },
@@ -106035,10 +106049,18 @@
     "rmpId": "2696487",
     "avgRating": 3.7,
     "avgDifficulty": 2.8,
-    "wouldTakeAgainPct": 70,
+    "wouldTakeAgainPct": 68,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/2696487",
     "comments": [
+      {
+        "date": "May 12, 2026",
+        "rating": 1.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "She really thinks ts is sweet huh?",
+        "courseName": "STAT3500"
+      },
       {
         "date": "May 09, 2026",
         "rating": 4.0,
@@ -106093,14 +106115,6 @@
         "difficulty": 2.0,
         "wouldTakeAgain": true,
         "text": "Super clear lectures, always knew what was expected on quiz and homework. Great Prof.",
-        "courseName": "STAT2500"
-      },
-      {
-        "date": "Dec 12, 2025",
-        "rating": 4.0,
-        "difficulty": 2.0,
-        "wouldTakeAgain": true,
-        "text": "Super nice, class isn't hard if you follow along and make the excel files for the quizzes.",
         "courseName": "STAT2500"
       }
     ]
@@ -107592,13 +107606,13 @@
   "Timothy Duff": {
     "name": "Timothy Duff",
     "rmpSearched": true,
-    "department": null,
-    "rmpId": null,
-    "avgRating": null,
-    "avgDifficulty": null,
-    "wouldTakeAgainPct": null,
+    "department": "Mathematics",
+    "rmpId": "5054458",
+    "avgRating": 0,
+    "avgDifficulty": 0,
+    "wouldTakeAgainPct": -1,
     "tags": [],
-    "rmpUrl": null,
+    "rmpUrl": "https://www.ratemyprofessors.com/professor/5054458",
     "comments": []
   },
   "Timothy E Glass": {
@@ -109703,12 +109717,36 @@
     "rmpSearched": true,
     "department": "Mathematics",
     "rmpId": "3012936",
-    "avgRating": 3.7,
-    "avgDifficulty": 3.8,
-    "wouldTakeAgainPct": 64,
+    "avgRating": 3.3,
+    "avgDifficulty": 3.9,
+    "wouldTakeAgainPct": 53,
     "tags": [],
     "rmpUrl": "https://www.ratemyprofessors.com/professor/3012936",
     "comments": [
+      {
+        "date": "Jul 28, 2026",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "He would mess up the questions and everything was based on the lectures. Didn't post anything. No test reviews. The test were like the review but the final was nothing like the review",
+        "courseName": "MATH4100"
+      },
+      {
+        "date": "Jul 28, 2026",
+        "rating": 3.0,
+        "difficulty": 4.0,
+        "wouldTakeAgain": false,
+        "text": "Dr. Unal is a fun guy and does care about all of his students. He tells you exactly what is on the tests if you show up to class. However, tests are still hard. He cold calls Somtimes.",
+        "courseName": "MATH4100"
+      },
+      {
+        "date": "Jul 13, 2026",
+        "rating": 1.0,
+        "difficulty": 5.0,
+        "wouldTakeAgain": false,
+        "text": "Said he welcomed emails but rarely replied. Promised a large curve that never happened. The final was not what was described and focused on niche topics covered briefly once. Lectures were confusing, numbers changed mid-example, none were recorded, and he criticized students for missing class even though attendance was not required.",
+        "courseName": "MATH4100"
+      },
       {
         "date": "May 12, 2026",
         "rating": 1.0,
@@ -109747,30 +109785,6 @@
         "difficulty": 3.0,
         "wouldTakeAgain": true,
         "text": "Took a second to catch on but after a bit his lectures were great. Doing practice problems out of the textbook was a big help as they were harder than what was on the exams.",
-        "courseName": "MATH4100"
-      },
-      {
-        "date": "Apr 30, 2025",
-        "rating": 5.0,
-        "difficulty": 3.0,
-        "wouldTakeAgain": true,
-        "text": "Dr. Unal is great! His lectures encourage you to try and learn and will have you attempt concepts in class! The exams are kind of tough but are easier than the homework problems. He grades fairly tough and small mistakes will cost you, but he genuinely cares and wants you to succeed!",
-        "courseName": "MATH4100"
-      },
-      {
-        "date": "Mar 19, 2025",
-        "rating": 5.0,
-        "difficulty": 4.0,
-        "wouldTakeAgain": true,
-        "text": "Unal is very nice and caring, but he is a little bit eccentric and his lectures take time to be able to understand well. Once you get a feel for his style though, his lectures are amazing and you will understand everything very well. His review sessions for exams are VERY important, never miss them.",
-        "courseName": "MATH4100"
-      },
-      {
-        "date": "Feb 17, 2025",
-        "rating": 1.0,
-        "difficulty": 5.0,
-        "wouldTakeAgain": false,
-        "text": "The first test was challenging. There are exam concepts that we didn't over in class (and no review guides). His teaching style is outdated and easy to get lost in. Online notes don't correlate with lectures  (where he makes mistakes and changes variables/numbers in examples). Calc123 was easy, but it felt complicated when he reviewed the concepts.",
         "courseName": "MATH4100"
       }
     ]
