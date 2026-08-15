@@ -7764,6 +7764,410 @@
     "tracks": []
   },
   {
+    "id": "bs-construction-management",
+    "name": "BS in Construction Management",
+    "college": "College of Engineering",
+    "totalCredits": 122,
+    "requiredCourses": [
+      {
+        "courseId": "MATH_1500",
+        "title": "Analytic Geometry and Calculus I",
+        "credits": 5,
+        "category": "Core"
+      },
+      {
+        "courseId": "PHYSCS_2750",
+        "title": "University Physics I",
+        "credits": 5,
+        "category": "Core"
+      },
+      {
+        "courseId": "CHEM_1400",
+        "title": "College Chemistry I",
+        "credits": 3,
+        "category": "Core"
+      },
+      {
+        "courseId": "ENGLSH_1000",
+        "title": "Writing and Rhetoric",
+        "credits": 3,
+        "category": "Core"
+      },
+      {
+        "courseId": "ARCHST_1100",
+        "title": "Visual Design",
+        "credits": 3,
+        "category": "Core"
+      },
+      {
+        "courseId": "ARCHST_2100",
+        "title": "Understanding Architecture and the American City",
+        "credits": 3,
+        "category": "Core"
+      },
+      {
+        "courseId": "ENGINR_1100",
+        "title": "Engineering Graphics Fundamentals",
+        "credits": 2,
+        "category": "Required Core Courses",
+        "orCourses": [
+          {
+            "courseId": "ARCHST_2220",
+            "title": "Introduction to CAD",
+            "credits": 3
+          }
+        ]
+      },
+      {
+        "courseId": "CV_ENG_2510",
+        "title": "Introduction to Surveying",
+        "credits": 3,
+        "category": "Required Core Courses"
+      },
+      {
+        "courseId": "CV_ENG_2520",
+        "title": "Construction Drawings and Specifications",
+        "credits": 3,
+        "category": "Required Core Courses"
+      },
+      {
+        "courseId": "CV_ENG_4500",
+        "title": "Construction Management",
+        "credits": 3,
+        "category": "Required Core Courses"
+      },
+      {
+        "courseId": "CV_ENG_4145",
+        "title": "Civil and Environmental Engineering Legal Issues",
+        "credits": 3,
+        "category": "Required Core Courses"
+      },
+      {
+        "courseId": "CV_ENG_4510",
+        "title": "Mechanics and Materials for Construction",
+        "credits": 3,
+        "category": "Required Core Courses"
+      },
+      {
+        "courseId": "CV_ENG_4520",
+        "title": "Construction Contracting",
+        "credits": 3,
+        "category": "Required Core Courses"
+      },
+      {
+        "courseId": "CV_ENG_4530",
+        "title": "Construction Safety",
+        "credits": 3,
+        "category": "Required Core Courses"
+      },
+      {
+        "courseId": "CV_ENG_4540",
+        "title": "Construction Planning and Scheduling",
+        "credits": 3,
+        "category": "Required Core Courses"
+      },
+      {
+        "courseId": "CV_ENG_4550",
+        "title": "Construction Project Costing",
+        "credits": 3,
+        "category": "Required Core Courses"
+      },
+      {
+        "courseId": "CV_ENG_4560",
+        "title": "Construction Estimating",
+        "credits": 3,
+        "category": "Required Core Courses"
+      },
+      {
+        "courseId": "CV_ENG_4980",
+        "title": "Civil Engineering Systems Design",
+        "credits": 3,
+        "category": "Required Core Courses"
+      },
+      {
+        "courseId": "INFOTC_1040",
+        "title": "Introduction to Problem Solving and Programming",
+        "credits": 3,
+        "category": "Required Core Courses"
+      },
+      {
+        "courseId": "ARCHST_2230",
+        "title": "Design Communication I",
+        "credits": 3,
+        "category": "Required Core Courses"
+      },
+      {
+        "courseId": "ARCHST_2323",
+        "title": "Sustainable Building Design Fundamentals",
+        "credits": 3,
+        "category": "Required Core Courses"
+      },
+      {
+        "courseId": "ARCHST_4333",
+        "title": "Compliance and Specifications",
+        "credits": 3,
+        "category": "Required Core Courses"
+      },
+      {
+        "courseId": "ARCHST_4815",
+        "title": "Construction Documents and Building Information Modeling Studio",
+        "credits": 5,
+        "category": "Required Core Courses"
+      }
+    ],
+    "electivePools": [
+      {
+        "name": "Additional Courses",
+        "minCredits": 120,
+        "courses": [
+          {
+            "courseId": "LEAD_4242W",
+            "title": "Strategic Communication Leadership - Writing Intensive",
+            "credits": 3
+          },
+          {
+            "courseId": "LEAD_4244W",
+            "title": "Creating Cultures Through Effective Strategic Communication and Leadership - Writing Intensive",
+            "credits": 3
+          },
+          {
+            "courseId": "FINANC_1000",
+            "title": "Principles of Finance",
+            "credits": 3
+          },
+          {
+            "courseId": "ECONOM_1014",
+            "title": "Principles of Microeconomics",
+            "credits": 3
+          },
+          {
+            "courseId": "ECONOM_1015",
+            "title": "Principles of Macroeconomics",
+            "credits": 3
+          },
+          {
+            "courseId": "MANGMT_3000",
+            "title": "Principles of Management",
+            "credits": 3
+          },
+          {
+            "courseId": "ACCTCY_2010",
+            "title": "Introduction to Accounting",
+            "credits": 3
+          },
+          {
+            "courseId": "COMMUN_1200",
+            "title": "Public Speaking",
+            "credits": 3
+          },
+          {
+            "courseId": "CV_ENG_3050",
+            "title": "Introduction to Geographic Information Systems GIS",
+            "credits": 3
+          },
+          {
+            "courseId": "CV_ENG_3100",
+            "title": "Fundamentals of Transportation Engineering",
+            "credits": 4
+          },
+          {
+            "courseId": "CV_ENG_4100",
+            "title": "Traffic Engineering",
+            "credits": 3
+          },
+          {
+            "courseId": "CV_ENG_4104",
+            "title": "Pavement Materials and Design",
+            "credits": 3
+          },
+          {
+            "courseId": "CV_ENG_4105",
+            "title": "Asphalt Materials and Mixture Design",
+            "credits": 3
+          },
+          {
+            "courseId": "CV_ENG_4106",
+            "title": "Intelligent Transportation Systems",
+            "credits": 3
+          },
+          {
+            "courseId": "CV_ENG_4110",
+            "title": "Transportation Simulation",
+            "credits": 3
+          },
+          {
+            "courseId": "CV_ENG_4120",
+            "title": "Airport Engineering",
+            "credits": 3
+          },
+          {
+            "courseId": "CV_ENG_4155",
+            "title": "Transportation Geography",
+            "credits": 3
+          },
+          {
+            "courseId": "CV_ENG_4160",
+            "title": "Urban Transportation Data Science",
+            "credits": 3
+          },
+          {
+            "courseId": "CV_ENG_4185",
+            "title": "Location Analysis/Site Selection",
+            "credits": 3
+          },
+          {
+            "courseId": "CV_ENG_4230",
+            "title": "Introduction to Water Quality",
+            "credits": 3
+          },
+          {
+            "courseId": "CV_ENG_4250",
+            "title": "Environmental Regulatory Compliance",
+            "credits": 3
+          },
+          {
+            "courseId": "CV_ENG_1000",
+            "title": "Introduction to Civil Engineering",
+            "credits": 1
+          },
+          {
+            "courseId": "CV_ENG_2800",
+            "title": "Introduction to Engineering Sustainability",
+            "credits": 3
+          },
+          {
+            "courseId": "ARCHST_1200",
+            "title": "Architectural Drafting and Working Drawings",
+            "credits": 4
+          },
+          {
+            "courseId": "ARCHST_1600",
+            "title": "Fundamentals of Environmental Design",
+            "credits": 3
+          },
+          {
+            "courseId": "ARCHST_2220",
+            "title": "Introduction to CAD",
+            "credits": 3
+          },
+          {
+            "courseId": "ARCHST_2310",
+            "title": "Building Systems",
+            "credits": 3
+          },
+          {
+            "courseId": "ARCHST_2315",
+            "title": "Introduction to Building Systems Laboratory",
+            "credits": 1
+          },
+          {
+            "courseId": "ARCHST_2316",
+            "title": "Advanced Building Systems Lab",
+            "credits": 2
+          },
+          {
+            "courseId": "ARCHST_2620",
+            "title": "People, Places and Design",
+            "credits": 3
+          },
+          {
+            "courseId": "ARCHST_3230",
+            "title": "Advanced Design Communication Using BIM",
+            "credits": 3
+          },
+          {
+            "courseId": "ARCHST_4320",
+            "title": "Materials, Methods and Products",
+            "credits": 3
+          },
+          {
+            "courseId": "ARCHST_4323",
+            "title": "Sustainable Technologies and Systems",
+            "credits": 3
+          },
+          {
+            "courseId": "ARCHST_4325",
+            "title": "Data-Driven Building Design",
+            "credits": 3
+          },
+          {
+            "courseId": "ARCHST_4430",
+            "title": "Guiding Design with Historic Preservation",
+            "credits": 3
+          },
+          {
+            "courseId": "ACCTCY_2026",
+            "title": "Accounting I",
+            "credits": 3
+          },
+          {
+            "courseId": "ACCTCY_2027",
+            "title": "Accounting II",
+            "credits": 3
+          },
+          {
+            "courseId": "ECONOM_3229",
+            "title": "Money, Banking and Financial Markets",
+            "credits": 3
+          },
+          {
+            "courseId": "ECONOM_3251",
+            "title": "Managerial Economics",
+            "credits": 3
+          },
+          {
+            "courseId": "ECONOM_3367",
+            "title": "Law and Economics",
+            "credits": 3
+          },
+          {
+            "courseId": "ECONOM_4315",
+            "title": "Public Economics",
+            "credits": 3
+          },
+          {
+            "courseId": "ECONOM_4316",
+            "title": "State and Local Finance",
+            "credits": 3
+          },
+          {
+            "courseId": "ECONOM_4317",
+            "title": "Urban Economics",
+            "credits": 3
+          },
+          {
+            "courseId": "ECONOM_4328",
+            "title": "Financial Economics",
+            "credits": 3
+          },
+          {
+            "courseId": "FINANC_2000",
+            "title": "Survey of Business Finance",
+            "credits": 3
+          },
+          {
+            "courseId": "FINANC_3000",
+            "title": "Corporate Finance",
+            "credits": 3
+          },
+          {
+            "courseId": "MANGMT_2700",
+            "title": "Introduction to Entrepreneurship",
+            "credits": 3
+          }
+        ]
+      }
+    ],
+    "samplePlan": [],
+    "generalRequirements": [
+      {
+        "description": "American History/Gov't (MO Law)",
+        "credits": 3
+      }
+    ],
+    "tracks": []
+  },
+  {
     "id": "bs-criminal-justice-studies",
     "name": "BS in Criminal and Justice Studies",
     "college": "College of Health Sciences",
@@ -18476,6 +18880,11 @@
           {
             "courseId": "PSYCH_3020H",
             "title": "Applied Statistical Methods in Psychology - Honors",
+            "credits": 3
+          },
+          {
+            "courseId": "PSYCH_3021",
+            "title": "Statistical Methods for Psychological Research",
             "credits": 3
           }
         ]
