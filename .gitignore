@@ -27,3 +27,4 @@ next-env.d.ts
 # generated static data (built by prebuild script)
 /public/data/by-subject
 /public/data/search-index.json
+/public/data/subject-stats.json

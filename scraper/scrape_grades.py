@@ -66,7 +66,9 @@ def _parse_term(raw: str) -> str:
     if not m:
         return raw
     prefix, year = m.group(1), m.group(2)
-    season = {"FS": "Fall", "SP": "Spring", "SS": "Spring", "SU": "Summer"}.get(prefix, prefix)
+    # MU uses SS = Summer Session. Mapping it to Spring made summer sections
+    # collide with (and be dropped as duplicates of) spring sections.
+    season = {"FS": "Fall", "SP": "Spring", "SS": "Summer", "SU": "Summer"}.get(prefix, prefix)
     return f"{season} {year}"
 
 
@@ -115,7 +117,10 @@ def _scrape_subject(session: requests.Session, subject: str) -> list[dict[str, A
     best = max(tables, key=lambda t: len(t.find_all("tr")))
     rows = best.find_all("tr")
 
-    records: list[dict[str, Any]] = []
+    # One record per (course, term, instructor). A professor often teaches several
+    # sections in a term; sum their grade counts instead of keeping only the first
+    # (run_all.py dedupes on this key, so extra sections used to be discarded).
+    groups: dict[tuple[str, str, str], dict[str, float]] = {}
     for row in rows:
         cells = [td.get_text(" ", strip=True) for td in row.find_all("td")]
         if len(cells) < 13:
@@ -141,19 +146,28 @@ def _scrape_subject(session: requests.Session, subject: str) -> list[dict[str, A
         if total == 0:
             continue
 
-        def pct(n: int) -> float:
+        key = (f"{subj_cell}_{number}", _parse_term(term_raw), instructor)
+        g = groups.setdefault(key, {"a": 0, "b": 0, "c": 0, "d": 0, "f": 0, "gpa_pts": 0.0})
+        g["a"] += a; g["b"] += b; g["c"] += c; g["d"] += d; g["f"] += f
+        g["gpa_pts"] += avg_gpa * total
+
+    records: list[dict[str, Any]] = []
+    for (course_id, term, instructor), g in groups.items():
+        total = g["a"] + g["b"] + g["c"] + g["d"] + g["f"]
+
+        def pct(n: float) -> float:
             return round(n / total * 100, 1)
 
         records.append({
-            "courseId":  f"{subj_cell}_{number}",
-            "term":      _parse_term(term_raw),
+            "courseId":  course_id,
+            "term":      term,
             "professor": instructor,
-            "avgGPA":    avg_gpa,
-            "pctA":      pct(a),
-            "pctB":      pct(b),
-            "pctC":      pct(c),
-            "pctD":      pct(d),
-            "pctF":      pct(f),
+            "avgGPA":    round(g["gpa_pts"] / total, 3),
+            "pctA":      pct(g["a"]),
+            "pctB":      pct(g["b"]),
+            "pctC":      pct(g["c"]),
+            "pctD":      pct(g["d"]),
+            "pctF":      pct(g["f"]),
             "pctW":      0.0,
         })
 

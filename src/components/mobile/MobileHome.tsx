@@ -5,6 +5,7 @@ import Link from 'next/link';
 import Fuse from 'fuse.js';
 import type { Course } from '@/types';
 import CourseCard from '@/components/CourseCard';
+import OlderCoursesToggle, { OLDER_COURSES_NOTE } from '@/components/OlderCoursesToggle';
 
 interface MobileHomeProps {
   initialSubjects: string[];
@@ -20,17 +21,21 @@ interface SubjectData {
   courses: Course[];
   gpaMap: Record<string, number | null>;
   professorCountMap: Record<string, number>;
+  /** Courses with no recent grade data (see scripts/course-activity.js). */
+  inactive?: string[];
+  lastTermMap?: Record<string, string | null>;
 }
 
 interface SearchItem {
   id: string;
   code: string;
   title: string;
+  inactive?: boolean;
 }
 
 type Suggestion =
   | { type: 'subject'; code: string; courseCount: number }
-  | { type: 'course'; id: string; code: string; title: string };
+  | { type: 'course'; id: string; code: string; title: string; inactive?: boolean };
 
 interface HomeSession {
   selected: string | null;
@@ -90,6 +95,7 @@ export default function MobileHome({ initialSubjects, initialCourseCount }: Mobi
   const [minGPA, setMinGPA] = useState(0);
   const [credits, setCredits] = useState<'all' | '1-3' | '4+'>('all');
   const [deptFilter, setDeptFilter] = useState('');
+  const [showOlder, setShowOlder] = useState(false);
 
   const [globalQuery, setGlobalQuery] = useState('');
   const [suggestions, setSuggestions] = useState<Suggestion[]>([]);
@@ -129,6 +135,7 @@ export default function MobileHome({ initialSubjects, initialCourseCount }: Mobi
     }
     setSelected(code);
     setQuery('');
+    setShowOlder(false);
     setSubjectData(null);
     setGlobalQuery('');
     setShowSugs(false);
@@ -185,9 +192,11 @@ export default function MobileHome({ initialSubjects, initialCourseCount }: Mobi
           fuseRef.current = new Fuse(data, { keys: ['title', 'code', 'id'], threshold: 0.35, includeScore: true });
         } catch { return; }
       }
-      const results = fuseRef.current.search(q, { limit: 6 });
+      const results = fuseRef.current.search(q, { limit: 20 })
+        .sort((a, b) => Number(!!a.item.inactive) - Number(!!b.item.inactive) || (a.score ?? 0) - (b.score ?? 0))
+        .slice(0, 6);
       const courseSugs: Suggestion[] = results.map(r => ({
-        type: 'course' as const, id: r.item.id, code: r.item.code, title: r.item.title,
+        type: 'course' as const, id: r.item.id, code: r.item.code, title: r.item.title, inactive: r.item.inactive,
       }));
       const combined = [...subjectSugs, ...courseSugs];
       setSuggestions(combined);
@@ -229,6 +238,10 @@ export default function MobileHome({ initialSubjects, initialCourseCount }: Mobi
       return true;
     });
   }, [query, minGPA, credits, subjectData]);
+
+  const inactiveSet = useMemo(() => new Set(subjectData?.inactive ?? []), [subjectData]);
+  const activeCourses = useMemo(() => filteredCourses.filter(c => !inactiveSet.has(c.id)), [filteredCourses, inactiveSet]);
+  const olderCourses = useMemo(() => filteredCourses.filter(c => inactiveSet.has(c.id)), [filteredCourses, inactiveSet]);
 
   const subjectSugs = suggestions.filter(s => s.type === 'subject');
   const courseSugs = suggestions.filter(s => s.type === 'course');
@@ -301,7 +314,8 @@ export default function MobileHome({ initialSubjects, initialCourseCount }: Mobi
                     <Link key={`c-${sug.id}`} href={`/course/${sug.id}`} onClick={() => setShowSugs(false)} style={{ textDecoration: 'none' }}>
                       <div style={{ display: 'flex', alignItems: 'center', gap: 8, padding: '11px 14px', borderBottom: '1px solid var(--g100)', cursor: 'pointer' }}>
                         <span className="chip chip-black" style={{ fontSize: 10, padding: '2px 7px', flexShrink: 0 }}>{sug.code}</span>
-                        <span className="font-sans" style={{ fontSize: 13, color: 'var(--black)', flex: 1, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{sug.title}</span>
+                        <span className="font-sans" style={{ fontSize: 13, color: sug.inactive ? 'var(--g400)' : 'var(--black)', flex: 1, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{sug.title}</span>
+                        {sug.inactive && <span style={{ fontSize: 10, color: 'var(--g400)', flexShrink: 0 }}>older</span>}
                         <span style={{ fontSize: 10, color: 'var(--gold)', flexShrink: 0 }}>View →</span>
                       </div>
                     </Link>
@@ -451,7 +465,8 @@ export default function MobileHome({ initialSubjects, initialCourseCount }: Mobi
               </div>
               {subjectData && (
                 <span style={{ marginLeft: 'auto', fontSize: 11, color: 'var(--g600)', fontFamily: 'var(--font-sans)' }}>
-                  {filteredCourses.length} course{filteredCourses.length !== 1 ? 's' : ''}
+                  {activeCourses.length} course{activeCourses.length !== 1 ? 's' : ''}
+                  {olderCourses.length > 0 && ` · ${olderCourses.length} older`}
                 </span>
               )}
             </div>
@@ -491,7 +506,12 @@ export default function MobileHome({ initialSubjects, initialCourseCount }: Mobi
           {/* Course list */}
           {subjectData && filteredCourses.length > 0 && (
             <div style={{ padding: '16px 14px 80px', display: 'flex', flexDirection: 'column', gap: 12 }}>
-              {filteredCourses.map((course, i) => (
+              {activeCourses.length === 0 && (
+                <div className="font-sans" style={{ fontSize: 13, color: 'var(--g400)', textAlign: 'center', paddingTop: 12 }}>
+                  No recently offered courses match — check the older ones below.
+                </div>
+              )}
+              {activeCourses.map((course, i) => (
                 <CourseCard
                   key={course.id}
                   course={course}
@@ -500,6 +520,28 @@ export default function MobileHome({ initialSubjects, initialCourseCount }: Mobi
                   index={i}
                 />
               ))}
+              {olderCourses.length > 0 && (
+                <>
+                  <OlderCoursesToggle count={olderCourses.length} open={showOlder || activeCourses.length === 0} onToggle={() => setShowOlder(v => !v)} />
+                  {(showOlder || activeCourses.length === 0) && (
+                    <>
+                      <div className="font-sans" style={{ fontSize: 12, color: 'var(--g400)', textAlign: 'center' }}>
+                        {OLDER_COURSES_NOTE}
+                      </div>
+                      {olderCourses.map((course, i) => (
+                        <CourseCard
+                          key={course.id}
+                          course={course}
+                          avgGPA={subjectData.gpaMap[course.id] ?? null}
+                          professorCount={subjectData.professorCountMap[course.id] ?? 0}
+                          index={i}
+                          lastTerm={subjectData.lastTermMap?.[course.id] ?? null}
+                        />
+                      ))}
+                    </>
+                  )}
+                </>
+              )}
             </div>
           )}
         </>

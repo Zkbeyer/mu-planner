@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import type { Professor, GradeRecord } from '@/types';
+import { termValue } from '@/lib/utils';
 
 export interface MobileProfessorPageProps {
   professor: Professor;
@@ -150,7 +151,7 @@ export default function MobileProfessorPage({ professor, records, courseMap }: M
               {Object.entries(courseRecords).map(([courseId, cRecords]) => {
                 const info = courseMap[courseId];
                 const avgGPA = Math.round((cRecords.reduce((s, r) => s + r.avgGPA, 0) / cRecords.length) * 100) / 100;
-                const latest = [...cRecords].sort((a, b) => b.term.localeCompare(a.term))[0];
+                const latest = [...cRecords].sort((a, b) => termValue(b.term) - termValue(a.term))[0];
                 return (
                   <div key={courseId} className="card" style={{ padding: '16px' }}>
                     <div style={{ display: 'flex', alignItems: 'flex-start', justifyContent: 'space-between', gap: 10, marginBottom: 10 }}>
@@ -176,8 +177,8 @@ export default function MobileProfessorPage({ professor, records, courseMap }: M
 
                     <div style={{ borderTop: '1px solid var(--g100)', paddingTop: 10 }}>
                       <div className="label" style={{ fontSize: 9, marginBottom: 6 }}>All Sections</div>
-                      {[...cRecords].sort((a, b) => b.term.localeCompare(a.term)).map(r => (
-                        <div key={r.term} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', fontSize: 12, color: 'var(--g600)', marginBottom: 3 }}>
+                      {[...cRecords].sort((a, b) => termValue(b.term) - termValue(a.term)).map(r => (
+                        <div key={`${r.term}-${r.avgGPA}`} style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', fontSize: 12, color: 'var(--g600)', marginBottom: 3 }}>
                           <span>{r.term}</span>
                           <span className="font-mono" style={{ color: 'var(--black)' }}>{r.avgGPA.toFixed(2)} GPA</span>
                         </div>

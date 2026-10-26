@@ -1,10 +1,12 @@
 #!/usr/bin/env node
 // Pre-build script: splits courses.json by subject and generates a search index.
 // Output:
-//   public/data/by-subject/{SUBJECT}.json  -> { courses, gpaMap, professorCountMap }
-//   public/data/search-index.json          -> [{ id, code, title }]
+//   public/data/by-subject/{SUBJECT}.json  -> { courses, gpaMap, professorCountMap, inactive, lastTermMap }
+//   public/data/search-index.json          -> [{ id, code, title, inactive? }]
+//   public/data/subject-stats.json         -> { [SUBJECT]: { total, active } }
 const fs = require('fs');
 const path = require('path');
+const { classifyCourses } = require('./course-activity');
 
 const DATA_DIR = path.join(__dirname, '..', 'public', 'data');
 const BY_SUBJECT_DIR = path.join(DATA_DIR, 'by-subject');
@@ -20,6 +22,7 @@ function readJson(file, fallback) {
 console.log('Reading source data files...');
 const courses = readJson('courses.json', []);
 const gradeDist = readJson('grade_dist.json', []);
+const degrees = readJson('degrees.json', []);
 
 if (!courses.length) {
   console.log('No courses found — skipping split.');
@@ -48,7 +51,12 @@ for (const r of gradeDist) {
   profsByCourse[r.courseId].add(r.professor);
 }
 
+const { active, lastTerm } = classifyCourses(courses, gradeDist, degrees);
+const activeCount = courses.filter(c => active[c.id]).length;
+console.log(`Active courses: ${activeCount} of ${courses.length} (${courses.length - activeCount} tucked away)`);
+
 fs.mkdirSync(BY_SUBJECT_DIR, { recursive: true });
+const subjectStats = {};
 
 const subjects = Object.keys(coursesBySubject).sort();
 console.log(`Generating ${subjects.length} subject files...`);
@@ -65,11 +73,18 @@ for (const subject of subjects) {
     professorCountMap[c.id] = profsByCourse[c.id]?.size ?? 0;
   }
 
+  // Only inactive ids are listed, to keep the files small.
+  const inactive = subjectCourses.filter(c => !active[c.id]).map(c => c.id);
+  const lastTermMap = {};
+  for (const id of inactive) lastTermMap[id] = lastTerm[id] ?? null;
+  subjectStats[subject] = { total: subjectCourses.length, active: subjectCourses.length - inactive.length };
+
   fs.writeFileSync(
     path.join(BY_SUBJECT_DIR, `${subject}.json`),
-    JSON.stringify({ courses: subjectCourses, gpaMap, professorCountMap })
+    JSON.stringify({ courses: subjectCourses, gpaMap, professorCountMap, inactive, lastTermMap })
   );
 }
+fs.writeFileSync(path.join(DATA_DIR, 'subject-stats.json'), JSON.stringify(subjectStats));
 
 // Search index: one entry per course
 console.log('Generating search index...');
@@ -77,6 +92,7 @@ const searchIndex = courses.map(c => ({
   id: c.id,
   code: `${c.subject} ${c.number}`,
   title: c.title,
+  ...(active[c.id] ? {} : { inactive: true }),
 }));
 fs.writeFileSync(
   path.join(DATA_DIR, 'search-index.json'),
