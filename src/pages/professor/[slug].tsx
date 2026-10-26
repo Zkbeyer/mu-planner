@@ -2,7 +2,7 @@ import type { GetStaticProps, GetStaticPaths } from 'next';
 import Head from 'next/head';
 import Link from 'next/link';
 import type { Professor, GradeRecord, Course } from '@/types';
-import { professorSlug } from '@/lib/utils';
+import { professorSlug, termValue } from '@/lib/utils';
 import { readProfessors, readGradeDist, readCourses } from '@/lib/data-server';
 import { useIsMobile } from '@/lib/hooks';
 import MobileProfessorPage from '@/components/mobile/MobileProfessorPage';
@@ -113,7 +113,7 @@ export default function ProfessorPage({ professor, records, courseMap }: Profess
                   {Object.entries(courseRecords).map(([courseId, cRecords]) => {
                     const info = courseMap[courseId];
                     const avgGPA = Math.round((cRecords.reduce((s, r) => s + r.avgGPA, 0) / cRecords.length) * 100) / 100;
-                    const latest = [...cRecords].sort((a, b) => b.term.localeCompare(a.term))[0];
+                    const latest = [...cRecords].sort((a, b) => termValue(b.term) - termValue(a.term))[0];
                     return (
                       <div key={courseId} className="card" style={{ padding: '18px 20px' }}>
                         <div className="flex items-start justify-between gap-4 mb-3">
@@ -141,8 +141,8 @@ export default function ProfessorPage({ professor, records, courseMap }: Profess
                         <div style={{ borderTop: '1px solid var(--g100)', paddingTop: 10, marginTop: 2 }}>
                           <div className="label" style={{ marginBottom: 6 }}>All Sections</div>
                           <div style={{ display: 'flex', flexDirection: 'column', gap: 4 }}>
-                            {[...cRecords].sort((a, b) => b.term.localeCompare(a.term)).map((r) => (
-                              <div key={r.term} className="flex justify-between items-center font-sans text-xs" style={{ color: 'var(--g600)' }}>
+                            {[...cRecords].sort((a, b) => termValue(b.term) - termValue(a.term)).map((r) => (
+                              <div key={`${r.term}-${r.avgGPA}`} className="flex justify-between items-center font-sans text-xs" style={{ color: 'var(--g600)' }}>
                                 <span>{r.term}</span>
                                 <span className="font-mono" style={{ color: 'var(--black)' }}>{r.avgGPA.toFixed(2)} GPA</span>
                               </div>

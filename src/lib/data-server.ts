@@ -22,6 +22,11 @@ export function readSubjects(): string[] {
   return [...new Set(readCourses().map(c => c.subject))].sort();
 }
 
+/** Per-subject course counts written by scripts/split-courses.js (prebuild). */
+export function readSubjectStats(): Record<string, { total: number; active: number }> {
+  return readJson<Record<string, { total: number; active: number }>>('subject-stats.json', {});
+}
+
 export function readGradeDist(): GradeRecord[] {
   return readJson<GradeRecord[]>('grade_dist.json', []);
 }

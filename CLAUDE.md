@@ -24,7 +24,9 @@ All source data lives in `public/data/`:
 - `professors.json` — `{ [professorName]: Professor }` object from RMP scrape
 - `subjects.json`, `degrees.json`, `college_requirements.json`
 
-**Build-time split** (`scripts/split-courses.js`): Generates `public/data/by-subject/{SUBJECT}.json` (each file contains `{ courses, gpaMap, professorCountMap }`) and `public/data/search-index.json`. The home page lazy-loads these per-subject files client-side when a department is selected.
+**Build-time split** (`scripts/split-courses.js`): Generates `public/data/by-subject/{SUBJECT}.json` (each file contains `{ courses, gpaMap, professorCountMap, inactive, lastTermMap }`), `public/data/search-index.json`, and `public/data/subject-stats.json`. The home page lazy-loads these per-subject files client-side when a department is selected.
+
+**Older courses** (`scripts/course-activity.js`): Courses with no grade data in the last 3 years (rolling from the newest term) are marked inactive and tucked behind a "Show N older courses" toggle on the home page; search ranks them last. W/H variants, cross-leveled/"same as" siblings, and degree-referenced courses inherit active status, and departments with <20% grade coverage are never hidden. Nothing is removed from the data — course pages and saved plans still work.
 
 **Server reads** (`src/lib/data-server.ts`): Used only in `getStaticProps`/`getStaticPaths` — reads the JSON files directly from disk via `fs`. Never imported in client code. Module-level caches (`let _courses = null`) are used in page files to avoid re-reading large files across many static paths.
 
